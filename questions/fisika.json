@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "FIS-0001",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 11 m/s selama 21 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "32 m",
+      "252 m",
+      "231 m",
+      "220 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=11×21=231 m."
+  },
+  {
+    "id": "FIS-0002",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 29 m/s selama 4 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "87 m",
+      "120 m",
+      "116 m",
+      "33 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=29×4=116 m."
+  },
+  {
+    "id": "FIS-0003",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 6 m/s selama 19 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "25 m",
+      "133 m",
+      "114 m",
+      "108 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=6×19=114 m."
+  },
+  {
+    "id": "FIS-0004",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 9 m/s selama 18 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "153 m",
+      "162 m",
+      "180 m",
+      "27 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=9×18=162 m."
+  },
+  {
+    "id": "FIS-0005",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 25 m/s selama 17 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "400 m",
+      "425 m",
+      "442 m",
+      "42 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=25×17=425 m."
+  },
+  {
+    "id": "FIS-0006",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 30 m/s selama 21 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "630 m",
+      "51 m",
+      "600 m",
+      "651 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=30×21=630 m."
+  },
+  {
+    "id": "FIS-0007",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 9 m/s selama 7 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "54 m",
+      "70 m",
+      "16 m",
+      "63 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=9×7=63 m."
+  },
+  {
+    "id": "FIS-0008",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 14 m/s selama 8 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "120 m",
+      "22 m",
+      "112 m",
+      "98 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=14×8=112 m."
+  },
+  {
+    "id": "FIS-0009",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 14 m/s selama 4 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "56 m",
+      "42 m",
+      "18 m",
+      "60 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=14×4=56 m."
+  },
+  {
+    "id": "FIS-0010",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 11 m/s selama 20 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "240 m",
+      "31 m",
+      "220 m",
+      "209 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=11×20=220 m."
+  },
+  {
+    "id": "FIS-0011",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 26 m/s selama 13 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "338 m",
+      "351 m",
+      "312 m",
+      "39 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=26×13=338 m."
+  },
+  {
+    "id": "FIS-0012",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 5 m/s selama 23 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "115 m",
+      "28 m",
+      "138 m",
+      "110 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=5×23=115 m."
+  },
+  {
+    "id": "FIS-0013",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 13 m/s selama 23 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "36 m",
+      "286 m",
+      "299 m",
+      "322 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=13×23=299 m."
+  },
+  {
+    "id": "FIS-0014",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 10 m/s selama 16 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "160 m",
+      "26 m",
+      "150 m",
+      "176 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=10×16=160 m."
+  },
+  {
+    "id": "FIS-0015",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 6 m/s selama 13 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "72 m",
+      "19 m",
+      "91 m",
+      "78 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=6×13=78 m."
+  },
+  {
+    "id": "FIS-0016",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 20 m/s selama 6 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "100 m",
+      "26 m",
+      "120 m",
+      "126 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=20×6=120 m."
+  },
+  {
+    "id": "FIS-0017",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 21 m/s selama 25 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "525 m",
+      "504 m",
+      "550 m",
+      "46 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=21×25=525 m."
+  },
+  {
+    "id": "FIS-0018",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 16 m/s selama 4 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "48 m",
+      "20 m",
+      "64 m",
+      "68 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=16×4=64 m."
+  },
+  {
+    "id": "FIS-0019",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 23 m/s selama 21 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "483 m",
+      "504 m",
+      "460 m",
+      "44 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=23×21=483 m."
+  },
+  {
+    "id": "FIS-0020",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 14 m/s selama 24 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "360 m",
+      "38 m",
+      "336 m",
+      "322 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=14×24=336 m."
+  },
+  {
+    "id": "FIS-0021",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 13 m/s selama 21 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "260 m",
+      "273 m",
+      "34 m",
+      "294 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=13×21=273 m."
+  },
+  {
+    "id": "FIS-0022",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 28 m/s selama 18 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "46 m",
+      "476 m",
+      "504 m",
+      "522 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=28×18=504 m."
+  },
+  {
+    "id": "FIS-0023",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 26 m/s selama 18 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "468 m",
+      "486 m",
+      "44 m",
+      "442 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=26×18=468 m."
+  },
+  {
+    "id": "FIS-0024",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 29 m/s selama 13 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "390 m",
+      "348 m",
+      "42 m",
+      "377 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=29×13=377 m."
+  },
+  {
+    "id": "FIS-0025",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 10 m/s selama 11 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "110 m",
+      "21 m",
+      "121 m",
+      "100 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=10×11=110 m."
+  },
+  {
+    "id": "FIS-0026",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 5 m/s selama 6 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "25 m",
+      "30 m",
+      "36 m",
+      "11 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=5×6=30 m."
+  },
+  {
+    "id": "FIS-0027",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 29 m/s selama 11 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "290 m",
+      "40 m",
+      "330 m",
+      "319 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=29×11=319 m."
+  },
+  {
+    "id": "FIS-0028",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 26 m/s selama 20 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "540 m",
+      "494 m",
+      "520 m",
+      "46 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=26×20=520 m."
+  },
+  {
+    "id": "FIS-0029",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 29 m/s selama 11 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "319 m",
+      "330 m",
+      "290 m",
+      "40 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=29×11=319 m."
+  },
+  {
+    "id": "FIS-0030",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 7 m/s selama 15 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "22 m",
+      "98 m",
+      "105 m",
+      "120 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=7×15=105 m."
+  },
+  {
+    "id": "FIS-0031",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 30 m/s selama 18 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "540 m",
+      "48 m",
+      "510 m",
+      "558 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=30×18=540 m."
+  },
+  {
+    "id": "FIS-0032",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 8 m/s selama 23 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "176 m",
+      "31 m",
+      "184 m",
+      "207 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=8×23=184 m."
+  },
+  {
+    "id": "FIS-0033",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 12 m/s selama 17 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "221 m",
+      "29 m",
+      "192 m",
+      "204 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=12×17=204 m."
+  },
+  {
+    "id": "FIS-0034",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 17 m/s selama 13 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "234 m",
+      "204 m",
+      "30 m",
+      "221 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=17×13=221 m."
+  },
+  {
+    "id": "FIS-0035",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 14 m/s selama 7 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "98 m",
+      "84 m",
+      "105 m",
+      "21 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=14×7=98 m."
+  },
+  {
+    "id": "FIS-0036",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 11 m/s selama 24 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "264 m",
+      "35 m",
+      "288 m",
+      "253 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=11×24=264 m."
+  },
+  {
+    "id": "FIS-0037",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 9 m/s selama 14 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "140 m",
+      "23 m",
+      "126 m",
+      "117 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=9×14=126 m."
+  },
+  {
+    "id": "FIS-0038",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 9 m/s selama 8 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "17 m",
+      "72 m",
+      "80 m",
+      "63 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=9×8=72 m."
+  },
+  {
+    "id": "FIS-0039",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 15 m/s selama 8 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "120 m",
+      "23 m",
+      "105 m",
+      "128 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=15×8=120 m."
+  },
+  {
+    "id": "FIS-0040",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 23 m/s selama 16 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "384 m",
+      "345 m",
+      "368 m",
+      "39 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=23×16=368 m."
+  },
+  {
+    "id": "FIS-0041",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 7 m/s selama 17 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "136 m",
+      "24 m",
+      "112 m",
+      "119 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=7×17=119 m."
+  },
+  {
+    "id": "FIS-0042",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 19 m/s selama 7 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "133 m",
+      "26 m",
+      "140 m",
+      "114 m"
+    ],
+    "answer": 0,
+    "explanation": "s=vt=19×7=133 m."
+  },
+  {
+    "id": "FIS-0043",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 19 m/s selama 16 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "35 m",
+      "320 m",
+      "285 m",
+      "304 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=19×16=304 m."
+  },
+  {
+    "id": "FIS-0044",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 15 m/s selama 20 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "35 m",
+      "285 m",
+      "300 m",
+      "320 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=15×20=300 m."
+  },
+  {
+    "id": "FIS-0045",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 11 m/s selama 6 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "55 m",
+      "66 m",
+      "17 m",
+      "72 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=11×6=66 m."
+  },
+  {
+    "id": "FIS-0046",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 24 m/s selama 8 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "32 m",
+      "168 m",
+      "200 m",
+      "192 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=24×8=192 m."
+  },
+  {
+    "id": "FIS-0047",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 18 m/s selama 25 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "475 m",
+      "450 m",
+      "432 m",
+      "43 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=18×25=450 m."
+  },
+  {
+    "id": "FIS-0048",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 15 m/s selama 15 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "30 m",
+      "225 m",
+      "210 m",
+      "240 m"
+    ],
+    "answer": 1,
+    "explanation": "s=vt=15×15=225 m."
+  },
+  {
+    "id": "FIS-0049",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 24 m/s selama 7 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "31 m",
+      "144 m",
+      "175 m",
+      "168 m"
+    ],
+    "answer": 3,
+    "explanation": "s=vt=24×7=168 m."
+  },
+  {
+    "id": "FIS-0050",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Sebuah benda bergerak dengan kecepatan tetap 26 m/s selama 9 s. Jarak tempuhnya adalah ...",
+    "options": [
+      "208 m",
+      "243 m",
+      "234 m",
+      "35 m"
+    ],
+    "answer": 2,
+    "explanation": "s=vt=26×9=234 m."
+  },
+  {
+    "id": "FIS-0051",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 13 m/s dan percepatannya 7 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "14 m/s",
+      "20 m/s",
+      "26 m/s",
+      "27 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=13+7×2=27 m/s."
+  },
+  {
+    "id": "FIS-0052",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 1 m/s dan percepatannya 6 m/s² selama 7 s. Kecepatan akhirnya ...",
+    "options": [
+      "7 m/s",
+      "37 m/s",
+      "42 m/s",
+      "43 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=1+6×7=43 m/s."
+  },
+  {
+    "id": "FIS-0053",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 11 m/s dan percepatannya 4 m/s² selama 5 s. Kecepatan akhirnya ...",
+    "options": [
+      "20 m/s",
+      "31 m/s",
+      "27 m/s",
+      "55 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=11+4×5=31 m/s."
+  },
+  {
+    "id": "FIS-0054",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 13 m/s dan percepatannya 3 m/s² selama 8 s. Kecepatan akhirnya ...",
+    "options": [
+      "37 m/s",
+      "24 m/s",
+      "104 m/s",
+      "34 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=13+3×8=37 m/s."
+  },
+  {
+    "id": "FIS-0055",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 9 m/s dan percepatannya 3 m/s² selama 6 s. Kecepatan akhirnya ...",
+    "options": [
+      "18 m/s",
+      "24 m/s",
+      "27 m/s",
+      "54 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=9+3×6=27 m/s."
+  },
+  {
+    "id": "FIS-0056",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 6 m/s dan percepatannya 6 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "66 m/s",
+      "54 m/s",
+      "60 m/s",
+      "63 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=6+6×9=60 m/s."
+  },
+  {
+    "id": "FIS-0057",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 7 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "28 m/s",
+      "23 m/s",
+      "8 m/s",
+      "30 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=2+7×4=30 m/s."
+  },
+  {
+    "id": "FIS-0058",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 14 m/s dan percepatannya 4 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "50 m/s",
+      "46 m/s",
+      "36 m/s",
+      "126 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=14+4×9=50 m/s."
+  },
+  {
+    "id": "FIS-0059",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 7 m/s dan percepatannya 8 m/s² selama 6 s. Kecepatan akhirnya ...",
+    "options": [
+      "47 m/s",
+      "55 m/s",
+      "42 m/s",
+      "48 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=7+8×6=55 m/s."
+  },
+  {
+    "id": "FIS-0060",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 7 m/s dan percepatannya 5 m/s² selama 6 s. Kecepatan akhirnya ...",
+    "options": [
+      "32 m/s",
+      "30 m/s",
+      "42 m/s",
+      "37 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=7+5×6=37 m/s."
+  },
+  {
+    "id": "FIS-0061",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 5 m/s dan percepatannya 3 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "15 m/s",
+      "14 m/s",
+      "11 m/s",
+      "9 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=5+3×3=14 m/s."
+  },
+  {
+    "id": "FIS-0062",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 14 m/s dan percepatannya 5 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "24 m/s",
+      "29 m/s",
+      "42 m/s",
+      "15 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=14+5×3=29 m/s."
+  },
+  {
+    "id": "FIS-0063",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 4 m/s dan percepatannya 4 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "8 m/s",
+      "15 m/s",
+      "18 m/s",
+      "12 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=4+4×2=12 m/s."
+  },
+  {
+    "id": "FIS-0064",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 3 m/s dan percepatannya 4 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "27 m/s",
+      "35 m/s",
+      "36 m/s",
+      "39 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=3+4×9=39 m/s."
+  },
+  {
+    "id": "FIS-0065",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 4 m/s² selama 10 s. Kecepatan akhirnya ...",
+    "options": [
+      "42 m/s",
+      "38 m/s",
+      "20 m/s",
+      "40 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=2+4×10=42 m/s."
+  },
+  {
+    "id": "FIS-0066",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 7 m/s dan percepatannya 4 m/s² selama 5 s. Kecepatan akhirnya ...",
+    "options": [
+      "20 m/s",
+      "35 m/s",
+      "27 m/s",
+      "23 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=7+4×5=27 m/s."
+  },
+  {
+    "id": "FIS-0067",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 13 m/s dan percepatannya 4 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "21 m/s",
+      "12 m/s",
+      "39 m/s",
+      "25 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=13+4×3=25 m/s."
+  },
+  {
+    "id": "FIS-0068",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 8 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "26 m/s",
+      "18 m/s",
+      "24 m/s",
+      "6 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=2+8×3=26 m/s."
+  },
+  {
+    "id": "FIS-0069",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 1 m/s dan percepatannya 2 m/s² selama 10 s. Kecepatan akhirnya ...",
+    "options": [
+      "20 m/s",
+      "19 m/s",
+      "21 m/s",
+      "10 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=1+2×10=21 m/s."
+  },
+  {
+    "id": "FIS-0070",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 6 m/s dan percepatannya 4 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "36 m/s",
+      "42 m/s",
+      "54 m/s",
+      "38 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=6+4×9=42 m/s."
+  },
+  {
+    "id": "FIS-0071",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 12 m/s dan percepatannya 6 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "18 m/s",
+      "27 m/s",
+      "24 m/s",
+      "12 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=12+6×2=24 m/s."
+  },
+  {
+    "id": "FIS-0072",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 8 m/s dan percepatannya 7 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "32 m/s",
+      "29 m/s",
+      "28 m/s",
+      "36 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=8+7×4=36 m/s."
+  },
+  {
+    "id": "FIS-0073",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 5 m/s dan percepatannya 7 m/s² selama 7 s. Kecepatan akhirnya ...",
+    "options": [
+      "35 m/s",
+      "49 m/s",
+      "47 m/s",
+      "54 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=5+7×7=54 m/s."
+  },
+  {
+    "id": "FIS-0074",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 14 m/s dan percepatannya 8 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "22 m/s",
+      "16 m/s",
+      "30 m/s",
+      "28 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=14+8×2=30 m/s."
+  },
+  {
+    "id": "FIS-0075",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 15 m/s dan percepatannya 2 m/s² selama 6 s. Kecepatan akhirnya ...",
+    "options": [
+      "12 m/s",
+      "90 m/s",
+      "25 m/s",
+      "27 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=15+2×6=27 m/s."
+  },
+  {
+    "id": "FIS-0076",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 3 m/s² selama 10 s. Kecepatan akhirnya ...",
+    "options": [
+      "20 m/s",
+      "29 m/s",
+      "32 m/s",
+      "30 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=2+3×10=32 m/s."
+  },
+  {
+    "id": "FIS-0077",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 8 m/s² selama 8 s. Kecepatan akhirnya ...",
+    "options": [
+      "64 m/s",
+      "16 m/s",
+      "58 m/s",
+      "66 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=2+8×8=66 m/s."
+  },
+  {
+    "id": "FIS-0078",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 15 m/s dan percepatannya 3 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "30 m/s",
+      "18 m/s",
+      "6 m/s",
+      "21 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=15+3×2=21 m/s."
+  },
+  {
+    "id": "FIS-0079",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 1 m/s dan percepatannya 4 m/s² selama 10 s. Kecepatan akhirnya ...",
+    "options": [
+      "41 m/s",
+      "37 m/s",
+      "10 m/s",
+      "40 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=1+4×10=41 m/s."
+  },
+  {
+    "id": "FIS-0080",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 12 m/s dan percepatannya 2 m/s² selama 8 s. Kecepatan akhirnya ...",
+    "options": [
+      "96 m/s",
+      "28 m/s",
+      "26 m/s",
+      "16 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=12+2×8=28 m/s."
+  },
+  {
+    "id": "FIS-0081",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 12 m/s dan percepatannya 2 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "28 m/s",
+      "108 m/s",
+      "30 m/s",
+      "18 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=12+2×9=30 m/s."
+  },
+  {
+    "id": "FIS-0082",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 11 m/s dan percepatannya 8 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "75 m/s",
+      "83 m/s",
+      "72 m/s",
+      "99 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=11+8×9=83 m/s."
+  },
+  {
+    "id": "FIS-0083",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 7 m/s dan percepatannya 5 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "17 m/s",
+      "15 m/s",
+      "22 m/s",
+      "21 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=7+5×3=22 m/s."
+  },
+  {
+    "id": "FIS-0084",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 10 m/s dan percepatannya 4 m/s² selama 5 s. Kecepatan akhirnya ...",
+    "options": [
+      "30 m/s",
+      "50 m/s",
+      "20 m/s",
+      "26 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=10+4×5=30 m/s."
+  },
+  {
+    "id": "FIS-0085",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 8 m/s dan percepatannya 3 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "17 m/s",
+      "20 m/s",
+      "12 m/s",
+      "32 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=8+3×4=20 m/s."
+  },
+  {
+    "id": "FIS-0086",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 12 m/s dan percepatannya 6 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "54 m/s",
+      "108 m/s",
+      "60 m/s",
+      "66 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=12+6×9=66 m/s."
+  },
+  {
+    "id": "FIS-0087",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 9 m/s dan percepatannya 6 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "33 m/s",
+      "27 m/s",
+      "36 m/s",
+      "24 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=9+6×4=33 m/s."
+  },
+  {
+    "id": "FIS-0088",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 3 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "6 m/s",
+      "9 m/s",
+      "8 m/s",
+      "11 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=2+3×3=11 m/s."
+  },
+  {
+    "id": "FIS-0089",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 3 m/s dan percepatannya 8 m/s² selama 6 s. Kecepatan akhirnya ...",
+    "options": [
+      "18 m/s",
+      "43 m/s",
+      "48 m/s",
+      "51 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=3+8×6=51 m/s."
+  },
+  {
+    "id": "FIS-0090",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 3 m/s dan percepatannya 3 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "33 m/s",
+      "30 m/s",
+      "27 m/s",
+      "36 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=3+3×9=30 m/s."
+  },
+  {
+    "id": "FIS-0091",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 6 m/s dan percepatannya 2 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "14 m/s",
+      "12 m/s",
+      "24 m/s",
+      "8 m/s"
+    ],
+    "answer": 0,
+    "explanation": "v=u+at=6+2×4=14 m/s."
+  },
+  {
+    "id": "FIS-0092",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 6 m/s dan percepatannya 5 m/s² selama 9 s. Kecepatan akhirnya ...",
+    "options": [
+      "45 m/s",
+      "46 m/s",
+      "54 m/s",
+      "51 m/s"
+    ],
+    "answer": 3,
+    "explanation": "v=u+at=6+5×9=51 m/s."
+  },
+  {
+    "id": "FIS-0093",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 1 m/s dan percepatannya 7 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "2 m/s",
+      "8 m/s",
+      "15 m/s",
+      "14 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=1+7×2=15 m/s."
+  },
+  {
+    "id": "FIS-0094",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 11 m/s dan percepatannya 2 m/s² selama 10 s. Kecepatan akhirnya ...",
+    "options": [
+      "110 m/s",
+      "31 m/s",
+      "20 m/s",
+      "29 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=11+2×10=31 m/s."
+  },
+  {
+    "id": "FIS-0095",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 9 m/s dan percepatannya 2 m/s² selama 7 s. Kecepatan akhirnya ...",
+    "options": [
+      "63 m/s",
+      "23 m/s",
+      "14 m/s",
+      "21 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=9+2×7=23 m/s."
+  },
+  {
+    "id": "FIS-0096",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 2 m/s dan percepatannya 2 m/s² selama 5 s. Kecepatan akhirnya ...",
+    "options": [
+      "10 m/s",
+      "18 m/s",
+      "12 m/s",
+      "15 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=2+2×5=12 m/s."
+  },
+  {
+    "id": "FIS-0097",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 13 m/s dan percepatannya 7 m/s² selama 5 s. Kecepatan akhirnya ...",
+    "options": [
+      "35 m/s",
+      "48 m/s",
+      "41 m/s",
+      "65 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=13+7×5=48 m/s."
+  },
+  {
+    "id": "FIS-0098",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 2,
+    "question": "Kecepatan awal benda 14 m/s dan percepatannya 2 m/s² selama 3 s. Kecepatan akhirnya ...",
+    "options": [
+      "18 m/s",
+      "20 m/s",
+      "6 m/s",
+      "42 m/s"
+    ],
+    "answer": 1,
+    "explanation": "v=u+at=14+2×3=20 m/s."
+  },
+  {
+    "id": "FIS-0099",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 3,
+    "question": "Kecepatan awal benda 5 m/s dan percepatannya 5 m/s² selama 2 s. Kecepatan akhirnya ...",
+    "options": [
+      "10 m/s",
+      "21 m/s",
+      "15 m/s",
+      "18 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=5+5×2=15 m/s."
+  },
+  {
+    "id": "FIS-0100",
+    "category": "Fisika",
+    "topic": "Gerak Lurus",
+    "level": 4,
+    "question": "Kecepatan awal benda 12 m/s dan percepatannya 4 m/s² selama 4 s. Kecepatan akhirnya ...",
+    "options": [
+      "24 m/s",
+      "48 m/s",
+      "28 m/s",
+      "16 m/s"
+    ],
+    "answer": 2,
+    "explanation": "v=u+at=12+4×4=28 m/s."
+  },
+  {
+    "id": "FIS-0101",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 8 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "16 N",
+      "64 N",
+      "0 N",
+      "72 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=8×8=64 N."
+  },
+  {
+    "id": "FIS-0102",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 13 kg mengalami percepatan 5 m/s². Resultan gaya ...",
+    "options": [
+      "65 N",
+      "78 N",
+      "18 N",
+      "8 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=13×5=65 N."
+  },
+  {
+    "id": "FIS-0103",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 4 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "40 N",
+      "14 N",
+      "44 N",
+      "6 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=4×10=40 N."
+  },
+  {
+    "id": "FIS-0104",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 8 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "0 N",
+      "16 N",
+      "64 N",
+      "72 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=8×8=64 N."
+  },
+  {
+    "id": "FIS-0105",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 11 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "66 N",
+      "17 N",
+      "5 N",
+      "77 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=11×6=66 N."
+  },
+  {
+    "id": "FIS-0106",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 5 kg mengalami percepatan 3 m/s². Resultan gaya ...",
+    "options": [
+      "2 N",
+      "15 N",
+      "8 N",
+      "20 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=5×3=15 N."
+  },
+  {
+    "id": "FIS-0107",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 7 kg mengalami percepatan 9 m/s². Resultan gaya ...",
+    "options": [
+      "2 N",
+      "16 N",
+      "63 N",
+      "70 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=7×9=63 N."
+  },
+  {
+    "id": "FIS-0108",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 2 kg mengalami percepatan 2 m/s². Resultan gaya ...",
+    "options": [
+      "4 N",
+      "0 N",
+      "7 N",
+      "6 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=2×2=4 N."
+  },
+  {
+    "id": "FIS-0109",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 8 kg mengalami percepatan 2 m/s². Resultan gaya ...",
+    "options": [
+      "10 N",
+      "6 N",
+      "24 N",
+      "16 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=8×2=16 N."
+  },
+  {
+    "id": "FIS-0110",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 4 kg mengalami percepatan 4 m/s². Resultan gaya ...",
+    "options": [
+      "0 N",
+      "16 N",
+      "20 N",
+      "8 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=4×4=16 N."
+  },
+  {
+    "id": "FIS-0111",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 11 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "66 N",
+      "17 N",
+      "5 N",
+      "77 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=11×6=66 N."
+  },
+  {
+    "id": "FIS-0112",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 3 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "33 N",
+      "13 N",
+      "7 N",
+      "30 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=3×10=30 N."
+  },
+  {
+    "id": "FIS-0113",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 13 kg mengalami percepatan 9 m/s². Resultan gaya ...",
+    "options": [
+      "4 N",
+      "22 N",
+      "117 N",
+      "130 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=13×9=117 N."
+  },
+  {
+    "id": "FIS-0114",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 12 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "96 N",
+      "5 N",
+      "19 N",
+      "84 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=12×7=84 N."
+  },
+  {
+    "id": "FIS-0115",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 7 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "3 N",
+      "17 N",
+      "77 N",
+      "70 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=7×10=70 N."
+  },
+  {
+    "id": "FIS-0116",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 13 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "6 N",
+      "104 N",
+      "20 N",
+      "91 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=13×7=91 N."
+  },
+  {
+    "id": "FIS-0117",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 15 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "135 N",
+      "7 N",
+      "120 N",
+      "23 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=15×8=120 N."
+  },
+  {
+    "id": "FIS-0118",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 10 kg mengalami percepatan 5 m/s². Resultan gaya ...",
+    "options": [
+      "15 N",
+      "60 N",
+      "5 N",
+      "50 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=10×5=50 N."
+  },
+  {
+    "id": "FIS-0119",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 4 kg mengalami percepatan 4 m/s². Resultan gaya ...",
+    "options": [
+      "20 N",
+      "0 N",
+      "8 N",
+      "16 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=4×4=16 N."
+  },
+  {
+    "id": "FIS-0120",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 2 kg mengalami percepatan 4 m/s². Resultan gaya ...",
+    "options": [
+      "10 N",
+      "2 N",
+      "6 N",
+      "8 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=2×4=8 N."
+  },
+  {
+    "id": "FIS-0121",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 8 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "1 N",
+      "56 N",
+      "15 N",
+      "64 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=8×7=56 N."
+  },
+  {
+    "id": "FIS-0122",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 14 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "98 N",
+      "20 N",
+      "8 N",
+      "84 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=14×6=84 N."
+  },
+  {
+    "id": "FIS-0123",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 2 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "16 N",
+      "10 N",
+      "6 N",
+      "18 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=2×8=16 N."
+  },
+  {
+    "id": "FIS-0124",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 8 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "15 N",
+      "56 N",
+      "1 N",
+      "64 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=8×7=56 N."
+  },
+  {
+    "id": "FIS-0125",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 6 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "14 N",
+      "2 N",
+      "48 N",
+      "54 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=6×8=48 N."
+  },
+  {
+    "id": "FIS-0126",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 7 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "49 N",
+      "56 N",
+      "14 N",
+      "0 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=7×7=49 N."
+  },
+  {
+    "id": "FIS-0127",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 14 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "84 N",
+      "98 N",
+      "8 N",
+      "20 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=14×6=84 N."
+  },
+  {
+    "id": "FIS-0128",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 11 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "77 N",
+      "66 N",
+      "17 N",
+      "5 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=11×6=66 N."
+  },
+  {
+    "id": "FIS-0129",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 7 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "63 N",
+      "15 N",
+      "1 N",
+      "56 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=7×8=56 N."
+  },
+  {
+    "id": "FIS-0130",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 9 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "99 N",
+      "1 N",
+      "19 N",
+      "90 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=9×10=90 N."
+  },
+  {
+    "id": "FIS-0131",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 6 kg mengalami percepatan 2 m/s². Resultan gaya ...",
+    "options": [
+      "4 N",
+      "8 N",
+      "18 N",
+      "12 N"
+    ],
+    "answer": 3,
+    "explanation": "F=ma=6×2=12 N."
+  },
+  {
+    "id": "FIS-0132",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 8 kg mengalami percepatan 2 m/s². Resultan gaya ...",
+    "options": [
+      "6 N",
+      "16 N",
+      "24 N",
+      "10 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=8×2=16 N."
+  },
+  {
+    "id": "FIS-0133",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 5 kg mengalami percepatan 9 m/s². Resultan gaya ...",
+    "options": [
+      "45 N",
+      "14 N",
+      "50 N",
+      "4 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=5×9=45 N."
+  },
+  {
+    "id": "FIS-0134",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 13 kg mengalami percepatan 5 m/s². Resultan gaya ...",
+    "options": [
+      "78 N",
+      "8 N",
+      "65 N",
+      "18 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=13×5=65 N."
+  },
+  {
+    "id": "FIS-0135",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 6 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "42 N",
+      "13 N",
+      "48 N",
+      "1 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=6×7=42 N."
+  },
+  {
+    "id": "FIS-0136",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 3 kg mengalami percepatan 3 m/s². Resultan gaya ...",
+    "options": [
+      "6 N",
+      "9 N",
+      "12 N",
+      "0 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=3×3=9 N."
+  },
+  {
+    "id": "FIS-0137",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 9 kg mengalami percepatan 3 m/s². Resultan gaya ...",
+    "options": [
+      "6 N",
+      "12 N",
+      "27 N",
+      "36 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=9×3=27 N."
+  },
+  {
+    "id": "FIS-0138",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 11 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "88 N",
+      "99 N",
+      "3 N",
+      "19 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=11×8=88 N."
+  },
+  {
+    "id": "FIS-0139",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 11 kg mengalami percepatan 2 m/s². Resultan gaya ...",
+    "options": [
+      "9 N",
+      "22 N",
+      "13 N",
+      "33 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=11×2=22 N."
+  },
+  {
+    "id": "FIS-0140",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 7 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "70 N",
+      "17 N",
+      "77 N",
+      "3 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=7×10=70 N."
+  },
+  {
+    "id": "FIS-0141",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 15 kg mengalami percepatan 4 m/s². Resultan gaya ...",
+    "options": [
+      "60 N",
+      "75 N",
+      "11 N",
+      "19 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=15×4=60 N."
+  },
+  {
+    "id": "FIS-0142",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 12 kg mengalami percepatan 4 m/s². Resultan gaya ...",
+    "options": [
+      "16 N",
+      "60 N",
+      "48 N",
+      "8 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=12×4=48 N."
+  },
+  {
+    "id": "FIS-0143",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 15 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "90 N",
+      "105 N",
+      "9 N",
+      "21 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=15×6=90 N."
+  },
+  {
+    "id": "FIS-0144",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 11 kg mengalami percepatan 8 m/s². Resultan gaya ...",
+    "options": [
+      "88 N",
+      "19 N",
+      "99 N",
+      "3 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=11×8=88 N."
+  },
+  {
+    "id": "FIS-0145",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 3 kg mengalami percepatan 9 m/s². Resultan gaya ...",
+    "options": [
+      "30 N",
+      "6 N",
+      "27 N",
+      "12 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=3×9=27 N."
+  },
+  {
+    "id": "FIS-0146",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 6 kg mengalami percepatan 3 m/s². Resultan gaya ...",
+    "options": [
+      "3 N",
+      "9 N",
+      "18 N",
+      "24 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=6×3=18 N."
+  },
+  {
+    "id": "FIS-0147",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 12 kg mengalami percepatan 6 m/s². Resultan gaya ...",
+    "options": [
+      "84 N",
+      "72 N",
+      "6 N",
+      "18 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=12×6=72 N."
+  },
+  {
+    "id": "FIS-0148",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 3,
+    "question": "Benda bermassa 13 kg mengalami percepatan 7 m/s². Resultan gaya ...",
+    "options": [
+      "91 N",
+      "6 N",
+      "104 N",
+      "20 N"
+    ],
+    "answer": 0,
+    "explanation": "F=ma=13×7=91 N."
+  },
+  {
+    "id": "FIS-0149",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 4,
+    "question": "Benda bermassa 8 kg mengalami percepatan 10 m/s². Resultan gaya ...",
+    "options": [
+      "2 N",
+      "18 N",
+      "80 N",
+      "88 N"
+    ],
+    "answer": 2,
+    "explanation": "F=ma=8×10=80 N."
+  },
+  {
+    "id": "FIS-0150",
+    "category": "Fisika",
+    "topic": "Dinamika",
+    "level": 2,
+    "question": "Benda bermassa 11 kg mengalami percepatan 9 m/s². Resultan gaya ...",
+    "options": [
+      "20 N",
+      "99 N",
+      "2 N",
+      "110 N"
+    ],
+    "answer": 1,
+    "explanation": "F=ma=11×9=99 N."
+  },
+  {
+    "id": "FIS-0151",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 8 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "180 J",
+      "40 J",
+      "80 J",
+      "8 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=1×10×8=80 J."
+  },
+  {
+    "id": "FIS-0152",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 10 kg berada pada ketinggian 20 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1000 J",
+      "2100 J",
+      "2000 J",
+      "200 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=10×10×20=2000 J."
+  },
+  {
+    "id": "FIS-0153",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 3 kg berada pada ketinggian 2 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "30 J",
+      "160 J",
+      "6 J",
+      "60 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=3×10×2=60 J."
+  },
+  {
+    "id": "FIS-0154",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 15 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "375 J",
+      "75 J",
+      "850 J",
+      "750 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=5×10×15=750 J."
+  },
+  {
+    "id": "FIS-0155",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 7 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "70 J",
+      "7 J",
+      "35 J",
+      "170 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=1×10×7=70 J."
+  },
+  {
+    "id": "FIS-0156",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 8 kg berada pada ketinggian 13 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1140 J",
+      "1040 J",
+      "104 J",
+      "520 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=8×10×13=1040 J."
+  },
+  {
+    "id": "FIS-0157",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 4 kg berada pada ketinggian 7 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "280 J",
+      "140 J",
+      "380 J",
+      "28 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=4×10×7=280 J."
+  },
+  {
+    "id": "FIS-0158",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 9 kg berada pada ketinggian 9 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "81 J",
+      "405 J",
+      "910 J",
+      "810 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=9×10×9=810 J."
+  },
+  {
+    "id": "FIS-0159",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg berada pada ketinggian 14 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "840 J",
+      "940 J",
+      "420 J",
+      "84 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=6×10×14=840 J."
+  },
+  {
+    "id": "FIS-0160",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 4 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "28 J",
+      "380 J",
+      "280 J",
+      "140 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=7×10×4=280 J."
+  },
+  {
+    "id": "FIS-0161",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 3 kg berada pada ketinggian 12 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "460 J",
+      "180 J",
+      "36 J",
+      "360 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=3×10×12=360 J."
+  },
+  {
+    "id": "FIS-0162",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg berada pada ketinggian 19 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "480 J",
+      "380 J",
+      "38 J",
+      "190 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=2×10×19=380 J."
+  },
+  {
+    "id": "FIS-0163",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 9 kg berada pada ketinggian 8 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "820 J",
+      "720 J",
+      "360 J",
+      "72 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=9×10×8=720 J."
+  },
+  {
+    "id": "FIS-0164",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 20 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1400 J",
+      "1500 J",
+      "700 J",
+      "140 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=7×10×20=1400 J."
+  },
+  {
+    "id": "FIS-0165",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 4 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "140 J",
+      "20 J",
+      "40 J",
+      "4 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=1×10×4=40 J."
+  },
+  {
+    "id": "FIS-0166",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 20 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "700 J",
+      "1400 J",
+      "1500 J",
+      "140 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=7×10×20=1400 J."
+  },
+  {
+    "id": "FIS-0167",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 6 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "6 J",
+      "30 J",
+      "60 J",
+      "160 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=1×10×6=60 J."
+  },
+  {
+    "id": "FIS-0168",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 6 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "160 J",
+      "6 J",
+      "30 J",
+      "60 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=1×10×6=60 J."
+  },
+  {
+    "id": "FIS-0169",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 18 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1360 J",
+      "126 J",
+      "630 J",
+      "1260 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=7×10×18=1260 J."
+  },
+  {
+    "id": "FIS-0170",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 12 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "60 J",
+      "220 J",
+      "120 J",
+      "12 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=1×10×12=120 J."
+  },
+  {
+    "id": "FIS-0171",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 16 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "160 J",
+      "16 J",
+      "260 J",
+      "80 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=1×10×16=160 J."
+  },
+  {
+    "id": "FIS-0172",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 9 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "550 J",
+      "45 J",
+      "225 J",
+      "450 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=5×10×9=450 J."
+  },
+  {
+    "id": "FIS-0173",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 10 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "50 J",
+      "600 J",
+      "250 J",
+      "500 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=5×10×10=500 J."
+  },
+  {
+    "id": "FIS-0174",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 12 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "60 J",
+      "120 J",
+      "220 J",
+      "12 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=1×10×12=120 J."
+  },
+  {
+    "id": "FIS-0175",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg berada pada ketinggian 16 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "640 J",
+      "128 J",
+      "1380 J",
+      "1280 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=8×10×16=1280 J."
+  },
+  {
+    "id": "FIS-0176",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 9 kg berada pada ketinggian 19 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1810 J",
+      "855 J",
+      "1710 J",
+      "171 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=9×10×19=1710 J."
+  },
+  {
+    "id": "FIS-0177",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 2 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "120 J",
+      "2 J",
+      "20 J",
+      "10 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=1×10×2=20 J."
+  },
+  {
+    "id": "FIS-0178",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 6 kg berada pada ketinggian 3 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "90 J",
+      "180 J",
+      "280 J",
+      "18 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=6×10×3=180 J."
+  },
+  {
+    "id": "FIS-0179",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 9 kg berada pada ketinggian 6 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "54 J",
+      "540 J",
+      "270 J",
+      "640 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=9×10×6=540 J."
+  },
+  {
+    "id": "FIS-0180",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg berada pada ketinggian 17 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "440 J",
+      "170 J",
+      "340 J",
+      "34 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=2×10×17=340 J."
+  },
+  {
+    "id": "FIS-0181",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 19 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1430 J",
+      "665 J",
+      "133 J",
+      "1330 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=7×10×19=1330 J."
+  },
+  {
+    "id": "FIS-0182",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 3 kg berada pada ketinggian 7 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "210 J",
+      "21 J",
+      "105 J",
+      "310 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=3×10×7=210 J."
+  },
+  {
+    "id": "FIS-0183",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 4 kg berada pada ketinggian 18 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "820 J",
+      "360 J",
+      "72 J",
+      "720 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=4×10×18=720 J."
+  },
+  {
+    "id": "FIS-0184",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg berada pada ketinggian 11 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "980 J",
+      "440 J",
+      "880 J",
+      "88 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=8×10×11=880 J."
+  },
+  {
+    "id": "FIS-0185",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 7 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "450 J",
+      "175 J",
+      "350 J",
+      "35 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=5×10×7=350 J."
+  },
+  {
+    "id": "FIS-0186",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg berada pada ketinggian 20 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "1300 J",
+      "600 J",
+      "1200 J",
+      "120 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=6×10×20=1200 J."
+  },
+  {
+    "id": "FIS-0187",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 15 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "75 J",
+      "750 J",
+      "850 J",
+      "375 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=5×10×15=750 J."
+  },
+  {
+    "id": "FIS-0188",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 6 kg berada pada ketinggian 4 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "24 J",
+      "240 J",
+      "120 J",
+      "340 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=6×10×4=240 J."
+  },
+  {
+    "id": "FIS-0189",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg berada pada ketinggian 12 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "120 J",
+      "340 J",
+      "240 J",
+      "24 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=2×10×12=240 J."
+  },
+  {
+    "id": "FIS-0190",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 5 kg berada pada ketinggian 6 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "150 J",
+      "300 J",
+      "400 J",
+      "30 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=5×10×6=300 J."
+  },
+  {
+    "id": "FIS-0191",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 12 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "420 J",
+      "84 J",
+      "940 J",
+      "840 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=7×10×12=840 J."
+  },
+  {
+    "id": "FIS-0192",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 3 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "105 J",
+      "210 J",
+      "21 J",
+      "310 J"
+    ],
+    "answer": 1,
+    "explanation": "Ep=mgh=7×10×3=210 J."
+  },
+  {
+    "id": "FIS-0193",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 9 kg berada pada ketinggian 5 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "450 J",
+      "550 J",
+      "225 J",
+      "45 J"
+    ],
+    "answer": 0,
+    "explanation": "Ep=mgh=9×10×5=450 J."
+  },
+  {
+    "id": "FIS-0194",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg berada pada ketinggian 13 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "52 J",
+      "260 J",
+      "620 J",
+      "520 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=4×10×13=520 J."
+  },
+  {
+    "id": "FIS-0195",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 13 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "230 J",
+      "65 J",
+      "13 J",
+      "130 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=1×10×13=130 J."
+  },
+  {
+    "id": "FIS-0196",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 1 kg berada pada ketinggian 5 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "25 J",
+      "5 J",
+      "150 J",
+      "50 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=1×10×5=50 J."
+  },
+  {
+    "id": "FIS-0197",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg berada pada ketinggian 8 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "16 J",
+      "260 J",
+      "80 J",
+      "160 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=2×10×8=160 J."
+  },
+  {
+    "id": "FIS-0198",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg berada pada ketinggian 16 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "480 J",
+      "96 J",
+      "1060 J",
+      "960 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=6×10×16=960 J."
+  },
+  {
+    "id": "FIS-0199",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 7 kg berada pada ketinggian 13 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "91 J",
+      "1010 J",
+      "910 J",
+      "455 J"
+    ],
+    "answer": 2,
+    "explanation": "Ep=mgh=7×10×13=910 J."
+  },
+  {
+    "id": "FIS-0200",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg berada pada ketinggian 7 m. Jika g=10 m/s², energi potensial ...",
+    "options": [
+      "140 J",
+      "380 J",
+      "28 J",
+      "280 J"
+    ],
+    "answer": 3,
+    "explanation": "Ep=mgh=4×10×7=280 J."
+  },
+  {
+    "id": "FIS-0201",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 8 kg bergerak 4 m/s. Energi kinetiknya ...",
+    "options": [
+      "128 J",
+      "32 J",
+      "68 J",
+      "64 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×8×4²=64 J."
+  },
+  {
+    "id": "FIS-0202",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 8 kg bergerak 5 m/s. Energi kinetiknya ...",
+    "options": [
+      "40 J",
+      "100 J",
+      "105 J",
+      "200 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×5²=100 J."
+  },
+  {
+    "id": "FIS-0203",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "676 J",
+      "689 J",
+      "1352 J",
+      "104 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×8×13²=676 J."
+  },
+  {
+    "id": "FIS-0204",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 10 kg bergerak 8 m/s. Energi kinetiknya ...",
+    "options": [
+      "80 J",
+      "328 J",
+      "320 J",
+      "640 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×10×8²=320 J."
+  },
+  {
+    "id": "FIS-0205",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 10 kg bergerak 3 m/s. Energi kinetiknya ...",
+    "options": [
+      "30 J",
+      "48 J",
+      "90 J",
+      "45 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×10×3²=45 J."
+  },
+  {
+    "id": "FIS-0206",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg bergerak 12 m/s. Energi kinetiknya ...",
+    "options": [
+      "588 J",
+      "576 J",
+      "1152 J",
+      "96 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×12²=576 J."
+  },
+  {
+    "id": "FIS-0207",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "182 J",
+      "169 J",
+      "338 J",
+      "26 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×2×13²=169 J."
+  },
+  {
+    "id": "FIS-0208",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 10 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "22 J",
+      "40 J",
+      "20 J",
+      "23 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×10×2²=20 J."
+  },
+  {
+    "id": "FIS-0209",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 6 kg bergerak 14 m/s. Energi kinetiknya ...",
+    "options": [
+      "84 J",
+      "602 J",
+      "1176 J",
+      "588 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×6×14²=588 J."
+  },
+  {
+    "id": "FIS-0210",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg bergerak 9 m/s. Energi kinetiknya ...",
+    "options": [
+      "324 J",
+      "36 J",
+      "171 J",
+      "162 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×4×9²=162 J."
+  },
+  {
+    "id": "FIS-0211",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "4 J",
+      "8 J",
+      "7 J",
+      "6 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×2×2²=4 J."
+  },
+  {
+    "id": "FIS-0212",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg bergerak 3 m/s. Energi kinetiknya ...",
+    "options": [
+      "24 J",
+      "36 J",
+      "72 J",
+      "39 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×3²=36 J."
+  },
+  {
+    "id": "FIS-0213",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 6 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "24 J",
+      "12 J",
+      "14 J",
+      "15 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×6×2²=12 J."
+  },
+  {
+    "id": "FIS-0214",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 10 kg bergerak 12 m/s. Energi kinetiknya ...",
+    "options": [
+      "1440 J",
+      "732 J",
+      "720 J",
+      "120 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×10×12²=720 J."
+  },
+  {
+    "id": "FIS-0215",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 6 kg bergerak 10 m/s. Energi kinetiknya ...",
+    "options": [
+      "310 J",
+      "600 J",
+      "300 J",
+      "60 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×6×10²=300 J."
+  },
+  {
+    "id": "FIS-0216",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 8 kg bergerak 14 m/s. Energi kinetiknya ...",
+    "options": [
+      "112 J",
+      "784 J",
+      "798 J",
+      "1568 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×14²=784 J."
+  },
+  {
+    "id": "FIS-0217",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "507 J",
+      "1014 J",
+      "78 J",
+      "520 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×6×13²=507 J."
+  },
+  {
+    "id": "FIS-0218",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak 7 m/s. Energi kinetiknya ...",
+    "options": [
+      "98 J",
+      "49 J",
+      "14 J",
+      "56 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×2×7²=49 J."
+  },
+  {
+    "id": "FIS-0219",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg bergerak 6 m/s. Energi kinetiknya ...",
+    "options": [
+      "144 J",
+      "72 J",
+      "24 J",
+      "78 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×4×6²=72 J."
+  },
+  {
+    "id": "FIS-0220",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak 7 m/s. Energi kinetiknya ...",
+    "options": [
+      "14 J",
+      "49 J",
+      "56 J",
+      "98 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×2×7²=49 J."
+  },
+  {
+    "id": "FIS-0221",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 6 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "1014 J",
+      "520 J",
+      "78 J",
+      "507 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×6×13²=507 J."
+  },
+  {
+    "id": "FIS-0222",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak 4 m/s. Energi kinetiknya ...",
+    "options": [
+      "8 J",
+      "32 J",
+      "16 J",
+      "20 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×2×4²=16 J."
+  },
+  {
+    "id": "FIS-0223",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 10 kg bergerak 10 m/s. Energi kinetiknya ...",
+    "options": [
+      "1000 J",
+      "100 J",
+      "510 J",
+      "500 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×10×10²=500 J."
+  },
+  {
+    "id": "FIS-0224",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 6 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "507 J",
+      "78 J",
+      "520 J",
+      "1014 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×6×13²=507 J."
+  },
+  {
+    "id": "FIS-0225",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "11 J",
+      "10 J",
+      "16 J",
+      "8 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×4×2²=8 J."
+  },
+  {
+    "id": "FIS-0226",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 4 kg bergerak 5 m/s. Energi kinetiknya ...",
+    "options": [
+      "55 J",
+      "100 J",
+      "50 J",
+      "20 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×4×5²=50 J."
+  },
+  {
+    "id": "FIS-0227",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 4 kg bergerak 9 m/s. Energi kinetiknya ...",
+    "options": [
+      "324 J",
+      "162 J",
+      "36 J",
+      "171 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×4×9²=162 J."
+  },
+  {
+    "id": "FIS-0228",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 4 kg bergerak 6 m/s. Energi kinetiknya ...",
+    "options": [
+      "144 J",
+      "72 J",
+      "78 J",
+      "24 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×4×6²=72 J."
+  },
+  {
+    "id": "FIS-0229",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg bergerak 3 m/s. Energi kinetiknya ...",
+    "options": [
+      "27 J",
+      "18 J",
+      "30 J",
+      "54 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×6×3²=27 J."
+  },
+  {
+    "id": "FIS-0230",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak 3 m/s. Energi kinetiknya ...",
+    "options": [
+      "6 J",
+      "18 J",
+      "12 J",
+      "9 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×2×3²=9 J."
+  },
+  {
+    "id": "FIS-0231",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak 14 m/s. Energi kinetiknya ...",
+    "options": [
+      "392 J",
+      "210 J",
+      "28 J",
+      "196 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×2×14²=196 J."
+  },
+  {
+    "id": "FIS-0232",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg bergerak 6 m/s. Energi kinetiknya ...",
+    "options": [
+      "216 J",
+      "36 J",
+      "114 J",
+      "108 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×6×6²=108 J."
+  },
+  {
+    "id": "FIS-0233",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 10 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "20 J",
+      "40 J",
+      "22 J",
+      "23 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×10×2²=20 J."
+  },
+  {
+    "id": "FIS-0234",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "4 J",
+      "7 J",
+      "8 J",
+      "6 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×2×2²=4 J."
+  },
+  {
+    "id": "FIS-0235",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 4 kg bergerak 2 m/s. Energi kinetiknya ...",
+    "options": [
+      "11 J",
+      "10 J",
+      "8 J",
+      "16 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×4×2²=8 J."
+  },
+  {
+    "id": "FIS-0236",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 8 kg bergerak 10 m/s. Energi kinetiknya ...",
+    "options": [
+      "410 J",
+      "400 J",
+      "800 J",
+      "80 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×10²=400 J."
+  },
+  {
+    "id": "FIS-0237",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 10 kg bergerak 9 m/s. Energi kinetiknya ...",
+    "options": [
+      "405 J",
+      "810 J",
+      "414 J",
+      "90 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×10×9²=405 J."
+  },
+  {
+    "id": "FIS-0238",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 4 kg bergerak 12 m/s. Energi kinetiknya ...",
+    "options": [
+      "576 J",
+      "48 J",
+      "300 J",
+      "288 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×4×12²=288 J."
+  },
+  {
+    "id": "FIS-0239",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "182 J",
+      "338 J",
+      "26 J",
+      "169 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×2×13²=169 J."
+  },
+  {
+    "id": "FIS-0240",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 8 kg bergerak 6 m/s. Energi kinetiknya ...",
+    "options": [
+      "144 J",
+      "48 J",
+      "288 J",
+      "150 J"
+    ],
+    "answer": 0,
+    "explanation": "Ek=½mv²=½×8×6²=144 J."
+  },
+  {
+    "id": "FIS-0241",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 8 kg bergerak 11 m/s. Energi kinetiknya ...",
+    "options": [
+      "88 J",
+      "968 J",
+      "495 J",
+      "484 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×8×11²=484 J."
+  },
+  {
+    "id": "FIS-0242",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 10 kg bergerak 8 m/s. Energi kinetiknya ...",
+    "options": [
+      "328 J",
+      "80 J",
+      "640 J",
+      "320 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×10×8²=320 J."
+  },
+  {
+    "id": "FIS-0243",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 10 kg bergerak 13 m/s. Energi kinetiknya ...",
+    "options": [
+      "1690 J",
+      "130 J",
+      "845 J",
+      "858 J"
+    ],
+    "answer": 2,
+    "explanation": "Ek=½mv²=½×10×13²=845 J."
+  },
+  {
+    "id": "FIS-0244",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 8 kg bergerak 3 m/s. Energi kinetiknya ...",
+    "options": [
+      "72 J",
+      "36 J",
+      "39 J",
+      "24 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×8×3²=36 J."
+  },
+  {
+    "id": "FIS-0245",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak 7 m/s. Energi kinetiknya ...",
+    "options": [
+      "56 J",
+      "14 J",
+      "98 J",
+      "49 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×2×7²=49 J."
+  },
+  {
+    "id": "FIS-0246",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 6 kg bergerak 6 m/s. Energi kinetiknya ...",
+    "options": [
+      "114 J",
+      "216 J",
+      "36 J",
+      "108 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×6×6²=108 J."
+  },
+  {
+    "id": "FIS-0247",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak 4 m/s. Energi kinetiknya ...",
+    "options": [
+      "20 J",
+      "32 J",
+      "8 J",
+      "16 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×2×4²=16 J."
+  },
+  {
+    "id": "FIS-0248",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak 5 m/s. Energi kinetiknya ...",
+    "options": [
+      "50 J",
+      "25 J",
+      "10 J",
+      "30 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×2×5²=25 J."
+  },
+  {
+    "id": "FIS-0249",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak 10 m/s. Energi kinetiknya ...",
+    "options": [
+      "200 J",
+      "100 J",
+      "20 J",
+      "110 J"
+    ],
+    "answer": 1,
+    "explanation": "Ek=½mv²=½×2×10²=100 J."
+  },
+  {
+    "id": "FIS-0250",
+    "category": "Fisika",
+    "topic": "Energi",
+    "level": 4,
+    "question": "Benda bermassa 6 kg bergerak 8 m/s. Energi kinetiknya ...",
+    "options": [
+      "48 J",
+      "384 J",
+      "200 J",
+      "192 J"
+    ],
+    "answer": 3,
+    "explanation": "Ek=½mv²=½×6×8²=192 J."
+  },
+  {
+    "id": "FIS-0251",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 373 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1865 Pa",
+      "378 Pa",
+      "74.6 Pa",
+      "149.2 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=373/5=74.6 Pa."
+  },
+  {
+    "id": "FIS-0252",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 138 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "27.6 Pa",
+      "143 Pa",
+      "690 Pa",
+      "55.2 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=138/5=27.6 Pa."
+  },
+  {
+    "id": "FIS-0253",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 254 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "257 Pa",
+      "255 Pa",
+      "508 Pa",
+      "254 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=254/1=254 Pa."
+  },
+  {
+    "id": "FIS-0254",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 377 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "942.5 Pa",
+      "301.6 Pa",
+      "150.8 Pa",
+      "379.5 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=377/2.5=150.8 Pa."
+  },
+  {
+    "id": "FIS-0255",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 217 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "43.4 Pa",
+      "1085 Pa",
+      "222 Pa",
+      "86.8 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=217/5=43.4 Pa."
+  },
+  {
+    "id": "FIS-0256",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 488 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "195.2 Pa",
+      "2440 Pa",
+      "97.6 Pa",
+      "493 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=488/5=97.6 Pa."
+  },
+  {
+    "id": "FIS-0257",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 121 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "484 Pa",
+      "242 Pa",
+      "60.5 Pa",
+      "121.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=121/0.5=242 Pa."
+  },
+  {
+    "id": "FIS-0258",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 83 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "83 Pa",
+      "86 Pa",
+      "84 Pa",
+      "166 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=83/1=83 Pa."
+  },
+  {
+    "id": "FIS-0259",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 335 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1340 Pa",
+      "335.5 Pa",
+      "670 Pa",
+      "167.5 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=335/0.5=670 Pa."
+  },
+  {
+    "id": "FIS-0260",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 64 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "12.8 Pa",
+      "320 Pa",
+      "69 Pa",
+      "25.6 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=64/5=12.8 Pa."
+  },
+  {
+    "id": "FIS-0261",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 98 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "196 Pa",
+      "49.0 Pa",
+      "98.5 Pa",
+      "392 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=98/0.5=196 Pa."
+  },
+  {
+    "id": "FIS-0262",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 267 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "267 Pa",
+      "270 Pa",
+      "534 Pa",
+      "268 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=267/1=267 Pa."
+  },
+  {
+    "id": "FIS-0263",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 217 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "868 Pa",
+      "434 Pa",
+      "108.5 Pa",
+      "217.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=217/0.5=434 Pa."
+  },
+  {
+    "id": "FIS-0264",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 64 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "128 Pa",
+      "64 Pa",
+      "67 Pa",
+      "65 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=64/1=64 Pa."
+  },
+  {
+    "id": "FIS-0265",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 187 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "467.5 Pa",
+      "74.8 Pa",
+      "149.6 Pa",
+      "189.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=187/2.5=74.8 Pa."
+  },
+  {
+    "id": "FIS-0266",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 444 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "355.2 Pa",
+      "177.6 Pa",
+      "446.5 Pa",
+      "1110.0 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=444/2.5=177.6 Pa."
+  },
+  {
+    "id": "FIS-0267",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 215 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "215.5 Pa",
+      "860 Pa",
+      "107.5 Pa",
+      "430 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=215/0.5=430 Pa."
+  },
+  {
+    "id": "FIS-0268",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 76 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "304 Pa",
+      "76.5 Pa",
+      "152 Pa",
+      "38.0 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=76/0.5=152 Pa."
+  },
+  {
+    "id": "FIS-0269",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 330 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "330 Pa",
+      "331 Pa",
+      "333 Pa",
+      "660 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=330/1=330 Pa."
+  },
+  {
+    "id": "FIS-0270",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 66 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "66 Pa",
+      "67 Pa",
+      "132 Pa",
+      "69 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=66/1=66 Pa."
+  },
+  {
+    "id": "FIS-0271",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 86 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "88.5 Pa",
+      "34.4 Pa",
+      "215.0 Pa",
+      "68.8 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=86/2.5=34.4 Pa."
+  },
+  {
+    "id": "FIS-0272",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 321 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "321.5 Pa",
+      "1284 Pa",
+      "160.5 Pa",
+      "642 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=321/0.5=642 Pa."
+  },
+  {
+    "id": "FIS-0273",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 470 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "2350 Pa",
+      "188 Pa",
+      "475 Pa",
+      "94 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=470/5=94 Pa."
+  },
+  {
+    "id": "FIS-0274",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 294 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1176 Pa",
+      "147.0 Pa",
+      "588 Pa",
+      "294.5 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=294/0.5=588 Pa."
+  },
+  {
+    "id": "FIS-0275",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 310 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "310.5 Pa",
+      "620 Pa",
+      "1240 Pa",
+      "155.0 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=310/0.5=620 Pa."
+  },
+  {
+    "id": "FIS-0276",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 414 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "414 Pa",
+      "415 Pa",
+      "417 Pa",
+      "828 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=414/1=414 Pa."
+  },
+  {
+    "id": "FIS-0277",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 235 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "240 Pa",
+      "47 Pa",
+      "94 Pa",
+      "1175 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=235/5=47 Pa."
+  },
+  {
+    "id": "FIS-0278",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 377 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "382 Pa",
+      "150.8 Pa",
+      "1885 Pa",
+      "75.4 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=377/5=75.4 Pa."
+  },
+  {
+    "id": "FIS-0279",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 50 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "250 Pa",
+      "55 Pa",
+      "20 Pa",
+      "10 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=50/5=10 Pa."
+  },
+  {
+    "id": "FIS-0280",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 94 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "95 Pa",
+      "94 Pa",
+      "97 Pa",
+      "188 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=94/1=94 Pa."
+  },
+  {
+    "id": "FIS-0281",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 148 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "148.5 Pa",
+      "74.0 Pa",
+      "592 Pa",
+      "296 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=148/0.5=296 Pa."
+  },
+  {
+    "id": "FIS-0282",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 495 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1980 Pa",
+      "990 Pa",
+      "495.5 Pa",
+      "247.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=495/0.5=990 Pa."
+  },
+  {
+    "id": "FIS-0283",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 464 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1856 Pa",
+      "464.5 Pa",
+      "232.0 Pa",
+      "928 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=464/0.5=928 Pa."
+  },
+  {
+    "id": "FIS-0284",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 397 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "158.8 Pa",
+      "1985 Pa",
+      "79.4 Pa",
+      "402 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=397/5=79.4 Pa."
+  },
+  {
+    "id": "FIS-0285",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 226 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1130 Pa",
+      "45.2 Pa",
+      "90.4 Pa",
+      "231 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=226/5=45.2 Pa."
+  },
+  {
+    "id": "FIS-0286",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 299 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "598 Pa",
+      "302 Pa",
+      "300 Pa",
+      "299 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=299/1=299 Pa."
+  },
+  {
+    "id": "FIS-0287",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 189 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "189.5 Pa",
+      "94.5 Pa",
+      "378 Pa",
+      "756 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=189/0.5=378 Pa."
+  },
+  {
+    "id": "FIS-0288",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 232 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "185.6 Pa",
+      "234.5 Pa",
+      "92.8 Pa",
+      "580.0 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=232/2.5=92.8 Pa."
+  },
+  {
+    "id": "FIS-0289",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 214 N bekerja tegak lurus pada luas 2 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "216 Pa",
+      "107 Pa",
+      "428 Pa",
+      "214 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=214/2=107 Pa."
+  },
+  {
+    "id": "FIS-0290",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 474 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1896 Pa",
+      "474.5 Pa",
+      "948 Pa",
+      "237.0 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=474/0.5=948 Pa."
+  },
+  {
+    "id": "FIS-0291",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 401 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "402 Pa",
+      "404 Pa",
+      "802 Pa",
+      "401 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=401/1=401 Pa."
+  },
+  {
+    "id": "FIS-0292",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 343 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "686 Pa",
+      "343.5 Pa",
+      "171.5 Pa",
+      "1372 Pa"
+    ],
+    "answer": 0,
+    "explanation": "P=F/A=343/0.5=686 Pa."
+  },
+  {
+    "id": "FIS-0293",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 360 N bekerja tegak lurus pada luas 5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "1800 Pa",
+      "72 Pa",
+      "365 Pa",
+      "144 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=360/5=72 Pa."
+  },
+  {
+    "id": "FIS-0294",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 499 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "249.5 Pa",
+      "499.5 Pa",
+      "998 Pa",
+      "1996 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=499/0.5=998 Pa."
+  },
+  {
+    "id": "FIS-0295",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 433 N bekerja tegak lurus pada luas 2 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "866 Pa",
+      "435 Pa",
+      "433.0 Pa",
+      "216.5 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=433/2=216.5 Pa."
+  },
+  {
+    "id": "FIS-0296",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 354 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "177.0 Pa",
+      "1416 Pa",
+      "708 Pa",
+      "354.5 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=354/0.5=708 Pa."
+  },
+  {
+    "id": "FIS-0297",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 51 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "127.5 Pa",
+      "20.4 Pa",
+      "40.8 Pa",
+      "53.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=51/2.5=20.4 Pa."
+  },
+  {
+    "id": "FIS-0298",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 3,
+    "question": "Gaya 457 N bekerja tegak lurus pada luas 0.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "228.5 Pa",
+      "914 Pa",
+      "1828 Pa",
+      "457.5 Pa"
+    ],
+    "answer": 1,
+    "explanation": "P=F/A=457/0.5=914 Pa."
+  },
+  {
+    "id": "FIS-0299",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 4,
+    "question": "Gaya 451 N bekerja tegak lurus pada luas 2.5 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "453.5 Pa",
+      "360.8 Pa",
+      "180.4 Pa",
+      "1127.5 Pa"
+    ],
+    "answer": 2,
+    "explanation": "P=F/A=451/2.5=180.4 Pa."
+  },
+  {
+    "id": "FIS-0300",
+    "category": "Fisika",
+    "topic": "Tekanan",
+    "level": 2,
+    "question": "Gaya 493 N bekerja tegak lurus pada luas 1 m². Tekanan yang dihasilkan ...",
+    "options": [
+      "986 Pa",
+      "496 Pa",
+      "494 Pa",
+      "493 Pa"
+    ],
+    "answer": 3,
+    "explanation": "P=F/A=493/1=493 Pa."
+  },
+  {
+    "id": "FIS-0301",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 800 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "2400 W",
+      "266.6666666666667 W",
+      "797 W",
+      "316.6666666666667 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=800/3=266.6666666666667 W."
+  },
+  {
+    "id": "FIS-0302",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 300 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "600 W",
+      "200 W",
+      "150 W",
+      "298 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=300/2=150 W."
+  },
+  {
+    "id": "FIS-0303",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 600 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "200 W",
+      "1800 W",
+      "250 W",
+      "597 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/3=200 W."
+  },
+  {
+    "id": "FIS-0304",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 600 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "2400 W",
+      "200 W",
+      "596 W",
+      "150 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=600/4=150 W."
+  },
+  {
+    "id": "FIS-0305",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 300 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "600 W",
+      "150 W",
+      "298 W",
+      "200 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=300/2=150 W."
+  },
+  {
+    "id": "FIS-0306",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 800 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "200 W",
+      "3200 W",
+      "250 W",
+      "796 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=800/4=200 W."
+  },
+  {
+    "id": "FIS-0307",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 900 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "200 W",
+      "150 W",
+      "894 W",
+      "5400 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=900/6=150 W."
+  },
+  {
+    "id": "FIS-0308",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 400 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "396 W",
+      "150 W",
+      "100 W",
+      "1600 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=400/4=100 W."
+  },
+  {
+    "id": "FIS-0309",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 400 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "133.33333333333334 W",
+      "183.33333333333334 W",
+      "397 W",
+      "1200 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=400/3=133.33333333333334 W."
+  },
+  {
+    "id": "FIS-0310",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 900 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "275 W",
+      "3600 W",
+      "225 W",
+      "896 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=900/4=225 W."
+  },
+  {
+    "id": "FIS-0311",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 800 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "3200 W",
+      "250 W",
+      "796 W",
+      "200 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=800/4=200 W."
+  },
+  {
+    "id": "FIS-0312",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 900 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "200 W",
+      "150 W",
+      "5400 W",
+      "894 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=900/6=150 W."
+  },
+  {
+    "id": "FIS-0313",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 600 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "150 W",
+      "596 W",
+      "2400 W",
+      "200 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/4=150 W."
+  },
+  {
+    "id": "FIS-0314",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "300 W",
+      "350 W",
+      "598 W",
+      "1200 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/2=300 W."
+  },
+  {
+    "id": "FIS-0315",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 600 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "598 W",
+      "300 W",
+      "350 W",
+      "1200 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=600/2=300 W."
+  },
+  {
+    "id": "FIS-0316",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 400 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "183.33333333333334 W",
+      "397 W",
+      "133.33333333333334 W",
+      "1200 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=400/3=133.33333333333334 W."
+  },
+  {
+    "id": "FIS-0317",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "598 W",
+      "1200 W",
+      "350 W",
+      "300 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=600/2=300 W."
+  },
+  {
+    "id": "FIS-0318",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 900 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "4500 W",
+      "180 W",
+      "230 W",
+      "895 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=900/5=180 W."
+  },
+  {
+    "id": "FIS-0319",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 400 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "130 W",
+      "395 W",
+      "80 W",
+      "2000 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=400/5=80 W."
+  },
+  {
+    "id": "FIS-0320",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 300 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "150 W",
+      "298 W",
+      "600 W",
+      "200 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=300/2=150 W."
+  },
+  {
+    "id": "FIS-0321",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 900 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "200 W",
+      "150 W",
+      "894 W",
+      "5400 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=900/6=150 W."
+  },
+  {
+    "id": "FIS-0322",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 900 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "1800 W",
+      "898 W",
+      "450 W",
+      "500 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=900/2=450 W."
+  },
+  {
+    "id": "FIS-0323",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 1200 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "1195 W",
+      "6000 W",
+      "240 W",
+      "290 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=1200/5=240 W."
+  },
+  {
+    "id": "FIS-0324",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 300 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "600 W",
+      "200 W",
+      "298 W",
+      "150 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=300/2=150 W."
+  },
+  {
+    "id": "FIS-0325",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 1200 J dalam 2 s. Daya mesin ...",
+    "options": [
+      "600 W",
+      "650 W",
+      "2400 W",
+      "1198 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=1200/2=600 W."
+  },
+  {
+    "id": "FIS-0326",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "595 W",
+      "170 W",
+      "120 W",
+      "3000 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=600/5=120 W."
+  },
+  {
+    "id": "FIS-0327",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 900 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "896 W",
+      "275 W",
+      "225 W",
+      "3600 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=900/4=225 W."
+  },
+  {
+    "id": "FIS-0328",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 300 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "125 W",
+      "75 W",
+      "1200 W",
+      "296 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=300/4=75 W."
+  },
+  {
+    "id": "FIS-0329",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 900 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "896 W",
+      "275 W",
+      "3600 W",
+      "225 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=900/4=225 W."
+  },
+  {
+    "id": "FIS-0330",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 800 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "210 W",
+      "795 W",
+      "4000 W",
+      "160 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=800/5=160 W."
+  },
+  {
+    "id": "FIS-0331",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 800 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "160 W",
+      "795 W",
+      "210 W",
+      "4000 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=800/5=160 W."
+  },
+  {
+    "id": "FIS-0332",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "597 W",
+      "200 W",
+      "250 W",
+      "1800 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=600/3=200 W."
+  },
+  {
+    "id": "FIS-0333",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 400 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "116.66666666666667 W",
+      "394 W",
+      "66.66666666666667 W",
+      "2400 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=400/6=66.66666666666667 W."
+  },
+  {
+    "id": "FIS-0334",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 900 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "4500 W",
+      "230 W",
+      "895 W",
+      "180 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=900/5=180 W."
+  },
+  {
+    "id": "FIS-0335",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "250 W",
+      "597 W",
+      "200 W",
+      "1800 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=600/3=200 W."
+  },
+  {
+    "id": "FIS-0336",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 600 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "100 W",
+      "3600 W",
+      "150 W",
+      "594 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/6=100 W."
+  },
+  {
+    "id": "FIS-0337",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 400 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "2400 W",
+      "394 W",
+      "66.66666666666667 W",
+      "116.66666666666667 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=400/6=66.66666666666667 W."
+  },
+  {
+    "id": "FIS-0338",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 800 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "2400 W",
+      "266.6666666666667 W",
+      "316.6666666666667 W",
+      "797 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=800/3=266.6666666666667 W."
+  },
+  {
+    "id": "FIS-0339",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 900 J dalam 3 s. Daya mesin ...",
+    "options": [
+      "2700 W",
+      "897 W",
+      "350 W",
+      "300 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=900/3=300 W."
+  },
+  {
+    "id": "FIS-0340",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 600 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "2400 W",
+      "150 W",
+      "200 W",
+      "596 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=600/4=150 W."
+  },
+  {
+    "id": "FIS-0341",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "120 W",
+      "595 W",
+      "3000 W",
+      "170 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/5=120 W."
+  },
+  {
+    "id": "FIS-0342",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 400 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "395 W",
+      "2000 W",
+      "130 W",
+      "80 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=400/5=80 W."
+  },
+  {
+    "id": "FIS-0343",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 1200 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "290 W",
+      "1195 W",
+      "6000 W",
+      "240 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=1200/5=240 W."
+  },
+  {
+    "id": "FIS-0344",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 600 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "120 W",
+      "595 W",
+      "3000 W",
+      "170 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=600/5=120 W."
+  },
+  {
+    "id": "FIS-0345",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 800 J dalam 4 s. Daya mesin ...",
+    "options": [
+      "3200 W",
+      "250 W",
+      "200 W",
+      "796 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=800/4=200 W."
+  },
+  {
+    "id": "FIS-0346",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 900 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "180 W",
+      "895 W",
+      "230 W",
+      "4500 W"
+    ],
+    "answer": 0,
+    "explanation": "P=W/t=900/5=180 W."
+  },
+  {
+    "id": "FIS-0347",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 800 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "183.33333333333334 W",
+      "133.33333333333334 W",
+      "4800 W",
+      "794 W"
+    ],
+    "answer": 1,
+    "explanation": "P=W/t=800/6=133.33333333333334 W."
+  },
+  {
+    "id": "FIS-0348",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 4,
+    "question": "Mesin melakukan usaha 300 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "1500 W",
+      "295 W",
+      "60 W",
+      "110 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=300/5=60 W."
+  },
+  {
+    "id": "FIS-0349",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 2,
+    "question": "Mesin melakukan usaha 800 J dalam 6 s. Daya mesin ...",
+    "options": [
+      "4800 W",
+      "794 W",
+      "133.33333333333334 W",
+      "183.33333333333334 W"
+    ],
+    "answer": 2,
+    "explanation": "P=W/t=800/6=133.33333333333334 W."
+  },
+  {
+    "id": "FIS-0350",
+    "category": "Fisika",
+    "topic": "Usaha dan Daya",
+    "level": 3,
+    "question": "Mesin melakukan usaha 800 J dalam 5 s. Daya mesin ...",
+    "options": [
+      "210 W",
+      "795 W",
+      "4000 W",
+      "160 W"
+    ],
+    "answer": 3,
+    "explanation": "P=W/t=800/5=160 W."
+  },
+  {
+    "id": "FIS-0351",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 7 kg bergerak dengan kecepatan 6 m/s. Momentumnya ...",
+    "options": [
+      "84 kg m/s",
+      "42 kg m/s",
+      "13 kg m/s",
+      "1 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=7×6=42 kg m/s."
+  },
+  {
+    "id": "FIS-0352",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 3 kg bergerak dengan kecepatan 14 m/s. Momentumnya ...",
+    "options": [
+      "17 kg m/s",
+      "42 kg m/s",
+      "11 kg m/s",
+      "84 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=3×14=42 kg m/s."
+  },
+  {
+    "id": "FIS-0353",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "11 kg m/s",
+      "36 kg m/s",
+      "7 kg m/s",
+      "18 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=9×2=18 kg m/s."
+  },
+  {
+    "id": "FIS-0354",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "7 kg m/s",
+      "0 kg m/s",
+      "8 kg m/s",
+      "4 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=2×2=4 kg m/s."
+  },
+  {
+    "id": "FIS-0355",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 10 kg bergerak dengan kecepatan 16 m/s. Momentumnya ...",
+    "options": [
+      "26 kg m/s",
+      "320 kg m/s",
+      "6 kg m/s",
+      "160 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=10×16=160 kg m/s."
+  },
+  {
+    "id": "FIS-0356",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 3 m/s. Momentumnya ...",
+    "options": [
+      "42 kg m/s",
+      "11 kg m/s",
+      "84 kg m/s",
+      "17 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=14×3=42 kg m/s."
+  },
+  {
+    "id": "FIS-0357",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 12 kg bergerak dengan kecepatan 8 m/s. Momentumnya ...",
+    "options": [
+      "192 kg m/s",
+      "4 kg m/s",
+      "20 kg m/s",
+      "96 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=12×8=96 kg m/s."
+  },
+  {
+    "id": "FIS-0358",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 8 kg bergerak dengan kecepatan 7 m/s. Momentumnya ...",
+    "options": [
+      "112 kg m/s",
+      "1 kg m/s",
+      "56 kg m/s",
+      "15 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=8×7=56 kg m/s."
+  },
+  {
+    "id": "FIS-0359",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 10 kg bergerak dengan kecepatan 7 m/s. Momentumnya ...",
+    "options": [
+      "17 kg m/s",
+      "3 kg m/s",
+      "70 kg m/s",
+      "140 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=10×7=70 kg m/s."
+  },
+  {
+    "id": "FIS-0360",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 3 kg bergerak dengan kecepatan 20 m/s. Momentumnya ...",
+    "options": [
+      "23 kg m/s",
+      "17 kg m/s",
+      "60 kg m/s",
+      "120 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=3×20=60 kg m/s."
+  },
+  {
+    "id": "FIS-0361",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 12 kg bergerak dengan kecepatan 18 m/s. Momentumnya ...",
+    "options": [
+      "6 kg m/s",
+      "30 kg m/s",
+      "432 kg m/s",
+      "216 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=12×18=216 kg m/s."
+  },
+  {
+    "id": "FIS-0362",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 19 m/s. Momentumnya ...",
+    "options": [
+      "21 kg m/s",
+      "38 kg m/s",
+      "76 kg m/s",
+      "17 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=2×19=38 kg m/s."
+  },
+  {
+    "id": "FIS-0363",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 4 kg bergerak dengan kecepatan 3 m/s. Momentumnya ...",
+    "options": [
+      "24 kg m/s",
+      "7 kg m/s",
+      "1 kg m/s",
+      "12 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=4×3=12 kg m/s."
+  },
+  {
+    "id": "FIS-0364",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 7 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "9 kg m/s",
+      "14 kg m/s",
+      "5 kg m/s",
+      "28 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=7×2=14 kg m/s."
+  },
+  {
+    "id": "FIS-0365",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 4 kg bergerak dengan kecepatan 14 m/s. Momentumnya ...",
+    "options": [
+      "112 kg m/s",
+      "56 kg m/s",
+      "18 kg m/s",
+      "10 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=4×14=56 kg m/s."
+  },
+  {
+    "id": "FIS-0366",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 15 kg bergerak dengan kecepatan 12 m/s. Momentumnya ...",
+    "options": [
+      "180 kg m/s",
+      "3 kg m/s",
+      "360 kg m/s",
+      "27 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=15×12=180 kg m/s."
+  },
+  {
+    "id": "FIS-0367",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 3 m/s. Momentumnya ...",
+    "options": [
+      "27 kg m/s",
+      "54 kg m/s",
+      "6 kg m/s",
+      "12 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=9×3=27 kg m/s."
+  },
+  {
+    "id": "FIS-0368",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 16 m/s. Momentumnya ...",
+    "options": [
+      "2 kg m/s",
+      "30 kg m/s",
+      "448 kg m/s",
+      "224 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=14×16=224 kg m/s."
+  },
+  {
+    "id": "FIS-0369",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "0 kg m/s",
+      "4 kg m/s",
+      "8 kg m/s",
+      "7 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=2×2=4 kg m/s."
+  },
+  {
+    "id": "FIS-0370",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 15 kg bergerak dengan kecepatan 10 m/s. Momentumnya ...",
+    "options": [
+      "5 kg m/s",
+      "150 kg m/s",
+      "25 kg m/s",
+      "300 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=15×10=150 kg m/s."
+  },
+  {
+    "id": "FIS-0371",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 15 kg bergerak dengan kecepatan 20 m/s. Momentumnya ...",
+    "options": [
+      "600 kg m/s",
+      "300 kg m/s",
+      "35 kg m/s",
+      "5 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=15×20=300 kg m/s."
+  },
+  {
+    "id": "FIS-0372",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 12 m/s. Momentumnya ...",
+    "options": [
+      "3 kg m/s",
+      "21 kg m/s",
+      "216 kg m/s",
+      "108 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=9×12=108 kg m/s."
+  },
+  {
+    "id": "FIS-0373",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 4 m/s. Momentumnya ...",
+    "options": [
+      "13 kg m/s",
+      "5 kg m/s",
+      "36 kg m/s",
+      "72 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=9×4=36 kg m/s."
+  },
+  {
+    "id": "FIS-0374",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 20 m/s. Momentumnya ...",
+    "options": [
+      "40 kg m/s",
+      "22 kg m/s",
+      "18 kg m/s",
+      "80 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=2×20=40 kg m/s."
+  },
+  {
+    "id": "FIS-0375",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 18 m/s. Momentumnya ...",
+    "options": [
+      "9 kg m/s",
+      "27 kg m/s",
+      "324 kg m/s",
+      "162 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=9×18=162 kg m/s."
+  },
+  {
+    "id": "FIS-0376",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 19 m/s. Momentumnya ...",
+    "options": [
+      "21 kg m/s",
+      "38 kg m/s",
+      "76 kg m/s",
+      "17 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=2×19=38 kg m/s."
+  },
+  {
+    "id": "FIS-0377",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 7 kg bergerak dengan kecepatan 5 m/s. Momentumnya ...",
+    "options": [
+      "12 kg m/s",
+      "2 kg m/s",
+      "70 kg m/s",
+      "35 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=7×5=35 kg m/s."
+  },
+  {
+    "id": "FIS-0378",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 6 kg bergerak dengan kecepatan 4 m/s. Momentumnya ...",
+    "options": [
+      "48 kg m/s",
+      "2 kg m/s",
+      "10 kg m/s",
+      "24 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=6×4=24 kg m/s."
+  },
+  {
+    "id": "FIS-0379",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 11 kg bergerak dengan kecepatan 11 m/s. Momentumnya ...",
+    "options": [
+      "0 kg m/s",
+      "22 kg m/s",
+      "242 kg m/s",
+      "121 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=11×11=121 kg m/s."
+  },
+  {
+    "id": "FIS-0380",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 11 kg bergerak dengan kecepatan 20 m/s. Momentumnya ...",
+    "options": [
+      "220 kg m/s",
+      "9 kg m/s",
+      "31 kg m/s",
+      "440 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=11×20=220 kg m/s."
+  },
+  {
+    "id": "FIS-0381",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 12 kg bergerak dengan kecepatan 5 m/s. Momentumnya ...",
+    "options": [
+      "17 kg m/s",
+      "120 kg m/s",
+      "60 kg m/s",
+      "7 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=12×5=60 kg m/s."
+  },
+  {
+    "id": "FIS-0382",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 5 kg bergerak dengan kecepatan 12 m/s. Momentumnya ...",
+    "options": [
+      "7 kg m/s",
+      "17 kg m/s",
+      "120 kg m/s",
+      "60 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=5×12=60 kg m/s."
+  },
+  {
+    "id": "FIS-0383",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 5 kg bergerak dengan kecepatan 14 m/s. Momentumnya ...",
+    "options": [
+      "70 kg m/s",
+      "19 kg m/s",
+      "140 kg m/s",
+      "9 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=5×14=70 kg m/s."
+  },
+  {
+    "id": "FIS-0384",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 9 kg bergerak dengan kecepatan 15 m/s. Momentumnya ...",
+    "options": [
+      "270 kg m/s",
+      "135 kg m/s",
+      "6 kg m/s",
+      "24 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=9×15=135 kg m/s."
+  },
+  {
+    "id": "FIS-0385",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 5 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "3 kg m/s",
+      "20 kg m/s",
+      "7 kg m/s",
+      "10 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=5×2=10 kg m/s."
+  },
+  {
+    "id": "FIS-0386",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 6 kg bergerak dengan kecepatan 2 m/s. Momentumnya ...",
+    "options": [
+      "24 kg m/s",
+      "12 kg m/s",
+      "8 kg m/s",
+      "4 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=6×2=12 kg m/s."
+  },
+  {
+    "id": "FIS-0387",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 6 kg bergerak dengan kecepatan 14 m/s. Momentumnya ...",
+    "options": [
+      "84 kg m/s",
+      "8 kg m/s",
+      "168 kg m/s",
+      "20 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=6×14=84 kg m/s."
+  },
+  {
+    "id": "FIS-0388",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 9 m/s. Momentumnya ...",
+    "options": [
+      "23 kg m/s",
+      "126 kg m/s",
+      "252 kg m/s",
+      "5 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=14×9=126 kg m/s."
+  },
+  {
+    "id": "FIS-0389",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 5 m/s. Momentumnya ...",
+    "options": [
+      "140 kg m/s",
+      "9 kg m/s",
+      "19 kg m/s",
+      "70 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=14×5=70 kg m/s."
+  },
+  {
+    "id": "FIS-0390",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 13 m/s. Momentumnya ...",
+    "options": [
+      "1 kg m/s",
+      "27 kg m/s",
+      "182 kg m/s",
+      "364 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=14×13=182 kg m/s."
+  },
+  {
+    "id": "FIS-0391",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 18 m/s. Momentumnya ...",
+    "options": [
+      "20 kg m/s",
+      "16 kg m/s",
+      "72 kg m/s",
+      "36 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=2×18=36 kg m/s."
+  },
+  {
+    "id": "FIS-0392",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 14 kg bergerak dengan kecepatan 15 m/s. Momentumnya ...",
+    "options": [
+      "29 kg m/s",
+      "210 kg m/s",
+      "1 kg m/s",
+      "420 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=14×15=210 kg m/s."
+  },
+  {
+    "id": "FIS-0393",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 5 kg bergerak dengan kecepatan 5 m/s. Momentumnya ...",
+    "options": [
+      "0 kg m/s",
+      "50 kg m/s",
+      "10 kg m/s",
+      "25 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=5×5=25 kg m/s."
+  },
+  {
+    "id": "FIS-0394",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 4 kg bergerak dengan kecepatan 3 m/s. Momentumnya ...",
+    "options": [
+      "12 kg m/s",
+      "24 kg m/s",
+      "7 kg m/s",
+      "1 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=4×3=12 kg m/s."
+  },
+  {
+    "id": "FIS-0395",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 11 kg bergerak dengan kecepatan 15 m/s. Momentumnya ...",
+    "options": [
+      "330 kg m/s",
+      "4 kg m/s",
+      "165 kg m/s",
+      "26 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=11×15=165 kg m/s."
+  },
+  {
+    "id": "FIS-0396",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 11 kg bergerak dengan kecepatan 15 m/s. Momentumnya ...",
+    "options": [
+      "4 kg m/s",
+      "26 kg m/s",
+      "165 kg m/s",
+      "330 kg m/s"
+    ],
+    "answer": 2,
+    "explanation": "p=mv=11×15=165 kg m/s."
+  },
+  {
+    "id": "FIS-0397",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 2 kg bergerak dengan kecepatan 13 m/s. Momentumnya ...",
+    "options": [
+      "52 kg m/s",
+      "15 kg m/s",
+      "11 kg m/s",
+      "26 kg m/s"
+    ],
+    "answer": 3,
+    "explanation": "p=mv=2×13=26 kg m/s."
+  },
+  {
+    "id": "FIS-0398",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 2,
+    "question": "Benda bermassa 5 kg bergerak dengan kecepatan 11 m/s. Momentumnya ...",
+    "options": [
+      "55 kg m/s",
+      "110 kg m/s",
+      "6 kg m/s",
+      "16 kg m/s"
+    ],
+    "answer": 0,
+    "explanation": "p=mv=5×11=55 kg m/s."
+  },
+  {
+    "id": "FIS-0399",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 3,
+    "question": "Benda bermassa 8 kg bergerak dengan kecepatan 14 m/s. Momentumnya ...",
+    "options": [
+      "22 kg m/s",
+      "112 kg m/s",
+      "224 kg m/s",
+      "6 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=8×14=112 kg m/s."
+  },
+  {
+    "id": "FIS-0400",
+    "category": "Fisika",
+    "topic": "Momentum",
+    "level": 4,
+    "question": "Benda bermassa 13 kg bergerak dengan kecepatan 10 m/s. Momentumnya ...",
+    "options": [
+      "23 kg m/s",
+      "130 kg m/s",
+      "260 kg m/s",
+      "3 kg m/s"
+    ],
+    "answer": 1,
+    "explanation": "p=mv=13×10=130 kg m/s."
+  },
+  {
+    "id": "FIS-0401",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "160000.0 kg",
+      "4.0 kg",
+      "5.0 kg",
+      "8.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=800×0.005=4.0 kg."
+  },
+  {
+    "id": "FIS-0402",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "6.0 kg",
+      "10.0 kg",
+      "200000.0 kg",
+      "5.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1000×0.005=5.0 kg."
+  },
+  {
+    "id": "FIS-0403",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.004 m³. Massanya ...",
+    "options": [
+      "5.0 kg",
+      "8.0 kg",
+      "250000.0 kg",
+      "4.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1000×0.004=4.0 kg."
+  },
+  {
+    "id": "FIS-0404",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.007 m³. Massanya ...",
+    "options": [
+      "14.0 kg",
+      "7.0 kg",
+      "142857.14 kg",
+      "8.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=1000×0.007=7.0 kg."
+  },
+  {
+    "id": "FIS-0405",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.007 m³. Massanya ...",
+    "options": [
+      "3.5 kg",
+      "4.5 kg",
+      "7.0 kg",
+      "71428.57 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=500×0.007=3.5 kg."
+  },
+  {
+    "id": "FIS-0406",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "55555.56 kg",
+      "5.5 kg",
+      "4.5 kg",
+      "9.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=500×0.009=4.5 kg."
+  },
+  {
+    "id": "FIS-0407",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "7.2 kg",
+      "8.2 kg",
+      "14.4 kg",
+      "200000.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1200×0.006=7.2 kg."
+  },
+  {
+    "id": "FIS-0408",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "9.0 kg",
+      "10.0 kg",
+      "111111.11 kg",
+      "18.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1000×0.009=9.0 kg."
+  },
+  {
+    "id": "FIS-0409",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "100000.0 kg",
+      "20.0 kg",
+      "11.0 kg",
+      "10.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1000×0.01=10.0 kg."
+  },
+  {
+    "id": "FIS-0410",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 2700 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "270000.0 kg",
+      "28.0 kg",
+      "27.0 kg",
+      "54.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=2700×0.01=27.0 kg."
+  },
+  {
+    "id": "FIS-0411",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "55555.56 kg",
+      "4.5 kg",
+      "9.0 kg",
+      "5.5 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=500×0.009=4.5 kg."
+  },
+  {
+    "id": "FIS-0412",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.004 m³. Massanya ...",
+    "options": [
+      "9.6 kg",
+      "5.8 kg",
+      "300000.0 kg",
+      "4.8 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1200×0.004=4.8 kg."
+  },
+  {
+    "id": "FIS-0413",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "2.5 kg",
+      "5.0 kg",
+      "100000.0 kg",
+      "3.5 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=500×0.005=2.5 kg."
+  },
+  {
+    "id": "FIS-0414",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "10.0 kg",
+      "6.0 kg",
+      "200000.0 kg",
+      "5.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1000×0.005=5.0 kg."
+  },
+  {
+    "id": "FIS-0415",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "18.0 kg",
+      "111111.11 kg",
+      "9.0 kg",
+      "10.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1000×0.009=9.0 kg."
+  },
+  {
+    "id": "FIS-0416",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "7.2 kg",
+      "14.4 kg",
+      "200000.0 kg",
+      "8.2 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1200×0.006=7.2 kg."
+  },
+  {
+    "id": "FIS-0417",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.004 m³. Massanya ...",
+    "options": [
+      "4.0 kg",
+      "125000.0 kg",
+      "2.0 kg",
+      "3.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=500×0.004=2.0 kg."
+  },
+  {
+    "id": "FIS-0418",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "11.8 kg",
+      "10.8 kg",
+      "21.6 kg",
+      "133333.33 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=1200×0.009=10.8 kg."
+  },
+  {
+    "id": "FIS-0419",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "6.0 kg",
+      "83333.33 kg",
+      "3.0 kg",
+      "4.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=500×0.006=3.0 kg."
+  },
+  {
+    "id": "FIS-0420",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "8.0 kg",
+      "9.0 kg",
+      "80000.0 kg",
+      "16.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=800×0.01=8.0 kg."
+  },
+  {
+    "id": "FIS-0421",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.007 m³. Massanya ...",
+    "options": [
+      "11.2 kg",
+      "6.6 kg",
+      "5.6 kg",
+      "114285.71 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=800×0.007=5.6 kg."
+  },
+  {
+    "id": "FIS-0422",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.004 m³. Massanya ...",
+    "options": [
+      "6.4 kg",
+      "200000.0 kg",
+      "3.2 kg",
+      "4.2 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=800×0.004=3.2 kg."
+  },
+  {
+    "id": "FIS-0423",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.007 m³. Massanya ...",
+    "options": [
+      "9.4 kg",
+      "16.8 kg",
+      "171428.57 kg",
+      "8.4 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1200×0.007=8.4 kg."
+  },
+  {
+    "id": "FIS-0424",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "14.4 kg",
+      "7.2 kg",
+      "88888.89 kg",
+      "8.2 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=800×0.009=7.2 kg."
+  },
+  {
+    "id": "FIS-0425",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "4.8 kg",
+      "133333.33 kg",
+      "9.6 kg",
+      "5.8 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=800×0.006=4.8 kg."
+  },
+  {
+    "id": "FIS-0426",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "9.6 kg",
+      "5.8 kg",
+      "4.8 kg",
+      "133333.33 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=800×0.006=4.8 kg."
+  },
+  {
+    "id": "FIS-0427",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.002 m³. Massanya ...",
+    "options": [
+      "4.0 kg",
+      "1.0 kg",
+      "2.0 kg",
+      "250000.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=500×0.002=1.0 kg."
+  },
+  {
+    "id": "FIS-0428",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.003 m³. Massanya ...",
+    "options": [
+      "3.6 kg",
+      "400000.0 kg",
+      "7.2 kg",
+      "4.6 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1200×0.003=3.6 kg."
+  },
+  {
+    "id": "FIS-0429",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "7.2 kg",
+      "8.2 kg",
+      "88888.89 kg",
+      "14.4 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=800×0.009=7.2 kg."
+  },
+  {
+    "id": "FIS-0430",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.007 m³. Massanya ...",
+    "options": [
+      "142857.14 kg",
+      "8.0 kg",
+      "7.0 kg",
+      "14.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1000×0.007=7.0 kg."
+  },
+  {
+    "id": "FIS-0431",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.003 m³. Massanya ...",
+    "options": [
+      "4.6 kg",
+      "7.2 kg",
+      "3.6 kg",
+      "400000.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1200×0.003=3.6 kg."
+  },
+  {
+    "id": "FIS-0432",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "240000.0 kg",
+      "7.0 kg",
+      "12.0 kg",
+      "6.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1200×0.005=6.0 kg."
+  },
+  {
+    "id": "FIS-0433",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "120000.0 kg",
+      "13.0 kg",
+      "24.0 kg",
+      "12.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1200×0.01=12.0 kg."
+  },
+  {
+    "id": "FIS-0434",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "166666.67 kg",
+      "6.0 kg",
+      "12.0 kg",
+      "7.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=1000×0.006=6.0 kg."
+  },
+  {
+    "id": "FIS-0435",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "7.0 kg",
+      "6.0 kg",
+      "166666.67 kg",
+      "12.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=1000×0.006=6.0 kg."
+  },
+  {
+    "id": "FIS-0436",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.006 m³. Massanya ...",
+    "options": [
+      "6.0 kg",
+      "7.0 kg",
+      "166666.67 kg",
+      "12.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1000×0.006=6.0 kg."
+  },
+  {
+    "id": "FIS-0437",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "9.0 kg",
+      "4.5 kg",
+      "5.5 kg",
+      "55555.56 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=500×0.009=4.5 kg."
+  },
+  {
+    "id": "FIS-0438",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "4.5 kg",
+      "5.5 kg",
+      "9.0 kg",
+      "55555.56 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=500×0.009=4.5 kg."
+  },
+  {
+    "id": "FIS-0439",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "13.0 kg",
+      "24.0 kg",
+      "12.0 kg",
+      "120000.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1200×0.01=12.0 kg."
+  },
+  {
+    "id": "FIS-0440",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 2700 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "27.0 kg",
+      "13.5 kg",
+      "540000.0 kg",
+      "14.5 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=2700×0.005=13.5 kg."
+  },
+  {
+    "id": "FIS-0441",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 2700 kg/m³ memiliki volume 0.005 m³. Massanya ...",
+    "options": [
+      "540000.0 kg",
+      "13.5 kg",
+      "14.5 kg",
+      "27.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=2700×0.005=13.5 kg."
+  },
+  {
+    "id": "FIS-0442",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1200 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "21.6 kg",
+      "11.8 kg",
+      "10.8 kg",
+      "133333.33 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1200×0.009=10.8 kg."
+  },
+  {
+    "id": "FIS-0443",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 2700 kg/m³ memiliki volume 0.002 m³. Massanya ...",
+    "options": [
+      "6.4 kg",
+      "1350000.0 kg",
+      "5.4 kg",
+      "10.8 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=2700×0.002=5.4 kg."
+  },
+  {
+    "id": "FIS-0444",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 500 kg/m³ memiliki volume 0.003 m³. Massanya ...",
+    "options": [
+      "2.5 kg",
+      "166666.67 kg",
+      "1.5 kg",
+      "3.0 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=500×0.003=1.5 kg."
+  },
+  {
+    "id": "FIS-0445",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.008 m³. Massanya ...",
+    "options": [
+      "9.0 kg",
+      "16.0 kg",
+      "125000.0 kg",
+      "8.0 kg"
+    ],
+    "answer": 3,
+    "explanation": "m=ρV=1000×0.008=8.0 kg."
+  },
+  {
+    "id": "FIS-0446",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.003 m³. Massanya ...",
+    "options": [
+      "4.0 kg",
+      "6.0 kg",
+      "3.0 kg",
+      "333333.33 kg"
+    ],
+    "answer": 2,
+    "explanation": "m=ρV=1000×0.003=3.0 kg."
+  },
+  {
+    "id": "FIS-0447",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.004 m³. Massanya ...",
+    "options": [
+      "5.0 kg",
+      "4.0 kg",
+      "250000.0 kg",
+      "8.0 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=1000×0.004=4.0 kg."
+  },
+  {
+    "id": "FIS-0448",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 3,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.01 m³. Massanya ...",
+    "options": [
+      "8.0 kg",
+      "80000.0 kg",
+      "16.0 kg",
+      "9.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=800×0.01=8.0 kg."
+  },
+  {
+    "id": "FIS-0449",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 4,
+    "question": "Suatu bahan bermassa jenis 1000 kg/m³ memiliki volume 0.002 m³. Massanya ...",
+    "options": [
+      "2.0 kg",
+      "500000.0 kg",
+      "4.0 kg",
+      "3.0 kg"
+    ],
+    "answer": 0,
+    "explanation": "m=ρV=1000×0.002=2.0 kg."
+  },
+  {
+    "id": "FIS-0450",
+    "category": "Fisika",
+    "topic": "Massa Jenis",
+    "level": 2,
+    "question": "Suatu bahan bermassa jenis 800 kg/m³ memiliki volume 0.009 m³. Massanya ...",
+    "options": [
+      "88888.89 kg",
+      "7.2 kg",
+      "14.4 kg",
+      "8.2 kg"
+    ],
+    "answer": 1,
+    "explanation": "m=ρV=800×0.009=7.2 kg."
+  },
+  {
+    "id": "FIS-0451",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 39°C setara dengan ...",
+    "options": [
+      "39 K",
+      "322 K",
+      "312 K",
+      "315 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=39+273=312 K."
+  },
+  {
+    "id": "FIS-0452",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 50°C setara dengan ...",
+    "options": [
+      "326 K",
+      "333 K",
+      "50 K",
+      "323 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=50+273=323 K."
+  },
+  {
+    "id": "FIS-0453",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu -4°C setara dengan ...",
+    "options": [
+      "-4 K",
+      "269 K",
+      "272 K",
+      "279 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=-4+273=269 K."
+  },
+  {
+    "id": "FIS-0454",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 49°C setara dengan ...",
+    "options": [
+      "322 K",
+      "49 K",
+      "325 K",
+      "332 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=49+273=322 K."
+  },
+  {
+    "id": "FIS-0455",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu -5°C setara dengan ...",
+    "options": [
+      "-5 K",
+      "268 K",
+      "278 K",
+      "271 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=-5+273=268 K."
+  },
+  {
+    "id": "FIS-0456",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 7°C setara dengan ...",
+    "options": [
+      "290 K",
+      "283 K",
+      "280 K",
+      "7 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=7+273=280 K."
+  },
+  {
+    "id": "FIS-0457",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 62°C setara dengan ...",
+    "options": [
+      "338 K",
+      "345 K",
+      "62 K",
+      "335 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=62+273=335 K."
+  },
+  {
+    "id": "FIS-0458",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 1°C setara dengan ...",
+    "options": [
+      "277 K",
+      "1 K",
+      "274 K",
+      "284 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=1+273=274 K."
+  },
+  {
+    "id": "FIS-0459",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 15°C setara dengan ...",
+    "options": [
+      "291 K",
+      "15 K",
+      "288 K",
+      "298 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=15+273=288 K."
+  },
+  {
+    "id": "FIS-0460",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu -2°C setara dengan ...",
+    "options": [
+      "271 K",
+      "274 K",
+      "281 K",
+      "-2 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=-2+273=271 K."
+  },
+  {
+    "id": "FIS-0461",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 3°C setara dengan ...",
+    "options": [
+      "3 K",
+      "279 K",
+      "276 K",
+      "286 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=3+273=276 K."
+  },
+  {
+    "id": "FIS-0462",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 30°C setara dengan ...",
+    "options": [
+      "306 K",
+      "303 K",
+      "313 K",
+      "30 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=30+273=303 K."
+  },
+  {
+    "id": "FIS-0463",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 40°C setara dengan ...",
+    "options": [
+      "313 K",
+      "40 K",
+      "316 K",
+      "323 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=40+273=313 K."
+  },
+  {
+    "id": "FIS-0464",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 75°C setara dengan ...",
+    "options": [
+      "358 K",
+      "351 K",
+      "348 K",
+      "75 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=75+273=348 K."
+  },
+  {
+    "id": "FIS-0465",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 44°C setara dengan ...",
+    "options": [
+      "327 K",
+      "44 K",
+      "320 K",
+      "317 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=44+273=317 K."
+  },
+  {
+    "id": "FIS-0466",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 60°C setara dengan ...",
+    "options": [
+      "333 K",
+      "60 K",
+      "336 K",
+      "343 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=60+273=333 K."
+  },
+  {
+    "id": "FIS-0467",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 16°C setara dengan ...",
+    "options": [
+      "292 K",
+      "16 K",
+      "289 K",
+      "299 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=16+273=289 K."
+  },
+  {
+    "id": "FIS-0468",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 74°C setara dengan ...",
+    "options": [
+      "357 K",
+      "347 K",
+      "74 K",
+      "350 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=74+273=347 K."
+  },
+  {
+    "id": "FIS-0469",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 49°C setara dengan ...",
+    "options": [
+      "322 K",
+      "325 K",
+      "49 K",
+      "332 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=49+273=322 K."
+  },
+  {
+    "id": "FIS-0470",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu -10°C setara dengan ...",
+    "options": [
+      "266 K",
+      "-10 K",
+      "263 K",
+      "273 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=-10+273=263 K."
+  },
+  {
+    "id": "FIS-0471",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 61°C setara dengan ...",
+    "options": [
+      "61 K",
+      "337 K",
+      "344 K",
+      "334 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=61+273=334 K."
+  },
+  {
+    "id": "FIS-0472",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 51°C setara dengan ...",
+    "options": [
+      "334 K",
+      "51 K",
+      "324 K",
+      "327 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=51+273=324 K."
+  },
+  {
+    "id": "FIS-0473",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 72°C setara dengan ...",
+    "options": [
+      "355 K",
+      "72 K",
+      "345 K",
+      "348 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=72+273=345 K."
+  },
+  {
+    "id": "FIS-0474",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 64°C setara dengan ...",
+    "options": [
+      "337 K",
+      "340 K",
+      "347 K",
+      "64 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=64+273=337 K."
+  },
+  {
+    "id": "FIS-0475",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 75°C setara dengan ...",
+    "options": [
+      "351 K",
+      "348 K",
+      "75 K",
+      "358 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=75+273=348 K."
+  },
+  {
+    "id": "FIS-0476",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 15°C setara dengan ...",
+    "options": [
+      "15 K",
+      "291 K",
+      "298 K",
+      "288 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=15+273=288 K."
+  },
+  {
+    "id": "FIS-0477",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu -9°C setara dengan ...",
+    "options": [
+      "267 K",
+      "-9 K",
+      "274 K",
+      "264 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=-9+273=264 K."
+  },
+  {
+    "id": "FIS-0478",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 55°C setara dengan ...",
+    "options": [
+      "331 K",
+      "338 K",
+      "328 K",
+      "55 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=55+273=328 K."
+  },
+  {
+    "id": "FIS-0479",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 21°C setara dengan ...",
+    "options": [
+      "297 K",
+      "304 K",
+      "21 K",
+      "294 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=21+273=294 K."
+  },
+  {
+    "id": "FIS-0480",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 38°C setara dengan ...",
+    "options": [
+      "311 K",
+      "38 K",
+      "321 K",
+      "314 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=38+273=311 K."
+  },
+  {
+    "id": "FIS-0481",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 53°C setara dengan ...",
+    "options": [
+      "329 K",
+      "336 K",
+      "53 K",
+      "326 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=53+273=326 K."
+  },
+  {
+    "id": "FIS-0482",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 31°C setara dengan ...",
+    "options": [
+      "31 K",
+      "307 K",
+      "314 K",
+      "304 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=31+273=304 K."
+  },
+  {
+    "id": "FIS-0483",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 68°C setara dengan ...",
+    "options": [
+      "351 K",
+      "341 K",
+      "344 K",
+      "68 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=68+273=341 K."
+  },
+  {
+    "id": "FIS-0484",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 58°C setara dengan ...",
+    "options": [
+      "331 K",
+      "334 K",
+      "58 K",
+      "341 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=58+273=331 K."
+  },
+  {
+    "id": "FIS-0485",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu -4°C setara dengan ...",
+    "options": [
+      "279 K",
+      "269 K",
+      "272 K",
+      "-4 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=-4+273=269 K."
+  },
+  {
+    "id": "FIS-0486",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 50°C setara dengan ...",
+    "options": [
+      "50 K",
+      "323 K",
+      "333 K",
+      "326 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=50+273=323 K."
+  },
+  {
+    "id": "FIS-0487",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 77°C setara dengan ...",
+    "options": [
+      "360 K",
+      "77 K",
+      "350 K",
+      "353 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=77+273=350 K."
+  },
+  {
+    "id": "FIS-0488",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 68°C setara dengan ...",
+    "options": [
+      "341 K",
+      "344 K",
+      "68 K",
+      "351 K"
+    ],
+    "answer": 0,
+    "explanation": "T(K)=T(°C)+273=68+273=341 K."
+  },
+  {
+    "id": "FIS-0489",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 73°C setara dengan ...",
+    "options": [
+      "356 K",
+      "349 K",
+      "73 K",
+      "346 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=73+273=346 K."
+  },
+  {
+    "id": "FIS-0490",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 18°C setara dengan ...",
+    "options": [
+      "294 K",
+      "301 K",
+      "18 K",
+      "291 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=18+273=291 K."
+  },
+  {
+    "id": "FIS-0491",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 36°C setara dengan ...",
+    "options": [
+      "319 K",
+      "36 K",
+      "312 K",
+      "309 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=36+273=309 K."
+  },
+  {
+    "id": "FIS-0492",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 7°C setara dengan ...",
+    "options": [
+      "7 K",
+      "290 K",
+      "283 K",
+      "280 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=7+273=280 K."
+  },
+  {
+    "id": "FIS-0493",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 46°C setara dengan ...",
+    "options": [
+      "46 K",
+      "329 K",
+      "319 K",
+      "322 K"
+    ],
+    "answer": 2,
+    "explanation": "T(K)=T(°C)+273=46+273=319 K."
+  },
+  {
+    "id": "FIS-0494",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 46°C setara dengan ...",
+    "options": [
+      "46 K",
+      "322 K",
+      "329 K",
+      "319 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=46+273=319 K."
+  },
+  {
+    "id": "FIS-0495",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 62°C setara dengan ...",
+    "options": [
+      "338 K",
+      "335 K",
+      "345 K",
+      "62 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=62+273=335 K."
+  },
+  {
+    "id": "FIS-0496",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 71°C setara dengan ...",
+    "options": [
+      "354 K",
+      "71 K",
+      "347 K",
+      "344 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=71+273=344 K."
+  },
+  {
+    "id": "FIS-0497",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 34°C setara dengan ...",
+    "options": [
+      "310 K",
+      "307 K",
+      "34 K",
+      "317 K"
+    ],
+    "answer": 1,
+    "explanation": "T(K)=T(°C)+273=34+273=307 K."
+  },
+  {
+    "id": "FIS-0498",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 4,
+    "question": "Suhu 29°C setara dengan ...",
+    "options": [
+      "312 K",
+      "305 K",
+      "29 K",
+      "302 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=29+273=302 K."
+  },
+  {
+    "id": "FIS-0499",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 2,
+    "question": "Suhu 25°C setara dengan ...",
+    "options": [
+      "301 K",
+      "308 K",
+      "25 K",
+      "298 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=25+273=298 K."
+  },
+  {
+    "id": "FIS-0500",
+    "category": "Fisika",
+    "topic": "Suhu",
+    "level": 3,
+    "question": "Suhu 80°C setara dengan ...",
+    "options": [
+      "80 K",
+      "356 K",
+      "363 K",
+      "353 K"
+    ],
+    "answer": 3,
+    "explanation": "T(K)=T(°C)+273=80+273=353 K."
+  }
+]
