@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f4c81">
+  <meta name="description" content="Aplikasi latihan soal kelas X, HOTS, penalaran, sains, dan olimpiade dasar Sanggar Belajar Mam Is.">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="assets/logo-mam-is.png">
+  <link rel="apple-touch-icon" href="assets/logo-mam-is.png">
+  <title>Sanggar Belajar Mam Is - Smart X</title>
+  <style>
+    :root{
+      --blue:#0f4c81; --blue2:#1877b8; --cyan:#19b7c6; --orange:#ffad45;
+      --red:#e95a64; --ink:#172433; --muted:#687789; --bg:#f4f8fc; --card:#fff;
+      --line:#dfe8f1; --good:#1f9d68; --bad:#d64550;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+    button,select,input{font:inherit}
+    .app{max-width:760px;margin:auto;min-height:100vh;padding-bottom:92px}
+    header{background:linear-gradient(135deg,var(--blue),var(--blue2));color:white;padding:18px 18px 28px;border-radius:0 0 28px 28px}
+    .brand{display:flex;gap:13px;align-items:center}
+    .brand img{width:72px;height:72px;object-fit:contain;background:white;border-radius:18px;padding:5px}
+    .brand h1{font-size:21px;margin:0 0 3px}.brand p{margin:0;opacity:.9;font-size:13px}
+    .hero{margin-top:18px}.hero h2{font-size:26px;margin:0 0 6px}.hero p{margin:0;opacity:.92;line-height:1.5}
+    main{padding:16px}
+    .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;box-shadow:0 8px 22px rgba(15,76,129,.06)}
+    .stat strong{font-size:24px;display:block}.stat span{font-size:12px;color:var(--muted)}
+    .section-title{display:flex;align-items:center;justify-content:space-between;margin:22px 2px 11px}
+    .section-title h3{margin:0;font-size:18px}
+    .btn{border:0;border-radius:14px;padding:13px 16px;font-weight:750;cursor:pointer}
+    .btn-primary{background:var(--blue);color:white}.btn-secondary{background:#e8f2fa;color:var(--blue)}
+    .btn-wide{width:100%}.btn:disabled{opacity:.45;cursor:not-allowed}
+    .feature{display:flex;align-items:center;gap:12px;margin-bottom:10px}.feature:last-child{margin-bottom:0}
+    .icon{width:42px;height:42px;display:grid;place-items:center;border-radius:13px;background:#eef6fc;font-size:21px}
+    label{font-size:13px;font-weight:700;display:block;margin:12px 0 6px}
+    select,input{width:100%;border:1px solid var(--line);background:white;border-radius:12px;padding:12px}
+    .hidden{display:none!important}
+    .quiz-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:12px}
+    .pill{background:#e9f4fb;color:var(--blue);padding:8px 11px;border-radius:999px;font-weight:700;font-size:12px}
+    .progress{height:9px;background:#e4edf5;border-radius:999px;overflow:hidden;margin:10px 0 18px}.progress>div{height:100%;background:var(--cyan)}
+    .passage{padding:13px;background:#f5f8fb;border-left:4px solid var(--cyan);border-radius:10px;margin-bottom:14px;line-height:1.55}
+    .question{font-weight:750;font-size:18px;line-height:1.5;margin-bottom:14px}
+    .option{display:block;width:100%;text-align:left;border:1px solid var(--line);background:white;padding:13px 14px;border-radius:13px;margin:9px 0;cursor:pointer}
+    .option.selected{border-color:var(--blue);background:#edf6fd}.option.correct{border-color:var(--good);background:#eaf8f1}.option.wrong{border-color:var(--bad);background:#fff0f1}
+    .quiz-actions{display:flex;gap:10px;margin-top:16px}.quiz-actions .btn{flex:1}
+    .result-score{text-align:center;padding:8px 0 16px}.result-score strong{font-size:54px;color:var(--blue)}.result-score p{margin:4px;color:var(--muted)}
+    .review{margin-top:12px}.review h4{margin:0 0 8px}.explain{background:#f6fafc;border-radius:12px;padding:12px;line-height:1.5;font-size:14px}
+    nav{position:fixed;left:50%;bottom:0;transform:translateX(-50%);width:min(760px,100%);display:grid;grid-template-columns:repeat(4,1fr);background:white;border-top:1px solid var(--line);padding:8px max(8px,env(safe-area-inset-right)) calc(8px + env(safe-area-inset-bottom));z-index:10}
+    nav button{border:0;background:none;padding:7px 2px;color:var(--muted);font-size:11px;font-weight:700}nav button span{display:block;font-size:21px;margin-bottom:2px}nav button.active{color:var(--blue)}
+    .category-list{display:grid;gap:10px}.category-item{display:flex;justify-content:space-between;align-items:center}
+    .small{font-size:12px;color:var(--muted)}
+    footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
+  </style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand">
+      <img src="assets/logo-mam-is.png" alt="Logo Sanggar Belajar Mam Is">
+      <div><h1>Sanggar Belajar Mam Is</h1><p>Smart X • Kelas X SMA</p></div>
+    </div>
+    <div class="hero"><h2>Latihan berpikir, bukan sekadar menghafal.</h2><p>HOTS, penalaran, sains, literasi, dan olimpiade dasar untuk membangun fondasi kuat sejak kelas X.</p></div>
+  </header>
+
+  <main>
+    <section id="home">
+      <div class="grid">
+        <div class="card stat"><strong id="totalDone">0</strong><span>Soal dikerjakan</span></div>
+        <div class="card stat"><strong id="bestScore">0</strong><span>Nilai terbaik</span></div>
+        <div class="card stat"><strong id="accuracy">0%</strong><span>Akurasi</span></div>
+        <div class="card stat"><strong id="streak">1</strong><span>Hari semangat</span></div>
+      </div>
+
+      <div class="section-title"><h3>Mulai belajar</h3></div>
+      <div class="card">
+        <div class="feature"><div class="icon">🧠</div><div><b>Latihan adaptif kelas X</b><div class="small">Pilih materi, level, dan jumlah soal.</div></div></div>
+        <button class="btn btn-primary btn-wide" onclick="showPage('practice')">Mulai Latihan</button>
+      </div>
+
+      <div class="section-title"><h3>Fokus utama</h3></div>
+      <div class="card">
+        <div class="feature"><div class="icon">🔢</div><div><b>Penalaran & Matematika</b><div class="small">Pola, logika, aljabar, teori bilangan, kombinatorika.</div></div></div>
+        <div class="feature"><div class="icon">🔬</div><div><b>Sains kelas X</b><div class="small">Fisika, kimia, dan biologi berbasis pemahaman.</div></div></div>
+        <div class="feature"><div class="icon">📖</div><div><b>Literasi & Verbal</b><div class="small">Inferensi, analogi, argumen, dan simpulan.</div></div></div>
+      </div>
+    </section>
+
+    <section id="practice" class="hidden">
+      <div class="section-title"><h3>Atur Latihan</h3></div>
+      <div class="card">
+        <label for="category">Materi</label>
+        <select id="category"><option value="Semua">Semua Materi</option></select>
+        <label for="level">Tingkat Kesulitan</label>
+        <select id="level">
+          <option value="0">Semua Level</option>
+          <option value="2">Dasar–Menengah</option>
+          <option value="3">HOTS</option>
+          <option value="4">Olimpiade Dasar</option>
+        </select>
+        <label for="count">Jumlah Soal</label>
+        <select id="count"><option>5</option><option>10</option><option>15</option><option>20</option></select>
+        <button class="btn btn-primary btn-wide" style="margin-top:16px" onclick="startQuiz()">Mulai Sekarang</button>
+      </div>
+      <div class="section-title"><h3>Bank Materi</h3></div>
+      <div id="categoryList" class="category-list"></div>
+    </section>
+
+    <section id="quiz" class="hidden">
+      <div class="quiz-head"><span class="pill" id="quizMeta"></span><span class="pill" id="quizNumber"></span></div>
+      <div class="progress"><div id="progressBar"></div></div>
+      <div class="card">
+        <div id="passage" class="passage hidden"></div>
+        <div id="questionText" class="question"></div>
+        <div id="options"></div>
+        <div class="quiz-actions">
+          <button class="btn btn-secondary" id="prevBtn" onclick="prevQuestion()">Sebelumnya</button>
+          <button class="btn btn-primary" id="nextBtn" onclick="nextQuestion()">Berikutnya</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="result" class="hidden">
+      <div class="section-title"><h3>Hasil Latihan</h3></div>
+      <div class="card">
+        <div class="result-score"><strong id="scoreValue">0</strong><p id="scoreText"></p></div>
+        <div class="grid">
+          <div class="card stat"><strong id="correctValue">0</strong><span>Benar</span></div>
+          <div class="card stat"><strong id="wrongValue">0</strong><span>Salah</span></div>
+        </div>
+        <button class="btn btn-primary btn-wide" style="margin-top:15px" onclick="showPage('practice')">Latihan Lagi</button>
+      </div>
+      <div id="reviewList"></div>
+    </section>
+
+    <section id="progressPage" class="hidden">
+      <div class="section-title"><h3>Progres Belajar</h3></div>
+      <div class="card">
+        <p><b>Nilai terbaik:</b> <span id="pBest">0</span></p>
+        <p><b>Total soal:</b> <span id="pTotal">0</span></p>
+        <p><b>Total benar:</b> <span id="pCorrect">0</span></p>
+        <p><b>Akurasi:</b> <span id="pAccuracy">0%</span></p>
+        <button class="btn btn-secondary btn-wide" onclick="resetProgress()">Reset Progres</button>
+      </div>
+    </section>
+    <footer>© 2026 Sanggar Belajar Mam Is • Smart X</footer>
+  </main>
+
+  <nav>
+    <button id="nav-home" class="active" onclick="showPage('home')"><span>🏠</span>Beranda</button>
+    <button id="nav-practice" onclick="showPage('practice')"><span>📝</span>Latihan</button>
+    <button id="nav-progressPage" onclick="showPage('progressPage')"><span>📊</span>Progres</button>
+    <button onclick="installApp()"><span>📲</span>Pasang</button>
+  </nav>
+</div>
+
+<script>
+let allQuestions=[], quizQuestions=[], answers=[], current=0, deferredPrompt=null;
+const pages=['home','practice','quiz','result','progressPage'];
+
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;});
+async function installApp(){
+  if(deferredPrompt){deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null;}
+  else alert('Gunakan menu browser lalu pilih “Tambahkan ke layar utama” atau “Instal aplikasi”.');
+}
+function shuffle(a){return [...a].sort(()=>Math.random()-.5)}
+function showPage(id){
+  pages.forEach(p=>document.getElementById(p).classList.toggle('hidden',p!==id));
+  document.querySelectorAll('nav button').forEach(b=>b.classList.remove('active'));
+  const n=document.getElementById('nav-'+id); if(n)n.classList.add('active');
+  if(id==='home'||id==='progressPage') updateStats();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+fetch('questions.json').then(r=>r.json()).then(data=>{
+  allQuestions=data;
+  const cats=[...new Set(data.map(q=>q.category))].sort();
+  category.innerHTML += cats.map(c=>`<option>${c}</option>`).join('');
+  const counts={}; data.forEach(q=>counts[q.category]=(counts[q.category]||0)+1);
+  categoryList.innerHTML=cats.map(c=>`<div class="card category-item"><div><b>${c}</b><div class="small">${counts[c]} soal awal</div></div><span>›</span></div>`).join('');
+}).catch(()=>alert('Bank soal gagal dimuat. Pastikan questions.json berada satu folder dengan index.html.'));
+
+function startQuiz(){
+  let pool=allQuestions.filter(q=>{
+    const c=category.value==='Semua'||q.category===category.value;
+    const l=+level.value===0||q.level===+level.value;
+    return c&&l;
+  });
+  if(!pool.length){alert('Belum ada soal pada pilihan ini.');return;}
+  quizQuestions=shuffle(pool).slice(0,Math.min(+count.value,pool.length));
+  answers=Array(quizQuestions.length).fill(null); current=0; showPage('quiz'); renderQuestion();
+}
+function renderQuestion(){
+  const q=quizQuestions[current];
+  quizMeta.textContent=`${q.category} • Level ${q.level}`;
+  quizNumber.textContent=`${current+1}/${quizQuestions.length}`;
+  progressBar.style.width=`${((current+1)/quizQuestions.length)*100}%`;
+  questionText.textContent=q.question;
+  if(q.passage){passage.textContent=q.passage;passage.classList.remove('hidden')}else passage.classList.add('hidden');
+  options.innerHTML=q.options.map((o,i)=>`<button class="option ${answers[current]===i?'selected':''}" onclick="choose(${i})">${String.fromCharCode(65+i)}. ${o}</button>`).join('');
+  prevBtn.disabled=current===0;
+  nextBtn.textContent=current===quizQuestions.length-1?'Selesai':'Berikutnya';
+}
+function choose(i){answers[current]=i;renderQuestion()}
+function prevQuestion(){if(current>0){current--;renderQuestion()}}
+function nextQuestion(){
+  if(answers[current]===null){alert('Pilih salah satu jawaban terlebih dahulu.');return;}
+  if(current<quizQuestions.length-1){current++;renderQuestion()}else finishQuiz();
+}
+function finishQuiz(){
+  const correct=quizQuestions.reduce((n,q,i)=>n+(answers[i]===q.answer),0);
+  const score=Math.round(correct/quizQuestions.length*100);
+  scoreValue.textContent=score; correctValue.textContent=correct; wrongValue.textContent=quizQuestions.length-correct;
+  scoreText.textContent=score>=85?'Sangat baik! Pertahankan.':score>=70?'Baik. Terus tingkatkan.':'Tetap semangat dan pelajari pembahasannya.';
+  reviewList.innerHTML=quizQuestions.map((q,i)=>`
+    <div class="card review">
+      <h4>${i+1}. ${answers[i]===q.answer?'✅ Benar':'❌ Belum tepat'}</h4>
+      <div class="small">Jawaban benar: ${String.fromCharCode(65+q.answer)}. ${q.options[q.answer]}</div>
+      <div class="explain" style="margin-top:8px">${q.explanation}</div>
+    </div>`).join('');
+  const s=JSON.parse(localStorage.getItem('mamIsStats')||'{"total":0,"correct":0,"best":0}');
+  s.total+=quizQuestions.length;s.correct+=correct;s.best=Math.max(s.best,score);
+  localStorage.setItem('mamIsStats',JSON.stringify(s)); showPage('result');
+}
+function updateStats(){
+  const s=JSON.parse(localStorage.getItem('mamIsStats')||'{"total":0,"correct":0,"best":0}');
+  const acc=s.total?Math.round(s.correct/s.total*100):0;
+  totalDone.textContent=s.total;bestScore.textContent=s.best;accuracy.textContent=acc+'%';
+  pBest.textContent=s.best;pTotal.textContent=s.total;pCorrect.textContent=s.correct;pAccuracy.textContent=acc+'%';
+}
+function resetProgress(){if(confirm('Hapus seluruh progres belajar?')){localStorage.removeItem('mamIsStats');updateStats()}}
+if('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js'));
+updateStats();
+</script>
+</body>
+</html>
