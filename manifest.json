@@ -1,0 +1,23 @@
+{
+  "name": "Sanggar Belajar Mam Is - Smart X",
+  "short_name": "Mam Is Smart X",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#0f4c81",
+  "description": "Latihan soal kelas X, HOTS, sains, literasi, dan olimpiade dasar.",
+  "icons": [
+    {
+      "src": "assets/logo-mam-is.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo-mam-is.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
