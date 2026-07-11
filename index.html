@@ -76,7 +76,7 @@
 
       <div class="section-title"><h3>Mulai belajar</h3></div>
       <div class="card">
-        <div class="feature"><div class="icon">🧠</div><div><b>Latihan adaptif kelas X</b><div class="small">Pilih materi, level, dan jumlah soal.</div></div></div>
+        <div class="feature"><div class="icon">🧠</div><div><b>Latihan adaptif kelas X</b><div class="small">1.500 soal fase awal • soal baru diprioritaskan sebelum soal yang pernah dikerjakan.</div></div></div>
         <button class="btn btn-primary btn-wide" onclick="showPage('practice')">Mulai Latihan</button>
       </div>
 
@@ -99,9 +99,10 @@
           <option value="2">Dasar–Menengah</option>
           <option value="3">HOTS</option>
           <option value="4">Olimpiade Dasar</option>
+          <option value="5">Olimpiade Lanjut</option>
         </select>
         <label for="count">Jumlah Soal</label>
-        <select id="count"><option>5</option><option>10</option><option>15</option><option>20</option></select>
+        <select id="count"><option>5</option><option>10</option><option>15</option><option>20</option><option>30</option><option>50</option><option>100</option></select>
         <button class="btn btn-primary btn-wide" style="margin-top:16px" onclick="startQuiz()">Mulai Sekarang</button>
       </div>
       <div class="section-title"><h3>Bank Materi</h3></div>
@@ -145,7 +146,7 @@
         <button class="btn btn-secondary btn-wide" onclick="resetProgress()">Reset Progres</button>
       </div>
     </section>
-    <footer>© 2026 Sanggar Belajar Mam Is • Smart X</footer>
+    <footer>© 2026 Sanggar Belajar Mam Is • Smart X V3 • Bank Soal Besar</footer>
   </main>
 
   <nav>
@@ -173,13 +174,38 @@ function showPage(id){
   if(id==='home'||id==='progressPage') updateStats();
   window.scrollTo({top:0,behavior:'smooth'});
 }
-fetch('questions.json').then(r=>r.json()).then(data=>{
+const QUESTION_FILES=[
+  'questions/matematika.json',
+  'questions/fisika.json'
+];
+
+async function loadQuestionBank(){
+  const responses=await Promise.all(QUESTION_FILES.map(file=>fetch(file)));
+  const failed=responses.find(r=>!r.ok);
+  if(failed) throw new Error(`Gagal memuat bank soal: ${failed.url}`);
+  const banks=await Promise.all(responses.map(r=>r.json()));
+  return banks.flat();
+}
+
+loadQuestionBank().then(data=>{
   allQuestions=data;
   const cats=[...new Set(data.map(q=>q.category))].sort();
-  category.innerHTML += cats.map(c=>`<option>${c}</option>`).join('');
+  category.innerHTML='<option value="Semua">Semua Materi</option>'+cats.map(c=>`<option>${c}</option>`).join('');
   const counts={}; data.forEach(q=>counts[q.category]=(counts[q.category]||0)+1);
-  categoryList.innerHTML=cats.map(c=>`<div class="card category-item"><div><b>${c}</b><div class="small">${counts[c]} soal awal</div></div><span>›</span></div>`).join('');
-}).catch(()=>alert('Bank soal gagal dimuat. Pastikan questions.json berada satu folder dengan index.html.'));
+  categoryList.innerHTML=cats.map(c=>`
+    <div class="card category-item" onclick="chooseCategory('${c.replace(/'/g,"\'")}')" style="cursor:pointer">
+      <div><b>${c}</b><div class="small">${counts[c].toLocaleString('id-ID')} soal tersedia</div></div>
+      <span>›</span>
+    </div>`).join('');
+}).catch(err=>{
+  console.error(err);
+  alert('Bank soal gagal dimuat. Pastikan folder questions dan file JSON sudah di-upload ke GitHub.');
+});
+
+function chooseCategory(name){
+  category.value=name;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
 
 function startQuiz(){
   let pool=allQuestions.filter(q=>{
@@ -188,8 +214,18 @@ function startQuiz(){
     return c&&l;
   });
   if(!pool.length){alert('Belum ada soal pada pilihan ini.');return;}
-  quizQuestions=shuffle(pool).slice(0,Math.min(+count.value,pool.length));
-  answers=Array(quizQuestions.length).fill(null); current=0; showPage('quiz'); renderQuestion();
+
+  const wanted=Math.min(+count.value,pool.length);
+  const seen=JSON.parse(localStorage.getItem('mamIsSeenQuestions')||'[]');
+  const seenSet=new Set(seen);
+  let fresh=shuffle(pool.filter(q=>!seenSet.has(q.id)));
+  let used=shuffle(pool.filter(q=>seenSet.has(q.id)));
+
+  quizQuestions=[...fresh,...used].slice(0,wanted);
+  answers=Array(quizQuestions.length).fill(null);
+  current=0;
+  showPage('quiz');
+  renderQuestion();
 }
 function renderQuestion(){
   const q=quizQuestions[current];
@@ -221,7 +257,11 @@ function finishQuiz(){
     </div>`).join('');
   const s=JSON.parse(localStorage.getItem('mamIsStats')||'{"total":0,"correct":0,"best":0}');
   s.total+=quizQuestions.length;s.correct+=correct;s.best=Math.max(s.best,score);
-  localStorage.setItem('mamIsStats',JSON.stringify(s)); showPage('result');
+  localStorage.setItem('mamIsStats',JSON.stringify(s));
+  const seen=JSON.parse(localStorage.getItem('mamIsSeenQuestions')||'[]');
+  const merged=[...new Set([...seen,...quizQuestions.map(q=>q.id)])].slice(-5000);
+  localStorage.setItem('mamIsSeenQuestions',JSON.stringify(merged));
+  showPage('result');
 }
 function updateStats(){
   const s=JSON.parse(localStorage.getItem('mamIsStats')||'{"total":0,"correct":0,"best":0}');
@@ -229,7 +269,7 @@ function updateStats(){
   totalDone.textContent=s.total;bestScore.textContent=s.best;accuracy.textContent=acc+'%';
   pBest.textContent=s.best;pTotal.textContent=s.total;pCorrect.textContent=s.correct;pAccuracy.textContent=acc+'%';
 }
-function resetProgress(){if(confirm('Hapus seluruh progres belajar?')){localStorage.removeItem('mamIsStats');updateStats()}}
+function resetProgress(){if(confirm('Hapus seluruh progres dan riwayat soal?')){localStorage.removeItem('mamIsStats');localStorage.removeItem('mamIsSeenQuestions');updateStats()}}
 if('serviceWorker' in navigator) window.addEventListener('load',()=>navigator.serviceWorker.register('service-worker.js'));
 updateStats();
 </script>
