@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "VER-0001",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "MENDENGAR",
+      "PESAWAT",
+      "PETA"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0002",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SUHU",
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "PETA"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0003",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SUHU",
+      "MELUKIS",
+      "AKUN",
+      "SISWA"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0004",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SISWA",
+      "BANGUNAN",
+      "SUHU",
+      "PETA"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0005",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "PESAWAT",
+      "BANGUNAN",
+      "SISWA",
+      "HAUS"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0006",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SUHU",
+      "PESAWAT",
+      "AKUN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0007",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MELUKIS",
+      "MENDENGAR",
+      "SUHU",
+      "SISWA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0008",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "PESAWAT",
+      "SISWA",
+      "PETA",
+      "MELUKIS"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0009",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "PETA",
+      "HAUS",
+      "AKUN",
+      "SUHU"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0010",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "PETA",
+      "MENDENGAR",
+      "PESAWAT",
+      "AKUN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0011",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "PESAWAT",
+      "PETA",
+      "SUHU"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0012",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "PESAWAT",
+      "MELUKIS",
+      "MENDENGAR",
+      "SUHU"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0013",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "SUHU",
+      "SISWA",
+      "PETA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0014",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MELUKIS",
+      "AKUN",
+      "PESAWAT",
+      "SISWA"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0015",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "MELUKIS",
+      "PETA",
+      "HAUS",
+      "MENDENGAR"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0016",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SUHU",
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "PESAWAT"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0017",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "AKUN",
+      "SISWA",
+      "SUHU"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0018",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "AKUN",
+      "PETA",
+      "PESAWAT",
+      "MELUKIS"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0019",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "HAUS",
+      "MELUKIS",
+      "SISWA",
+      "MENDENGAR"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0020",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "BANGUNAN",
+      "HAUS",
+      "MELUKIS",
+      "MENDENGAR"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0021",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MENDENGAR",
+      "HAUS",
+      "PETA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0022",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "MENDENGAR",
+      "SISWA",
+      "AKUN",
+      "MELUKIS"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0023",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "MENDENGAR",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN",
+      "AKUN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0024",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "PETA",
+      "BANGUNAN",
+      "MENDENGAR",
+      "SISWA"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0025",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "HAUS",
+      "SISWA",
+      "BANGUNAN",
+      "PETA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0026",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "SISWA",
+      "MENDENGAR",
+      "BANGUNAN",
+      "PETA"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0027",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "HAUS",
+      "MELUKIS",
+      "SISWA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0028",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "PESAWAT",
+      "PETA",
+      "AKUN",
+      "SISWA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0029",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "SUHU",
+      "MELUKIS",
+      "MENDENGAR",
+      "PESAWAT"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0030",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "MELUKIS",
+      "PESAWAT",
+      "BANGUNAN",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0031",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "PETA",
+      "SUHU",
+      "MENDENGAR",
+      "BANGUNAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0032",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "HAUS",
+      "SUHU",
+      "PETA"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0033",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "MENDENGAR",
+      "PETA",
+      "MELUKIS",
+      "BANGUNAN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0034",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SUHU",
+      "BANGUNAN",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0035",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "PESAWAT",
+      "MELUKIS",
+      "SISWA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0036",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "SUHU",
+      "PETA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0037",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "SISWA",
+      "AKUN",
+      "SPESIMEN TUMBUHAN",
+      "HAUS"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0038",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "BANGUNAN",
+      "AKUN",
+      "SPESIMEN TUMBUHAN",
+      "MELUKIS"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0039",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MENDENGAR",
+      "HAUS",
+      "SPESIMEN TUMBUHAN",
+      "AKUN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0040",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MELUKIS",
+      "MENDENGAR",
+      "HAUS",
+      "BANGUNAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0041",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "HAUS",
+      "SISWA",
+      "BANGUNAN",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0042",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MENDENGAR",
+      "SUHU",
+      "MELUKIS",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0043",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "PESAWAT",
+      "PETA"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0044",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MENDENGAR",
+      "PESAWAT",
+      "PETA",
+      "MELUKIS"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0045",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "PETA",
+      "BANGUNAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0046",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "PESAWAT",
+      "AKUN",
+      "HAUS",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0047",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN",
+      "PETA",
+      "MENDENGAR"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0048",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "SUHU",
+      "PETA",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0049",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "MELUKIS",
+      "PETA",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0050",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "HAUS",
+      "MENDENGAR",
+      "SISWA",
+      "PETA"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0051",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "AKUN",
+      "BANGUNAN",
+      "HAUS",
+      "PETA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0052",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "HAUS",
+      "MELUKIS",
+      "PETA",
+      "SUHU"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0053",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "PESAWAT",
+      "SUHU",
+      "SPESIMEN TUMBUHAN",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0054",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "MELUKIS",
+      "PESAWAT",
+      "MENDENGAR",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0055",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "AKUN",
+      "MELUKIS",
+      "SPESIMEN TUMBUHAN",
+      "SUHU"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0056",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "SISWA",
+      "SUHU",
+      "MELUKIS",
+      "PESAWAT"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0057",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "MELUKIS",
+      "PESAWAT",
+      "PETA",
+      "HAUS"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0058",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "SISWA",
+      "HAUS",
+      "AKUN",
+      "PESAWAT"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0059",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "BANGUNAN",
+      "AKUN",
+      "MENDENGAR",
+      "PESAWAT"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0060",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "HAUS",
+      "PETA",
+      "MELUKIS",
+      "AKUN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0061",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MENDENGAR",
+      "PETA",
+      "MELUKIS",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0062",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "SISWA",
+      "SUHU",
+      "BANGUNAN",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0063",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "MENDENGAR",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN",
+      "SISWA"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0064",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "HAUS",
+      "MELUKIS",
+      "MENDENGAR",
+      "BANGUNAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0065",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "AKUN",
+      "PETA",
+      "MENDENGAR",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0066",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "AKUN",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN",
+      "PESAWAT"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0067",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "MENDENGAR",
+      "HAUS",
+      "BANGUNAN",
+      "SUHU"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0068",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "AKUN",
+      "SPESIMEN TUMBUHAN",
+      "SUHU",
+      "HAUS"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0069",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MELUKIS",
+      "PESAWAT",
+      "SPESIMEN TUMBUHAN",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0070",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "MENDENGAR",
+      "BANGUNAN",
+      "SPESIMEN TUMBUHAN",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0071",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MENDENGAR",
+      "PETA",
+      "AKUN",
+      "HAUS"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0072",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "MELUKIS",
+      "MENDENGAR",
+      "BANGUNAN",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0073",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "MENDENGAR",
+      "SISWA",
+      "BANGUNAN",
+      "PESAWAT"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0074",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "MENDENGAR",
+      "SUHU",
+      "AKUN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0075",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SUHU",
+      "MENDENGAR",
+      "HAUS"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0076",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "PETA",
+      "SUHU",
+      "PESAWAT"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0077",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "PETA",
+      "SISWA",
+      "MELUKIS",
+      "SUHU"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0078",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "HAUS",
+      "AKUN",
+      "SISWA",
+      "BANGUNAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0079",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "MELUKIS",
+      "PESAWAT",
+      "AKUN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0080",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "PESAWAT",
+      "AKUN",
+      "PETA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0081",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "MENDENGAR",
+      "BANGUNAN",
+      "MELUKIS",
+      "SISWA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0082",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "PETA",
+      "SPESIMEN TUMBUHAN",
+      "SUHU",
+      "SISWA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0083",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MENDENGAR",
+      "AKUN",
+      "BANGUNAN",
+      "SUHU"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0084",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "MELUKIS",
+      "AKUN",
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0085",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAPTEN : KAPAL = PILOT : ...",
+    "options": [
+      "PESAWAT",
+      "MENDENGAR",
+      "SISWA",
+      "AKUN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAPTEN terhadap KAPAL sepadan dengan PILOT terhadap PESAWAT."
+  },
+  {
+    "id": "VER-0086",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "KOMPAS : ARAH = TERMOMETER : ...",
+    "options": [
+      "SUHU",
+      "BANGUNAN",
+      "MELUKIS",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KOMPAS terhadap ARAH sepadan dengan TERMOMETER terhadap SUHU."
+  },
+  {
+    "id": "VER-0087",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "SISWA",
+      "MELUKIS",
+      "PESAWAT",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0088",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "PESAWAT",
+      "BANGUNAN",
+      "PETA",
+      "SPESIMEN TUMBUHAN"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0089",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "DOKTER : PASIEN = GURU : ...",
+    "options": [
+      "SISWA",
+      "HAUS",
+      "BANGUNAN",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan DOKTER terhadap PASIEN sepadan dengan GURU terhadap SISWA."
+  },
+  {
+    "id": "VER-0090",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "AKAR : POHON = FONDASI : ...",
+    "options": [
+      "SISWA",
+      "PETA",
+      "AKUN",
+      "BANGUNAN"
+    ],
+    "answer": 3,
+    "explanation": "Hubungan AKAR terhadap POHON sepadan dengan FONDASI terhadap BANGUNAN."
+  },
+  {
+    "id": "VER-0091",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KUNCI : PINTU = SANDI : ...",
+    "options": [
+      "HAUS",
+      "SISWA",
+      "AKUN",
+      "BANGUNAN"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KUNCI terhadap PINTU sepadan dengan SANDI terhadap AKUN."
+  },
+  {
+    "id": "VER-0092",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "SISWA",
+      "MENDENGAR",
+      "MELUKIS",
+      "PETA"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0093",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "OBAT : PENYAKIT = AIR : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "HAUS",
+      "AKUN",
+      "MENDENGAR"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan OBAT terhadap PENYAKIT sepadan dengan AIR terhadap HAUS."
+  },
+  {
+    "id": "VER-0094",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "BANGUNAN",
+      "PETA",
+      "MENDENGAR"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0095",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "SISWA",
+      "BANGUNAN",
+      "MENDENGAR"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0096",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "MATA : MELIHAT = TELINGA : ...",
+    "options": [
+      "MELUKIS",
+      "MENDENGAR",
+      "SISWA",
+      "SUHU"
+    ],
+    "answer": 1,
+    "explanation": "Hubungan MATA terhadap MELIHAT sepadan dengan TELINGA terhadap MENDENGAR."
+  },
+  {
+    "id": "VER-0097",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "PENA : MENULIS = KUAS : ...",
+    "options": [
+      "MELUKIS",
+      "PESAWAT",
+      "PETA",
+      "AKUN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan PENA terhadap MENULIS sepadan dengan KUAS terhadap MELUKIS."
+  },
+  {
+    "id": "VER-0098",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 2,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SPESIMEN TUMBUHAN",
+      "AKUN",
+      "PETA",
+      "BANGUNAN"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0099",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 3,
+    "question": "ARSIP : DOKUMEN = HERBARIUM : ...",
+    "options": [
+      "SUHU",
+      "PETA",
+      "SPESIMEN TUMBUHAN",
+      "HAUS"
+    ],
+    "answer": 2,
+    "explanation": "Hubungan ARSIP terhadap DOKUMEN sepadan dengan HERBARIUM terhadap SPESIMEN TUMBUHAN."
+  },
+  {
+    "id": "VER-0100",
+    "category": "Penalaran Verbal",
+    "topic": "Analogi",
+    "level": 4,
+    "question": "KAMUS : KATA = ATLAS : ...",
+    "options": [
+      "PETA",
+      "MENDENGAR",
+      "BANGUNAN",
+      "PESAWAT"
+    ],
+    "answer": 0,
+    "explanation": "Hubungan KAMUS terhadap KATA sepadan dengan ATLAS terhadap PETA."
+  },
+  {
+    "id": "VER-0101",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "tidak memihak",
+      "ajek",
+      "berarti",
+      "pokok"
+    ],
+    "answer": 3,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0102",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "sah",
+      "tepat",
+      "tidak memihak",
+      "hemat sumber daya"
+    ],
+    "answer": 0,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0103",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "ajek",
+      "berarti",
+      "pokok"
+    ],
+    "answer": 3,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0104",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "pokok",
+      "mudah menyesuaikan",
+      "tepat",
+      "berarti"
+    ],
+    "answer": 2,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0105",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "tidak memihak",
+      "sah",
+      "rumit",
+      "berarti"
+    ],
+    "answer": 0,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0106",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "berarti",
+      "pokok",
+      "ajek",
+      "mudah menyesuaikan"
+    ],
+    "answer": 0,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0107",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "sah",
+      "hemat sumber daya",
+      "berkaitan",
+      "ajek"
+    ],
+    "answer": 1,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0108",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "berkaitan",
+      "pokok",
+      "rumit",
+      "hemat sumber daya"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0109",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "tidak memihak",
+      "berarti",
+      "rumit",
+      "pokok"
+    ],
+    "answer": 3,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0110",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "pokok",
+      "berarti",
+      "tepat",
+      "hemat sumber daya"
+    ],
+    "answer": 0,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0111",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "pokok",
+      "sah",
+      "rumit"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0112",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "sah",
+      "berkaitan",
+      "tidak memihak"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0113",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "pokok",
+      "hemat sumber daya",
+      "mudah menyesuaikan",
+      "tepat"
+    ],
+    "answer": 3,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0114",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "sah",
+      "berkaitan",
+      "pokok",
+      "mudah menyesuaikan"
+    ],
+    "answer": 3,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0115",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "tepat",
+      "berarti",
+      "berkaitan",
+      "rumit"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0116",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "sah",
+      "tepat",
+      "pokok",
+      "tidak memihak"
+    ],
+    "answer": 0,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0117",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "mudah menyesuaikan",
+      "ajek",
+      "tidak memihak"
+    ],
+    "answer": 1,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0118",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "rumit",
+      "hemat sumber daya",
+      "berarti"
+    ],
+    "answer": 2,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0119",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "tepat",
+      "mudah menyesuaikan",
+      "rumit",
+      "tidak memihak"
+    ],
+    "answer": 1,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0120",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "tidak memihak",
+      "rumit",
+      "ajek",
+      "sah"
+    ],
+    "answer": 1,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0121",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "tidak memihak",
+      "hemat sumber daya",
+      "berarti",
+      "sah"
+    ],
+    "answer": 2,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0122",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "sah",
+      "rumit",
+      "berarti",
+      "tepat"
+    ],
+    "answer": 1,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0123",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "berkaitan",
+      "hemat sumber daya",
+      "sah",
+      "tidak memihak"
+    ],
+    "answer": 0,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0124",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "berarti",
+      "pokok",
+      "sah",
+      "tepat"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0125",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "ajek",
+      "pokok",
+      "hemat sumber daya",
+      "mudah menyesuaikan"
+    ],
+    "answer": 2,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0126",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "berarti",
+      "tidak memihak",
+      "pokok",
+      "hemat sumber daya"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0127",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "pokok",
+      "hemat sumber daya",
+      "tidak memihak",
+      "mudah menyesuaikan"
+    ],
+    "answer": 1,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0128",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "tidak memihak",
+      "ajek",
+      "berkaitan",
+      "sah"
+    ],
+    "answer": 0,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0129",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "tidak memihak",
+      "sah",
+      "ajek",
+      "hemat sumber daya"
+    ],
+    "answer": 0,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0130",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "tepat",
+      "tidak memihak",
+      "mudah menyesuaikan",
+      "sah"
+    ],
+    "answer": 1,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0131",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "pokok",
+      "ajek",
+      "berkaitan"
+    ],
+    "answer": 0,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0132",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "tepat",
+      "hemat sumber daya",
+      "sah",
+      "mudah menyesuaikan"
+    ],
+    "answer": 2,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0133",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "pokok",
+      "mudah menyesuaikan",
+      "ajek",
+      "tepat"
+    ],
+    "answer": 3,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0134",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "hemat sumber daya",
+      "ajek",
+      "berarti"
+    ],
+    "answer": 0,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0135",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "ajek",
+      "pokok",
+      "hemat sumber daya",
+      "mudah menyesuaikan"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0136",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "ajek",
+      "sah",
+      "tepat",
+      "berkaitan"
+    ],
+    "answer": 2,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0137",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "berarti",
+      "sah",
+      "tepat",
+      "tidak memihak"
+    ],
+    "answer": 0,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0138",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "tidak memihak",
+      "mudah menyesuaikan",
+      "sah",
+      "ajek"
+    ],
+    "answer": 3,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0139",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "tidak memihak",
+      "rumit",
+      "tepat"
+    ],
+    "answer": 0,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0140",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "sah",
+      "hemat sumber daya",
+      "tepat",
+      "berkaitan"
+    ],
+    "answer": 3,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0141",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "berarti",
+      "tepat",
+      "hemat sumber daya",
+      "tidak memihak"
+    ],
+    "answer": 3,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0142",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "ajek",
+      "pokok",
+      "sah"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0143",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "tepat",
+      "tidak memihak",
+      "sah",
+      "berarti"
+    ],
+    "answer": 3,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0144",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "tepat",
+      "rumit",
+      "tidak memihak",
+      "sah"
+    ],
+    "answer": 0,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0145",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "sah",
+      "mudah menyesuaikan",
+      "berkaitan",
+      "hemat sumber daya"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0146",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "pokok",
+      "berarti",
+      "tidak memihak",
+      "rumit"
+    ],
+    "answer": 1,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0147",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "mudah menyesuaikan",
+      "ajek",
+      "rumit"
+    ],
+    "answer": 2,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0148",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "tepat",
+      "hemat sumber daya",
+      "rumit",
+      "mudah menyesuaikan"
+    ],
+    "answer": 0,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0149",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "tidak memihak",
+      "mudah menyesuaikan",
+      "ajek",
+      "tepat"
+    ],
+    "answer": 3,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0150",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "sah",
+      "berkaitan",
+      "mudah menyesuaikan",
+      "ajek"
+    ],
+    "answer": 1,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0151",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "sah",
+      "ajek",
+      "berkaitan",
+      "mudah menyesuaikan"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0152",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "berarti",
+      "tepat",
+      "sah",
+      "hemat sumber daya"
+    ],
+    "answer": 2,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0153",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "berkaitan",
+      "tidak memihak",
+      "hemat sumber daya",
+      "mudah menyesuaikan"
+    ],
+    "answer": 3,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0154",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "tepat",
+      "hemat sumber daya",
+      "berarti",
+      "rumit"
+    ],
+    "answer": 3,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0155",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "berarti",
+      "pokok",
+      "rumit",
+      "tepat"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0156",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "hemat sumber daya",
+      "berkaitan",
+      "tepat"
+    ],
+    "answer": 3,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0157",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'objektif' adalah ...",
+    "options": [
+      "tidak memihak",
+      "ajek",
+      "tepat",
+      "pokok"
+    ],
+    "answer": 0,
+    "explanation": "'objektif' paling dekat maknanya dengan 'tidak memihak'."
+  },
+  {
+    "id": "VER-0158",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "tepat",
+      "pokok",
+      "tidak memihak",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0159",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "sah",
+      "ajek",
+      "tepat",
+      "berarti"
+    ],
+    "answer": 0,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0160",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'efisien' adalah ...",
+    "options": [
+      "sah",
+      "hemat sumber daya",
+      "berkaitan",
+      "mudah menyesuaikan"
+    ],
+    "answer": 1,
+    "explanation": "'efisien' paling dekat maknanya dengan 'hemat sumber daya'."
+  },
+  {
+    "id": "VER-0161",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "tepat",
+      "pokok",
+      "rumit"
+    ],
+    "answer": 3,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0162",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "berkaitan",
+      "mudah menyesuaikan",
+      "rumit",
+      "tepat"
+    ],
+    "answer": 1,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0163",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "sah",
+      "tidak memihak",
+      "ajek",
+      "mudah menyesuaikan"
+    ],
+    "answer": 2,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0164",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "rumit",
+      "tepat",
+      "mudah menyesuaikan",
+      "berkaitan"
+    ],
+    "answer": 3,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0165",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "mudah menyesuaikan",
+      "ajek",
+      "berarti",
+      "berkaitan"
+    ],
+    "answer": 1,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0166",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "berarti",
+      "ajek",
+      "mudah menyesuaikan",
+      "sah"
+    ],
+    "answer": 2,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0167",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "tidak memihak",
+      "berarti",
+      "tepat",
+      "ajek"
+    ],
+    "answer": 2,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0168",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "berkaitan",
+      "sah",
+      "tepat",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0169",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "hemat sumber daya",
+      "mudah menyesuaikan",
+      "sah",
+      "ajek"
+    ],
+    "answer": 1,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0170",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "rumit",
+      "ajek",
+      "hemat sumber daya",
+      "sah"
+    ],
+    "answer": 1,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0171",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "pokok",
+      "tepat",
+      "tidak memihak",
+      "mudah menyesuaikan"
+    ],
+    "answer": 0,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0172",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "berarti",
+      "berkaitan",
+      "rumit",
+      "tepat"
+    ],
+    "answer": 0,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0173",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "berarti",
+      "berkaitan",
+      "hemat sumber daya",
+      "ajek"
+    ],
+    "answer": 1,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0174",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "sah",
+      "ajek",
+      "tidak memihak",
+      "berkaitan"
+    ],
+    "answer": 1,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0175",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "ajek",
+      "pokok",
+      "rumit",
+      "mudah menyesuaikan"
+    ],
+    "answer": 1,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0176",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "berarti",
+      "berkaitan",
+      "sah",
+      "ajek"
+    ],
+    "answer": 3,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0177",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "berarti",
+      "rumit",
+      "berkaitan",
+      "ajek"
+    ],
+    "answer": 0,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0178",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "berarti",
+      "berkaitan",
+      "rumit",
+      "mudah menyesuaikan"
+    ],
+    "answer": 1,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0179",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "rumit",
+      "tidak memihak",
+      "pokok",
+      "hemat sumber daya"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0180",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "tepat",
+      "sah",
+      "berkaitan",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0181",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "rumit",
+      "hemat sumber daya",
+      "berkaitan",
+      "pokok"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0182",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "pokok",
+      "berarti",
+      "sah",
+      "rumit"
+    ],
+    "answer": 3,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0183",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "ajek",
+      "hemat sumber daya",
+      "sah",
+      "pokok"
+    ],
+    "answer": 0,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0184",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "pokok",
+      "rumit",
+      "mudah menyesuaikan",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0185",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "pokok",
+      "berarti",
+      "ajek",
+      "hemat sumber daya"
+    ],
+    "answer": 1,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0186",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "sah",
+      "ajek",
+      "pokok",
+      "berarti"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0187",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "tepat",
+      "pokok",
+      "rumit",
+      "ajek"
+    ],
+    "answer": 3,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0188",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "tepat",
+      "tidak memihak",
+      "pokok",
+      "sah"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0189",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'kompleks' adalah ...",
+    "options": [
+      "ajek",
+      "rumit",
+      "tidak memihak",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'kompleks' paling dekat maknanya dengan 'rumit'."
+  },
+  {
+    "id": "VER-0190",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "rumit",
+      "mudah menyesuaikan",
+      "ajek",
+      "tidak memihak"
+    ],
+    "answer": 2,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0191",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "rumit",
+      "ajek",
+      "sah",
+      "berkaitan"
+    ],
+    "answer": 1,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0192",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'relevan' adalah ...",
+    "options": [
+      "ajek",
+      "rumit",
+      "berkaitan",
+      "sah"
+    ],
+    "answer": 2,
+    "explanation": "'relevan' paling dekat maknanya dengan 'berkaitan'."
+  },
+  {
+    "id": "VER-0193",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "rumit",
+      "tepat",
+      "mudah menyesuaikan",
+      "tidak memihak"
+    ],
+    "answer": 2,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0194",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "tidak memihak",
+      "pokok",
+      "ajek",
+      "mudah menyesuaikan"
+    ],
+    "answer": 2,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0195",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'akurat' adalah ...",
+    "options": [
+      "tepat",
+      "tidak memihak",
+      "berkaitan",
+      "sah"
+    ],
+    "answer": 0,
+    "explanation": "'akurat' paling dekat maknanya dengan 'tepat'."
+  },
+  {
+    "id": "VER-0196",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'signifikan' adalah ...",
+    "options": [
+      "berarti",
+      "pokok",
+      "ajek",
+      "mudah menyesuaikan"
+    ],
+    "answer": 0,
+    "explanation": "'signifikan' paling dekat maknanya dengan 'berarti'."
+  },
+  {
+    "id": "VER-0197",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'esensial' adalah ...",
+    "options": [
+      "sah",
+      "rumit",
+      "pokok",
+      "hemat sumber daya"
+    ],
+    "answer": 2,
+    "explanation": "'esensial' paling dekat maknanya dengan 'pokok'."
+  },
+  {
+    "id": "VER-0198",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 4,
+    "question": "Sinonim paling tepat untuk kata 'konsisten' adalah ...",
+    "options": [
+      "ajek",
+      "pokok",
+      "berkaitan",
+      "tidak memihak"
+    ],
+    "answer": 0,
+    "explanation": "'konsisten' paling dekat maknanya dengan 'ajek'."
+  },
+  {
+    "id": "VER-0199",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 2,
+    "question": "Sinonim paling tepat untuk kata 'adaptif' adalah ...",
+    "options": [
+      "sah",
+      "mudah menyesuaikan",
+      "hemat sumber daya",
+      "berarti"
+    ],
+    "answer": 1,
+    "explanation": "'adaptif' paling dekat maknanya dengan 'mudah menyesuaikan'."
+  },
+  {
+    "id": "VER-0200",
+    "category": "Penalaran Verbal",
+    "topic": "Sinonim",
+    "level": 3,
+    "question": "Sinonim paling tepat untuk kata 'valid' adalah ...",
+    "options": [
+      "rumit",
+      "sah",
+      "mudah menyesuaikan",
+      "ajek"
+    ],
+    "answer": 1,
+    "explanation": "'valid' paling dekat maknanya dengan 'sah'."
+  },
+  {
+    "id": "VER-0201",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "konkret",
+      "pesimis",
+      "konfliktual",
+      "permanen"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0202",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "implisit",
+      "pesimis",
+      "regresif",
+      "minor"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0203",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "minor",
+      "konfliktual",
+      "konkret",
+      "pesimis"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0204",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "minor",
+      "konfliktual",
+      "konkret",
+      "permanen"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0205",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "pesimis",
+      "konkret",
+      "permanen",
+      "konfliktual"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0206",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "kaku",
+      "minor",
+      "regresif",
+      "eksklusif"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0207",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "eksklusif",
+      "kaku",
+      "pesimis",
+      "regresif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0208",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "pesimis",
+      "eksklusif",
+      "kaku",
+      "konkret"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0209",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "konkret",
+      "kaku",
+      "implisit",
+      "konfliktual"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0210",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "labil",
+      "pesimis",
+      "permanen",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0211",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "konfliktual",
+      "labil",
+      "konkret",
+      "permanen"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0212",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "minor",
+      "pesimis",
+      "kaku",
+      "konkret"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0213",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "minor",
+      "konfliktual",
+      "labil",
+      "regresif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0214",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "eksklusif",
+      "implisit",
+      "permanen",
+      "pesimis"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0215",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "regresif",
+      "pesimis",
+      "permanen",
+      "konfliktual"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0216",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "eksklusif",
+      "konfliktual",
+      "pesimis",
+      "regresif"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0217",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "konkret",
+      "permanen",
+      "kaku",
+      "eksklusif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0218",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "konkret",
+      "implisit",
+      "eksklusif",
+      "pesimis"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0219",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "kaku",
+      "implisit",
+      "permanen",
+      "konkret"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0220",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "kaku",
+      "konkret",
+      "regresif",
+      "implisit"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0221",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "konfliktual",
+      "kaku",
+      "konkret",
+      "pesimis"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0222",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "implisit",
+      "konkret",
+      "labil",
+      "eksklusif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0223",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "labil",
+      "konfliktual",
+      "implisit",
+      "kaku"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0224",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "permanen",
+      "konfliktual",
+      "konkret",
+      "labil"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0225",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "konfliktual",
+      "kaku",
+      "minor",
+      "regresif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0226",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "implisit",
+      "regresif",
+      "konfliktual",
+      "kaku"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0227",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "kaku",
+      "implisit",
+      "regresif",
+      "konfliktual"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0228",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "konkret",
+      "regresif",
+      "labil",
+      "minor"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0229",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "kaku",
+      "konfliktual",
+      "konkret",
+      "eksklusif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0230",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "eksklusif",
+      "konfliktual",
+      "regresif",
+      "implisit"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0231",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "implisit",
+      "permanen",
+      "minor",
+      "regresif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0232",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "kaku",
+      "regresif",
+      "eksklusif",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0233",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "konkret",
+      "eksklusif",
+      "pesimis",
+      "konfliktual"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0234",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "regresif",
+      "kaku",
+      "pesimis",
+      "konkret"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0235",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "kaku",
+      "pesimis",
+      "minor",
+      "implisit"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0236",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "kaku",
+      "konkret",
+      "labil",
+      "konfliktual"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0237",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "konkret",
+      "pesimis",
+      "minor",
+      "regresif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0238",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "regresif",
+      "konfliktual",
+      "kaku",
+      "labil"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0239",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "konfliktual",
+      "minor",
+      "pesimis",
+      "konkret"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0240",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "pesimis",
+      "konkret",
+      "konfliktual",
+      "eksklusif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0241",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "eksklusif",
+      "minor",
+      "regresif",
+      "konfliktual"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0242",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "permanen",
+      "implisit",
+      "pesimis",
+      "eksklusif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0243",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "konfliktual",
+      "permanen",
+      "konkret",
+      "implisit"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0244",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "labil",
+      "regresif",
+      "pesimis",
+      "konkret"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0245",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "permanen",
+      "labil",
+      "minor",
+      "eksklusif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0246",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "implisit",
+      "eksklusif",
+      "pesimis",
+      "minor"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0247",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "konfliktual",
+      "permanen",
+      "implisit",
+      "regresif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0248",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "minor",
+      "eksklusif",
+      "regresif",
+      "kaku"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0249",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "implisit",
+      "labil",
+      "pesimis",
+      "regresif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0250",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "regresif",
+      "konkret",
+      "implisit",
+      "labil"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0251",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "pesimis",
+      "labil",
+      "permanen",
+      "konkret"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0252",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "konfliktual",
+      "regresif",
+      "pesimis",
+      "labil"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0253",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "kaku",
+      "konfliktual",
+      "permanen",
+      "minor"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0254",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "eksklusif",
+      "implisit",
+      "konfliktual",
+      "regresif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0255",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "permanen",
+      "pesimis",
+      "minor",
+      "implisit"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0256",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "regresif",
+      "labil",
+      "minor",
+      "pesimis"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0257",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "minor",
+      "eksklusif",
+      "pesimis",
+      "permanen"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0258",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "labil",
+      "implisit",
+      "kaku",
+      "regresif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0259",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "regresif",
+      "permanen",
+      "konfliktual",
+      "implisit"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0260",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "kaku",
+      "konkret",
+      "konfliktual",
+      "implisit"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0261",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "konkret",
+      "pesimis",
+      "konfliktual",
+      "minor"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0262",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "konkret",
+      "permanen",
+      "regresif",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0263",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "minor",
+      "eksklusif",
+      "permanen",
+      "kaku"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0264",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "permanen",
+      "eksklusif",
+      "konkret",
+      "konfliktual"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0265",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "regresif",
+      "pesimis",
+      "kaku",
+      "eksklusif"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0266",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "permanen",
+      "pesimis",
+      "minor",
+      "labil"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0267",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "pesimis",
+      "konkret",
+      "konfliktual",
+      "permanen"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0268",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "konfliktual",
+      "konkret",
+      "minor",
+      "labil"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0269",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "implisit",
+      "eksklusif",
+      "minor",
+      "labil"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0270",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "konkret",
+      "labil",
+      "konfliktual",
+      "kaku"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0271",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "implisit",
+      "minor",
+      "eksklusif",
+      "labil"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0272",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "kaku",
+      "konfliktual",
+      "konkret",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0273",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "labil",
+      "konkret",
+      "minor",
+      "kaku"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0274",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "konfliktual",
+      "regresif",
+      "eksklusif",
+      "konkret"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0275",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "implisit",
+      "minor",
+      "labil",
+      "regresif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0276",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "permanen",
+      "konkret",
+      "implisit",
+      "minor"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0277",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "permanen",
+      "minor",
+      "kaku",
+      "konkret"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0278",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "kaku",
+      "minor",
+      "konkret",
+      "regresif"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0279",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "konkret",
+      "konfliktual",
+      "permanen",
+      "pesimis"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0280",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "permanen",
+      "labil",
+      "minor",
+      "konkret"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0281",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "eksklusif",
+      "konfliktual",
+      "labil",
+      "minor"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0282",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "pesimis",
+      "permanen",
+      "eksklusif",
+      "konkret"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0283",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "minor",
+      "konkret",
+      "implisit",
+      "permanen"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0284",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "permanen",
+      "kaku",
+      "konfliktual",
+      "regresif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0285",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "eksklusif",
+      "permanen",
+      "konfliktual",
+      "kaku"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0286",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "konkret",
+      "labil",
+      "implisit",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0287",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "pesimis",
+      "konkret",
+      "regresif",
+      "konfliktual"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0288",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'optimis' adalah ...",
+    "options": [
+      "regresif",
+      "kaku",
+      "labil",
+      "pesimis"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'optimis' adalah 'pesimis'."
+  },
+  {
+    "id": "VER-0289",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'temporer' adalah ...",
+    "options": [
+      "regresif",
+      "permanen",
+      "minor",
+      "konkret"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'temporer' adalah 'permanen'."
+  },
+  {
+    "id": "VER-0290",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "konkret",
+      "regresif",
+      "labil",
+      "kaku"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  },
+  {
+    "id": "VER-0291",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'progresif' adalah ...",
+    "options": [
+      "regresif",
+      "labil",
+      "konkret",
+      "konfliktual"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'progresif' adalah 'regresif'."
+  },
+  {
+    "id": "VER-0292",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "minor",
+      "pesimis",
+      "konkret",
+      "implisit"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0293",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'abstrak' adalah ...",
+    "options": [
+      "konkret",
+      "konfliktual",
+      "eksklusif",
+      "kaku"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'abstrak' adalah 'konkret'."
+  },
+  {
+    "id": "VER-0294",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "konfliktual",
+      "implisit",
+      "minor",
+      "konkret"
+    ],
+    "answer": 0,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0295",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'harmonis' adalah ...",
+    "options": [
+      "regresif",
+      "minor",
+      "konfliktual",
+      "eksklusif"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'harmonis' adalah 'konfliktual'."
+  },
+  {
+    "id": "VER-0296",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'inklusif' adalah ...",
+    "options": [
+      "pesimis",
+      "implisit",
+      "permanen",
+      "eksklusif"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'inklusif' adalah 'eksklusif'."
+  },
+  {
+    "id": "VER-0297",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'mayor' adalah ...",
+    "options": [
+      "konfliktual",
+      "labil",
+      "permanen",
+      "minor"
+    ],
+    "answer": 3,
+    "explanation": "Lawan makna 'mayor' adalah 'minor'."
+  },
+  {
+    "id": "VER-0298",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 3,
+    "question": "Antonim paling tepat untuk kata 'stabil' adalah ...",
+    "options": [
+      "permanen",
+      "labil",
+      "kaku",
+      "regresif"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'stabil' adalah 'labil'."
+  },
+  {
+    "id": "VER-0299",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 4,
+    "question": "Antonim paling tepat untuk kata 'eksplisit' adalah ...",
+    "options": [
+      "pesimis",
+      "implisit",
+      "permanen",
+      "konfliktual"
+    ],
+    "answer": 1,
+    "explanation": "Lawan makna 'eksplisit' adalah 'implisit'."
+  },
+  {
+    "id": "VER-0300",
+    "category": "Penalaran Verbal",
+    "topic": "Antonim",
+    "level": 2,
+    "question": "Antonim paling tepat untuk kata 'fleksibel' adalah ...",
+    "options": [
+      "implisit",
+      "konkret",
+      "kaku",
+      "minor"
+    ],
+    "answer": 2,
+    "explanation": "Lawan makna 'fleksibel' adalah 'kaku'."
+  }
+]

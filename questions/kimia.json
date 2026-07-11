@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "KIM-0001",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 16 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0002",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 9 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "7",
+      "6",
+      "9",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,7, sehingga elektron valensinya 7."
+  },
+  {
+    "id": "KIM-0003",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 9 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,7, sehingga elektron valensinya 7."
+  },
+  {
+    "id": "KIM-0004",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 8 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0005",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 6 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "5",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0006",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 6 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "3",
+      "8",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0007",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 5 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,3, sehingga elektron valensinya 3."
+  },
+  {
+    "id": "KIM-0008",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0009",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 15 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,5, sehingga elektron valensinya 5."
+  },
+  {
+    "id": "KIM-0010",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 6 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0011",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 15 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,5, sehingga elektron valensinya 5."
+  },
+  {
+    "id": "KIM-0012",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 11 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "8",
+      "1",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0013",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 10 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8, sehingga elektron valensinya 8."
+  },
+  {
+    "id": "KIM-0014",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 11 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "1",
+      "8",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0015",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0016",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 19 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "8",
+      "2",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,8,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0017",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "1",
+      "8",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0018",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "3",
+      "8",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0019",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "4",
+      "8",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0020",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 20 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "8",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0021",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 16 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0022",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "8",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0023",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 10 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "10",
+      "7",
+      "9"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8, sehingga elektron valensinya 8."
+  },
+  {
+    "id": "KIM-0024",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 19 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,8,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0025",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 3 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0026",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "8",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0027",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "4",
+      "3",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0028",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 16 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "5",
+      "7",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0029",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0030",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 7 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,5, sehingga elektron valensinya 5."
+  },
+  {
+    "id": "KIM-0031",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "4",
+      "3",
+      "8",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0032",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 15 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "4",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,5, sehingga elektron valensinya 5."
+  },
+  {
+    "id": "KIM-0033",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 14 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0034",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0035",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "8",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0036",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 4 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "8",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0037",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 12 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "8",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0038",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 4 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "8",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0039",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 6 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,4, sehingga elektron valensinya 4."
+  },
+  {
+    "id": "KIM-0040",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 4 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "8"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0041",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 8 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "7",
+      "6",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0042",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 20 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "2",
+      "8",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0043",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 13 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "4",
+      "8",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,3, sehingga elektron valensinya 3."
+  },
+  {
+    "id": "KIM-0044",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 20 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Konfigurasi kulit sederhananya 2,8,8,2, sehingga elektron valensinya 2."
+  },
+  {
+    "id": "KIM-0045",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 3 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "1",
+      "2",
+      "8",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Konfigurasi kulit sederhananya 2,1, sehingga elektron valensinya 1."
+  },
+  {
+    "id": "KIM-0046",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 9 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,7, sehingga elektron valensinya 7."
+  },
+  {
+    "id": "KIM-0047",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Atom netral dengan nomor atom 7 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,5, sehingga elektron valensinya 5."
+  },
+  {
+    "id": "KIM-0048",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Atom netral dengan nomor atom 5 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Konfigurasi kulit sederhananya 2,3, sehingga elektron valensinya 3."
+  },
+  {
+    "id": "KIM-0049",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Atom netral dengan nomor atom 8 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0050",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Atom netral dengan nomor atom 8 memiliki elektron valensi sebanyak ...",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "Konfigurasi kulit sederhananya 2,6, sehingga elektron valensinya 6."
+  },
+  {
+    "id": "KIM-0051",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 25 dan nomor massa 35. Jumlah neutronnya adalah ...",
+    "options": [
+      "35",
+      "9",
+      "10",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 35 − 25 = 10."
+  },
+  {
+    "id": "KIM-0052",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 13. Jumlah neutronnya adalah ...",
+    "options": [
+      "6",
+      "7",
+      "13",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 13 − 6 = 7."
+  },
+  {
+    "id": "KIM-0053",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 13 dan nomor massa 17. Jumlah neutronnya adalah ...",
+    "options": [
+      "4",
+      "13",
+      "17",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 17 − 13 = 4."
+  },
+  {
+    "id": "KIM-0054",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 18 dan nomor massa 42. Jumlah neutronnya adalah ...",
+    "options": [
+      "24",
+      "42",
+      "23",
+      "18"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 42 − 18 = 24."
+  },
+  {
+    "id": "KIM-0055",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 24 dan nomor massa 28. Jumlah neutronnya adalah ...",
+    "options": [
+      "28",
+      "3",
+      "4",
+      "24"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 28 − 24 = 4."
+  },
+  {
+    "id": "KIM-0056",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 19 dan nomor massa 30. Jumlah neutronnya adalah ...",
+    "options": [
+      "10",
+      "19",
+      "30",
+      "11"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 30 − 19 = 11."
+  },
+  {
+    "id": "KIM-0057",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 8 dan nomor massa 38. Jumlah neutronnya adalah ...",
+    "options": [
+      "8",
+      "29",
+      "30",
+      "38"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 38 − 8 = 30."
+  },
+  {
+    "id": "KIM-0058",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 9 dan nomor massa 14. Jumlah neutronnya adalah ...",
+    "options": [
+      "4",
+      "5",
+      "14",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 14 − 9 = 5."
+  },
+  {
+    "id": "KIM-0059",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 17. Jumlah neutronnya adalah ...",
+    "options": [
+      "17",
+      "14",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 17 − 14 = 3."
+  },
+  {
+    "id": "KIM-0060",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 8 dan nomor massa 35. Jumlah neutronnya adalah ...",
+    "options": [
+      "26",
+      "27",
+      "8",
+      "35"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 35 − 8 = 27."
+  },
+  {
+    "id": "KIM-0061",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 4 dan nomor massa 13. Jumlah neutronnya adalah ...",
+    "options": [
+      "8",
+      "4",
+      "9",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 13 − 4 = 9."
+  },
+  {
+    "id": "KIM-0062",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 20 dan nomor massa 24. Jumlah neutronnya adalah ...",
+    "options": [
+      "3",
+      "24",
+      "4",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 24 − 20 = 4."
+  },
+  {
+    "id": "KIM-0063",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 18 dan nomor massa 22. Jumlah neutronnya adalah ...",
+    "options": [
+      "4",
+      "22",
+      "18",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 22 − 18 = 4."
+  },
+  {
+    "id": "KIM-0064",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 8 dan nomor massa 11. Jumlah neutronnya adalah ...",
+    "options": [
+      "2",
+      "8",
+      "11",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 11 − 8 = 3."
+  },
+  {
+    "id": "KIM-0065",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 9 dan nomor massa 22. Jumlah neutronnya adalah ...",
+    "options": [
+      "12",
+      "22",
+      "13",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 22 − 9 = 13."
+  },
+  {
+    "id": "KIM-0066",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 41. Jumlah neutronnya adalah ...",
+    "options": [
+      "14",
+      "26",
+      "27",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 41 − 14 = 27."
+  },
+  {
+    "id": "KIM-0067",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 5 dan nomor massa 15. Jumlah neutronnya adalah ...",
+    "options": [
+      "5",
+      "15",
+      "9",
+      "10"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 15 − 5 = 10."
+  },
+  {
+    "id": "KIM-0068",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 23. Jumlah neutronnya adalah ...",
+    "options": [
+      "17",
+      "16",
+      "23",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 23 − 6 = 17."
+  },
+  {
+    "id": "KIM-0069",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 17 dan nomor massa 30. Jumlah neutronnya adalah ...",
+    "options": [
+      "12",
+      "13",
+      "30",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 30 − 17 = 13."
+  },
+  {
+    "id": "KIM-0070",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 21 dan nomor massa 29. Jumlah neutronnya adalah ...",
+    "options": [
+      "7",
+      "29",
+      "8",
+      "21"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 29 − 21 = 8."
+  },
+  {
+    "id": "KIM-0071",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 19 dan nomor massa 28. Jumlah neutronnya adalah ...",
+    "options": [
+      "28",
+      "8",
+      "9",
+      "19"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 28 − 19 = 9."
+  },
+  {
+    "id": "KIM-0072",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 16 dan nomor massa 45. Jumlah neutronnya adalah ...",
+    "options": [
+      "29",
+      "16",
+      "28",
+      "45"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 45 − 16 = 29."
+  },
+  {
+    "id": "KIM-0073",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 11. Jumlah neutronnya adalah ...",
+    "options": [
+      "4",
+      "6",
+      "11",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 11 − 6 = 5."
+  },
+  {
+    "id": "KIM-0074",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 8 dan nomor massa 20. Jumlah neutronnya adalah ...",
+    "options": [
+      "8",
+      "20",
+      "12",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 20 − 8 = 12."
+  },
+  {
+    "id": "KIM-0075",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 3 dan nomor massa 31. Jumlah neutronnya adalah ...",
+    "options": [
+      "3",
+      "27",
+      "28",
+      "31"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 31 − 3 = 28."
+  },
+  {
+    "id": "KIM-0076",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 13 dan nomor massa 34. Jumlah neutronnya adalah ...",
+    "options": [
+      "13",
+      "21",
+      "20",
+      "34"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 34 − 13 = 21."
+  },
+  {
+    "id": "KIM-0077",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 22 dan nomor massa 33. Jumlah neutronnya adalah ...",
+    "options": [
+      "22",
+      "10",
+      "11",
+      "33"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 33 − 22 = 11."
+  },
+  {
+    "id": "KIM-0078",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 7 dan nomor massa 35. Jumlah neutronnya adalah ...",
+    "options": [
+      "27",
+      "35",
+      "28",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 35 − 7 = 28."
+  },
+  {
+    "id": "KIM-0079",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 25. Jumlah neutronnya adalah ...",
+    "options": [
+      "11",
+      "25",
+      "14",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 25 − 14 = 11."
+  },
+  {
+    "id": "KIM-0080",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 21 dan nomor massa 50. Jumlah neutronnya adalah ...",
+    "options": [
+      "50",
+      "29",
+      "28",
+      "21"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 50 − 21 = 29."
+  },
+  {
+    "id": "KIM-0081",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 22 dan nomor massa 31. Jumlah neutronnya adalah ...",
+    "options": [
+      "8",
+      "22",
+      "9",
+      "31"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 31 − 22 = 9."
+  },
+  {
+    "id": "KIM-0082",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 9. Jumlah neutronnya adalah ...",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 9 − 6 = 3."
+  },
+  {
+    "id": "KIM-0083",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 29. Jumlah neutronnya adalah ...",
+    "options": [
+      "22",
+      "6",
+      "29",
+      "23"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 29 − 6 = 23."
+  },
+  {
+    "id": "KIM-0084",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 36. Jumlah neutronnya adalah ...",
+    "options": [
+      "14",
+      "22",
+      "21",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 36 − 14 = 22."
+  },
+  {
+    "id": "KIM-0085",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 6 dan nomor massa 32. Jumlah neutronnya adalah ...",
+    "options": [
+      "32",
+      "26",
+      "25",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 32 − 6 = 26."
+  },
+  {
+    "id": "KIM-0086",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 17 dan nomor massa 35. Jumlah neutronnya adalah ...",
+    "options": [
+      "18",
+      "35",
+      "17",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 35 − 17 = 18."
+  },
+  {
+    "id": "KIM-0087",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 18 dan nomor massa 37. Jumlah neutronnya adalah ...",
+    "options": [
+      "37",
+      "20",
+      "18",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 37 − 18 = 19."
+  },
+  {
+    "id": "KIM-0088",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 23 dan nomor massa 34. Jumlah neutronnya adalah ...",
+    "options": [
+      "11",
+      "34",
+      "23",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 34 − 23 = 11."
+  },
+  {
+    "id": "KIM-0089",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 23. Jumlah neutronnya adalah ...",
+    "options": [
+      "8",
+      "23",
+      "14",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 23 − 14 = 9."
+  },
+  {
+    "id": "KIM-0090",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 9 dan nomor massa 27. Jumlah neutronnya adalah ...",
+    "options": [
+      "9",
+      "18",
+      "27",
+      "17"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 27 − 9 = 18."
+  },
+  {
+    "id": "KIM-0091",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 13 dan nomor massa 25. Jumlah neutronnya adalah ...",
+    "options": [
+      "11",
+      "25",
+      "13",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 25 − 13 = 12."
+  },
+  {
+    "id": "KIM-0092",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 5 dan nomor massa 16. Jumlah neutronnya adalah ...",
+    "options": [
+      "11",
+      "16",
+      "5",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Neutron = nomor massa − nomor atom = 16 − 5 = 11."
+  },
+  {
+    "id": "KIM-0093",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 14 dan nomor massa 24. Jumlah neutronnya adalah ...",
+    "options": [
+      "24",
+      "14",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 24 − 14 = 10."
+  },
+  {
+    "id": "KIM-0094",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 7 dan nomor massa 34. Jumlah neutronnya adalah ...",
+    "options": [
+      "34",
+      "26",
+      "7",
+      "27"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 34 − 7 = 27."
+  },
+  {
+    "id": "KIM-0095",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 4 dan nomor massa 7. Jumlah neutronnya adalah ...",
+    "options": [
+      "2",
+      "4",
+      "7",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 7 − 4 = 3."
+  },
+  {
+    "id": "KIM-0096",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 23 dan nomor massa 42. Jumlah neutronnya adalah ...",
+    "options": [
+      "18",
+      "42",
+      "19",
+      "23"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 42 − 23 = 19."
+  },
+  {
+    "id": "KIM-0097",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 5,
+    "question": "Suatu atom memiliki nomor atom 12 dan nomor massa 20. Jumlah neutronnya adalah ...",
+    "options": [
+      "12",
+      "7",
+      "20",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "Neutron = nomor massa − nomor atom = 20 − 12 = 8."
+  },
+  {
+    "id": "KIM-0098",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 2,
+    "question": "Suatu atom memiliki nomor atom 7 dan nomor massa 20. Jumlah neutronnya adalah ...",
+    "options": [
+      "20",
+      "13",
+      "7",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Neutron = nomor massa − nomor atom = 20 − 7 = 13."
+  },
+  {
+    "id": "KIM-0099",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 3,
+    "question": "Suatu atom memiliki nomor atom 12 dan nomor massa 36. Jumlah neutronnya adalah ...",
+    "options": [
+      "12",
+      "36",
+      "24",
+      "23"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 36 − 12 = 24."
+  },
+  {
+    "id": "KIM-0100",
+    "category": "Kimia",
+    "topic": "Struktur Atom",
+    "level": 4,
+    "question": "Suatu atom memiliki nomor atom 5 dan nomor massa 24. Jumlah neutronnya adalah ...",
+    "options": [
+      "5",
+      "24",
+      "19",
+      "18"
+    ],
+    "answer": 2,
+    "explanation": "Neutron = nomor massa − nomor atom = 24 − 5 = 19."
+  },
+  {
+    "id": "KIM-0101",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VIA",
+      "IIA",
+      "VIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0102",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "IIIA",
+      "IA",
+      "VIIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0103",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "IIIA",
+      "VIIA",
+      "VA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0104",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VIIIA",
+      "IIA",
+      "VA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0105",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VA",
+      "IA",
+      "IIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0106",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "IA",
+      "VA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0107",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,2 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "IIA",
+      "IIIA",
+      "VIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 2, sehingga golongan utamanya IIA."
+  },
+  {
+    "id": "KIM-0108",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VIIIA",
+      "VA",
+      "IIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0109",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "IIIA",
+      "VIIA",
+      "IA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0110",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "IA",
+      "IIIA",
+      "IIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0111",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VIIIA",
+      "VA",
+      "VIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0112",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,8 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "IIA",
+      "VIIIA",
+      "VIIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 8, sehingga golongan utamanya VIIIA."
+  },
+  {
+    "id": "KIM-0113",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIIA",
+      "VIIA",
+      "VIA",
+      "VA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0114",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "IIIA",
+      "IA",
+      "VIIIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0115",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "IA",
+      "IIA",
+      "VIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0116",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIIA",
+      "VA",
+      "VIIA",
+      "IA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0117",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VIIA",
+      "VA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0118",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IA",
+      "VIIA",
+      "VIIIA",
+      "IIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0119",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VA",
+      "IA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0120",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "IIA",
+      "VIIIA",
+      "VIIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0121",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "IIIA",
+      "VIIA",
+      "IIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0122",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VIIIA",
+      "IA",
+      "VA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0123",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VA",
+      "VIIIA",
+      "IA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0124",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VA",
+      "IA",
+      "VIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0125",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "VIIIA",
+      "IA",
+      "IIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0126",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,8 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIIA",
+      "IIIA",
+      "VA",
+      "VIIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 8, sehingga golongan utamanya VIIIA."
+  },
+  {
+    "id": "KIM-0127",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VIIIA",
+      "IIA",
+      "VIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0128",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VA",
+      "IIA",
+      "IIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0129",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "IIA",
+      "IIIA",
+      "IA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0130",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,2 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VIIIA",
+      "IIA",
+      "VA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 2, sehingga golongan utamanya IIA."
+  },
+  {
+    "id": "KIM-0131",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,2 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "IA",
+      "VIA",
+      "VIIIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 2, sehingga golongan utamanya IIA."
+  },
+  {
+    "id": "KIM-0132",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VA",
+      "VIIIA",
+      "IIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0133",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,2 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IA",
+      "VA",
+      "IIA",
+      "IIIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 2, sehingga golongan utamanya IIA."
+  },
+  {
+    "id": "KIM-0134",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IA",
+      "VIIIA",
+      "VA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0135",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "IA",
+      "VIA",
+      "VIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0136",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,7 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "VIIA",
+      "VIA",
+      "VIIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 7, sehingga golongan utamanya VIIA."
+  },
+  {
+    "id": "KIM-0137",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,8 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "IIIA",
+      "VIIIA",
+      "VIIA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 8, sehingga golongan utamanya VIIIA."
+  },
+  {
+    "id": "KIM-0138",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "IIIA",
+      "VIA",
+      "VA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0139",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIIA",
+      "VIIA",
+      "IA",
+      "VIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0140",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VA",
+      "VIA",
+      "IIA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0141",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VIIIA",
+      "VIA",
+      "VA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0142",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VIIIA",
+      "VIIA",
+      "IA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0143",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,8 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIIA",
+      "VIIIA",
+      "IIA",
+      "VIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 8, sehingga golongan utamanya VIIIA."
+  },
+  {
+    "id": "KIM-0144",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,1 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "VIIA",
+      "VIA",
+      "IA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 1, sehingga golongan utamanya IA."
+  },
+  {
+    "id": "KIM-0145",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIA",
+      "VIIA",
+      "VIIIA",
+      "IA"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0146",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IIA",
+      "VIA",
+      "VA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0147",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,5 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VA",
+      "IIA",
+      "IIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 5, sehingga golongan utamanya VA."
+  },
+  {
+    "id": "KIM-0148",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,3 paling tepat berada pada golongan utama ...",
+    "options": [
+      "IA",
+      "IIA",
+      "VIIIA",
+      "IIIA"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah elektron valensi 3, sehingga golongan utamanya IIIA."
+  },
+  {
+    "id": "KIM-0149",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,6 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VIIA",
+      "VIA",
+      "IIA",
+      "IIIA"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah elektron valensi 6, sehingga golongan utamanya VIA."
+  },
+  {
+    "id": "KIM-0150",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Unsur dengan konfigurasi elektron sederhana 2,8,2 paling tepat berada pada golongan utama ...",
+    "options": [
+      "VA",
+      "VIIIA",
+      "IIA",
+      "IA"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah elektron valensi 2, sehingga golongan utamanya IIA."
+  },
+  {
+    "id": "KIM-0151",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 40. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "20.0 g",
+      "10.0 g",
+      "80.0 g",
+      "60.0 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 0.5×40 = 20.0 g."
+  },
+  {
+    "id": "KIM-0152",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 100. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "150.0 g",
+      "400 g",
+      "33.33 g",
+      "300 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 3×100 = 300 g."
+  },
+  {
+    "id": "KIM-0153",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 64. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "42.67 g",
+      "96.0 g",
+      "160.0 g",
+      "48.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×64 = 96.0 g."
+  },
+  {
+    "id": "KIM-0154",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 22. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "27.5 g",
+      "55.0 g",
+      "8.8 g",
+      "77.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 2.5×22 = 55.0 g."
+  },
+  {
+    "id": "KIM-0155",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 100. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "150.0 g",
+      "50.0 g",
+      "200.0 g",
+      "25.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 0.5×100 = 50.0 g."
+  },
+  {
+    "id": "KIM-0156",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 44. Massa 2 mol zat tersebut adalah ...",
+    "options": [
+      "132 g",
+      "44.0 g",
+      "22.0 g",
+      "88 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2×44 = 88 g."
+  },
+  {
+    "id": "KIM-0157",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 18. Massa 2 mol zat tersebut adalah ...",
+    "options": [
+      "9.0 g",
+      "54 g",
+      "18.0 g",
+      "36 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2×18 = 36 g."
+  },
+  {
+    "id": "KIM-0158",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "146.25 g",
+      "39.0 g",
+      "43.88 g",
+      "87.75 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 1.5×58.5 = 87.75 g."
+  },
+  {
+    "id": "KIM-0159",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 44. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "17.6 g",
+      "55.0 g",
+      "110.0 g",
+      "154.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 2.5×44 = 110.0 g."
+  },
+  {
+    "id": "KIM-0160",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "146.25 g",
+      "87.75 g",
+      "39.0 g",
+      "43.88 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×58.5 = 87.75 g."
+  },
+  {
+    "id": "KIM-0161",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 2 mol zat tersebut adalah ...",
+    "options": [
+      "117.0 g",
+      "58.5 g",
+      "175.5 g",
+      "29.25 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 2×58.5 = 117.0 g."
+  },
+  {
+    "id": "KIM-0162",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 22. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "55.0 g",
+      "8.8 g",
+      "77.0 g",
+      "27.5 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 2.5×22 = 55.0 g."
+  },
+  {
+    "id": "KIM-0163",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 64. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "192 g",
+      "256 g",
+      "96.0 g",
+      "21.33 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 3×64 = 192 g."
+  },
+  {
+    "id": "KIM-0164",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 28. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "35.0 g",
+      "98.0 g",
+      "70.0 g",
+      "11.2 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 2.5×28 = 70.0 g."
+  },
+  {
+    "id": "KIM-0165",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 28. Massa 1 mol zat tersebut adalah ...",
+    "options": [
+      "14.0 g",
+      "56 g",
+      "28 g",
+      "29 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 1×28 = 28 g."
+  },
+  {
+    "id": "KIM-0166",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 18. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "12.0 g",
+      "13.5 g",
+      "45.0 g",
+      "27.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 1.5×18 = 27.0 g."
+  },
+  {
+    "id": "KIM-0167",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 32. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "24.0 g",
+      "48.0 g",
+      "21.33 g",
+      "80.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×32 = 48.0 g."
+  },
+  {
+    "id": "KIM-0168",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 28. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "42.0 g",
+      "70.0 g",
+      "21.0 g",
+      "18.67 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 1.5×28 = 42.0 g."
+  },
+  {
+    "id": "KIM-0169",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 100. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "40.0 g",
+      "125.0 g",
+      "350.0 g",
+      "250.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2.5×100 = 250.0 g."
+  },
+  {
+    "id": "KIM-0170",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 28. Massa 1 mol zat tersebut adalah ...",
+    "options": [
+      "29 g",
+      "56 g",
+      "28 g",
+      "14.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 1×28 = 28 g."
+  },
+  {
+    "id": "KIM-0171",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "87.75 g",
+      "19.5 g",
+      "175.5 g",
+      "234.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 3×58.5 = 175.5 g."
+  },
+  {
+    "id": "KIM-0172",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 2 mol zat tersebut adalah ...",
+    "options": [
+      "29.25 g",
+      "117.0 g",
+      "58.5 g",
+      "175.5 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 2×58.5 = 117.0 g."
+  },
+  {
+    "id": "KIM-0173",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 44. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "176 g",
+      "66.0 g",
+      "132 g",
+      "14.67 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 3×44 = 132 g."
+  },
+  {
+    "id": "KIM-0174",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 40. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "140.0 g",
+      "50.0 g",
+      "100.0 g",
+      "16.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 2.5×40 = 100.0 g."
+  },
+  {
+    "id": "KIM-0175",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 40. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "80.0 g",
+      "20.0 g",
+      "10.0 g",
+      "60.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 0.5×40 = 20.0 g."
+  },
+  {
+    "id": "KIM-0176",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 32. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "24.0 g",
+      "48.0 g",
+      "80.0 g",
+      "21.33 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×32 = 48.0 g."
+  },
+  {
+    "id": "KIM-0177",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 100. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "75.0 g",
+      "150.0 g",
+      "66.67 g",
+      "250.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×100 = 150.0 g."
+  },
+  {
+    "id": "KIM-0178",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 32. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "48.0 g",
+      "24.0 g",
+      "21.33 g",
+      "80.0 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 1.5×32 = 48.0 g."
+  },
+  {
+    "id": "KIM-0179",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 32. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "112.0 g",
+      "12.8 g",
+      "80.0 g",
+      "40.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 2.5×32 = 80.0 g."
+  },
+  {
+    "id": "KIM-0180",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 44. Massa 0.25 mol zat tersebut adalah ...",
+    "options": [
+      "55.0 g",
+      "176.0 g",
+      "5.5 g",
+      "11.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 0.25×44 = 11.0 g."
+  },
+  {
+    "id": "KIM-0181",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 22. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "33.0 g",
+      "44.0 g",
+      "11.0 g",
+      "5.5 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 0.5×22 = 11.0 g."
+  },
+  {
+    "id": "KIM-0182",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 64. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "192 g",
+      "256 g",
+      "21.33 g",
+      "96.0 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 3×64 = 192 g."
+  },
+  {
+    "id": "KIM-0183",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 40. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "13.33 g",
+      "120 g",
+      "60.0 g",
+      "160 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 3×40 = 120 g."
+  },
+  {
+    "id": "KIM-0184",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 28. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "56.0 g",
+      "14.0 g",
+      "7.0 g",
+      "42.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 0.5×28 = 14.0 g."
+  },
+  {
+    "id": "KIM-0185",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 28. Massa 0.25 mol zat tersebut adalah ...",
+    "options": [
+      "112.0 g",
+      "35.0 g",
+      "7.0 g",
+      "3.5 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 0.25×28 = 7.0 g."
+  },
+  {
+    "id": "KIM-0186",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 32. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "8.0 g",
+      "16.0 g",
+      "48.0 g",
+      "64.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 0.5×32 = 16.0 g."
+  },
+  {
+    "id": "KIM-0187",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 58.5. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "234.0 g",
+      "175.5 g",
+      "19.5 g",
+      "87.75 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 3×58.5 = 175.5 g."
+  },
+  {
+    "id": "KIM-0188",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 40. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "80.0 g",
+      "10.0 g",
+      "60.0 g",
+      "20.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 0.5×40 = 20.0 g."
+  },
+  {
+    "id": "KIM-0189",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 18. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "45.0 g",
+      "12.0 g",
+      "27.0 g",
+      "13.5 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 1.5×18 = 27.0 g."
+  },
+  {
+    "id": "KIM-0190",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 28. Massa 1 mol zat tersebut adalah ...",
+    "options": [
+      "29 g",
+      "28 g",
+      "14.0 g",
+      "56 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1×28 = 28 g."
+  },
+  {
+    "id": "KIM-0191",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 22. Massa 1.5 mol zat tersebut adalah ...",
+    "options": [
+      "14.67 g",
+      "33.0 g",
+      "16.5 g",
+      "55.0 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1.5×22 = 33.0 g."
+  },
+  {
+    "id": "KIM-0192",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 22. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "88 g",
+      "7.33 g",
+      "33.0 g",
+      "66 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 3×22 = 66 g."
+  },
+  {
+    "id": "KIM-0193",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 32. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "16.0 g",
+      "48.0 g",
+      "8.0 g",
+      "64.0 g"
+    ],
+    "answer": 0,
+    "explanation": "m = n×Mr = 0.5×32 = 16.0 g."
+  },
+  {
+    "id": "KIM-0194",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 44. Massa 2 mol zat tersebut adalah ...",
+    "options": [
+      "44.0 g",
+      "22.0 g",
+      "132 g",
+      "88 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2×44 = 88 g."
+  },
+  {
+    "id": "KIM-0195",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 32. Massa 0.25 mol zat tersebut adalah ...",
+    "options": [
+      "4.0 g",
+      "128.0 g",
+      "40.0 g",
+      "8.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 0.25×32 = 8.0 g."
+  },
+  {
+    "id": "KIM-0196",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 44. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "154.0 g",
+      "17.6 g",
+      "55.0 g",
+      "110.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2.5×44 = 110.0 g."
+  },
+  {
+    "id": "KIM-0197",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Suatu zat memiliki Mr 18. Massa 1 mol zat tersebut adalah ...",
+    "options": [
+      "19 g",
+      "18 g",
+      "9.0 g",
+      "36 g"
+    ],
+    "answer": 1,
+    "explanation": "m = n×Mr = 1×18 = 18 g."
+  },
+  {
+    "id": "KIM-0198",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Suatu zat memiliki Mr 28. Massa 2.5 mol zat tersebut adalah ...",
+    "options": [
+      "35.0 g",
+      "98.0 g",
+      "11.2 g",
+      "70.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 2.5×28 = 70.0 g."
+  },
+  {
+    "id": "KIM-0199",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Suatu zat memiliki Mr 40. Massa 0.5 mol zat tersebut adalah ...",
+    "options": [
+      "10.0 g",
+      "80.0 g",
+      "60.0 g",
+      "20.0 g"
+    ],
+    "answer": 3,
+    "explanation": "m = n×Mr = 0.5×40 = 20.0 g."
+  },
+  {
+    "id": "KIM-0200",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Suatu zat memiliki Mr 98. Massa 3 mol zat tersebut adalah ...",
+    "options": [
+      "32.67 g",
+      "392 g",
+      "294 g",
+      "147.0 g"
+    ],
+    "answer": 2,
+    "explanation": "m = n×Mr = 3×98 = 294 g."
+  },
+  {
+    "id": "KIM-0201",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "1.5 mol",
+      "2.5 mol",
+      "968 mol",
+      "2.0 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 44/22 = 2.0 mol."
+  },
+  {
+    "id": "KIM-0202",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "0.81 mol",
+      "1053.0 mol",
+      "0.1 mol",
+      "0.31 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 18/58.5 = 0.31 mol."
+  },
+  {
+    "id": "KIM-0203",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 98 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "1764 mol",
+      "5.94 mol",
+      "4.94 mol",
+      "5.44 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 98/18 = 5.44 mol."
+  },
+  {
+    "id": "KIM-0204",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "0.72 mol",
+      "1.72 mol",
+      "1.22 mol",
+      "396 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 22/18 = 1.22 mol."
+  },
+  {
+    "id": "KIM-0205",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "968 mol",
+      "2.5 mol",
+      "1.5 mol",
+      "2.0 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 44/22 = 2.0 mol."
+  },
+  {
+    "id": "KIM-0206",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 88 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "3872 mol",
+      "2.5 mol",
+      "1.5 mol",
+      "2.0 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 88/44 = 2.0 mol."
+  },
+  {
+    "id": "KIM-0207",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "198 mol",
+      "0.41 mol",
+      "0.1 mol",
+      "0.91 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 9/22 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0208",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.5 mol",
+      "1.0 mol",
+      "1936 mol",
+      "1.5 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 44/44 = 1.0 mol."
+  },
+  {
+    "id": "KIM-0209",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 88 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "8624 mol",
+      "0.4 mol",
+      "0.9 mol",
+      "1.4 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 88/98 = 0.9 mol."
+  },
+  {
+    "id": "KIM-0210",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 88 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "2.0 mol",
+      "3872 mol",
+      "1.5 mol",
+      "2.5 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 88/44 = 2.0 mol."
+  },
+  {
+    "id": "KIM-0211",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 36 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "0.62 mol",
+      "1.12 mol",
+      "0.12 mol",
+      "2106.0 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 36/58.5 = 0.62 mol."
+  },
+  {
+    "id": "KIM-0212",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "1.5 mol",
+      "1.0 mol",
+      "1936 mol",
+      "0.5 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 44/44 = 1.0 mol."
+  },
+  {
+    "id": "KIM-0213",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "0.68 mol",
+      "0.1 mol",
+      "1764 mol",
+      "0.18 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 18/98 = 0.18 mol."
+  },
+  {
+    "id": "KIM-0214",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.09 mol",
+      "882 mol",
+      "0.59 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 9/98 = 0.09 mol."
+  },
+  {
+    "id": "KIM-0215",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.5 mol",
+      "1.0 mol",
+      "1.5 mol",
+      "1936 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 44/44 = 1.0 mol."
+  },
+  {
+    "id": "KIM-0216",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "198 mol",
+      "0.41 mol",
+      "0.91 mol",
+      "0.1 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 9/22 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0217",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "0.18 mol",
+      "0.1 mol",
+      "0.68 mol",
+      "1764 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 18/98 = 0.18 mol."
+  },
+  {
+    "id": "KIM-0218",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 88 g zat dengan Mr 49 adalah ...",
+    "options": [
+      "1.8 mol",
+      "4312 mol",
+      "1.3 mol",
+      "2.3 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 88/49 = 1.8 mol."
+  },
+  {
+    "id": "KIM-0219",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "882 mol",
+      "0.1 mol",
+      "0.59 mol",
+      "0.09 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 9/98 = 0.09 mol."
+  },
+  {
+    "id": "KIM-0220",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 36 g zat dengan Mr 49 adalah ...",
+    "options": [
+      "0.23 mol",
+      "0.73 mol",
+      "1.23 mol",
+      "1764 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 36/49 = 0.73 mol."
+  },
+  {
+    "id": "KIM-0221",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 98 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "4312 mol",
+      "2.23 mol",
+      "1.73 mol",
+      "2.73 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 98/44 = 2.23 mol."
+  },
+  {
+    "id": "KIM-0222",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "0.32 mol",
+      "396 mol",
+      "1.32 mol",
+      "0.82 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 18/22 = 0.82 mol."
+  },
+  {
+    "id": "KIM-0223",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 49 adalah ...",
+    "options": [
+      "1078 mol",
+      "0.95 mol",
+      "0.45 mol",
+      "0.1 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 22/49 = 0.45 mol."
+  },
+  {
+    "id": "KIM-0224",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "0.5 mol",
+      "0.1 mol",
+      "1.0 mol",
+      "162 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 9/18 = 0.5 mol."
+  },
+  {
+    "id": "KIM-0225",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "526.5 mol",
+      "0.65 mol",
+      "0.1 mol",
+      "0.15 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 9/58.5 = 0.15 mol."
+  },
+  {
+    "id": "KIM-0226",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.5 mol",
+      "1936 mol",
+      "1.5 mol",
+      "1.0 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 44/44 = 1.0 mol."
+  },
+  {
+    "id": "KIM-0227",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "1.0 mol",
+      "0.1 mol",
+      "968 mol",
+      "0.5 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 22/44 = 0.5 mol."
+  },
+  {
+    "id": "KIM-0228",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.41 mol",
+      "792 mol",
+      "0.1 mol",
+      "0.91 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 18/44 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0229",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "0.18 mol",
+      "0.1 mol",
+      "0.68 mol",
+      "1764 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 18/98 = 0.18 mol."
+  },
+  {
+    "id": "KIM-0230",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 44 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "2.44 mol",
+      "792 mol",
+      "1.94 mol",
+      "2.94 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 44/18 = 2.44 mol."
+  },
+  {
+    "id": "KIM-0231",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 98 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "5.94 mol",
+      "1764 mol",
+      "5.44 mol",
+      "4.94 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 98/18 = 5.44 mol."
+  },
+  {
+    "id": "KIM-0232",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 117 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "2.66 mol",
+      "2.16 mol",
+      "3.16 mol",
+      "5148 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 117/44 = 2.66 mol."
+  },
+  {
+    "id": "KIM-0233",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.15 mol",
+      "526.5 mol",
+      "0.65 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 9/58.5 = 0.15 mol."
+  },
+  {
+    "id": "KIM-0234",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.5 mol",
+      "968 mol",
+      "0.1 mol",
+      "1.0 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 22/44 = 0.5 mol."
+  },
+  {
+    "id": "KIM-0235",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 36 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "3528 mol",
+      "0.1 mol",
+      "0.87 mol",
+      "0.37 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 36/98 = 0.37 mol."
+  },
+  {
+    "id": "KIM-0236",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.81 mol",
+      "0.31 mol",
+      "1053.0 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 18/58.5 = 0.31 mol."
+  },
+  {
+    "id": "KIM-0237",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 117 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "7.0 mol",
+      "6.5 mol",
+      "6.0 mol",
+      "2106 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 117/18 = 6.5 mol."
+  },
+  {
+    "id": "KIM-0238",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 88 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "2.0 mol",
+      "1.5 mol",
+      "5148.0 mol",
+      "1.0 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 88/58.5 = 1.5 mol."
+  },
+  {
+    "id": "KIM-0239",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 36 g zat dengan Mr 18 adalah ...",
+    "options": [
+      "1.5 mol",
+      "2.5 mol",
+      "2.0 mol",
+      "648 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 36/18 = 2.0 mol."
+  },
+  {
+    "id": "KIM-0240",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.91 mol",
+      "792 mol",
+      "0.41 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 18/44 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0241",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 49 g zat dengan Mr 49 adalah ...",
+    "options": [
+      "1.5 mol",
+      "2401 mol",
+      "0.5 mol",
+      "1.0 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 49/49 = 1.0 mol."
+  },
+  {
+    "id": "KIM-0242",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 98 adalah ...",
+    "options": [
+      "0.72 mol",
+      "0.22 mol",
+      "2156 mol",
+      "0.1 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 22/98 = 0.22 mol."
+  },
+  {
+    "id": "KIM-0243",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 98 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "2156 mol",
+      "3.95 mol",
+      "4.45 mol",
+      "4.95 mol"
+    ],
+    "answer": 2,
+    "explanation": "n = m/Mr = 98/22 = 4.45 mol."
+  },
+  {
+    "id": "KIM-0244",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 98 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "1.68 mol",
+      "2.18 mol",
+      "1.18 mol",
+      "5733.0 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 98/58.5 = 1.68 mol."
+  },
+  {
+    "id": "KIM-0245",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "0.91 mol",
+      "0.1 mol",
+      "198 mol",
+      "0.41 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 9/22 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0246",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 49 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "1.73 mol",
+      "2.23 mol",
+      "2.73 mol",
+      "1078 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 49/22 = 2.23 mol."
+  },
+  {
+    "id": "KIM-0247",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 4,
+    "question": "Jumlah mol dalam 9 g zat dengan Mr 58.5 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.65 mol",
+      "526.5 mol",
+      "0.15 mol"
+    ],
+    "answer": 3,
+    "explanation": "n = m/Mr = 9/58.5 = 0.15 mol."
+  },
+  {
+    "id": "KIM-0248",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 5,
+    "question": "Jumlah mol dalam 22 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.1 mol",
+      "0.5 mol",
+      "968 mol",
+      "1.0 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 22/44 = 0.5 mol."
+  },
+  {
+    "id": "KIM-0249",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 2,
+    "question": "Jumlah mol dalam 49 g zat dengan Mr 22 adalah ...",
+    "options": [
+      "2.73 mol",
+      "2.23 mol",
+      "1.73 mol",
+      "1078 mol"
+    ],
+    "answer": 1,
+    "explanation": "n = m/Mr = 49/22 = 2.23 mol."
+  },
+  {
+    "id": "KIM-0250",
+    "category": "Kimia",
+    "topic": "Mol dan Stoikiometri",
+    "level": 3,
+    "question": "Jumlah mol dalam 18 g zat dengan Mr 44 adalah ...",
+    "options": [
+      "0.41 mol",
+      "0.91 mol",
+      "0.1 mol",
+      "792 mol"
+    ],
+    "answer": 0,
+    "explanation": "n = m/Mr = 18/44 = 0.41 mol."
+  },
+  {
+    "id": "KIM-0251",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "2",
+      "13",
+      "12",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0252",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "8",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0253",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-4) M, pH larutan tersebut adalah ...",
+    "options": [
+      "5",
+      "10",
+      "4",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−4) = 4."
+  },
+  {
+    "id": "KIM-0254",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "2",
+      "12",
+      "13",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0255",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-2) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−2) = 2."
+  },
+  {
+    "id": "KIM-0256",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "13",
+      "12",
+      "11",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0257",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0258",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-10) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "9",
+      "4",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−10) = 10."
+  },
+  {
+    "id": "KIM-0259",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0260",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "13",
+      "11",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0261",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-8) M, pH larutan tersebut adalah ...",
+    "options": [
+      "9",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−8) = 8."
+  },
+  {
+    "id": "KIM-0262",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-11) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−11) = 11."
+  },
+  {
+    "id": "KIM-0263",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "11",
+      "2",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0264",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-9) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "9",
+      "5",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−9) = 9."
+  },
+  {
+    "id": "KIM-0265",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-1) M, pH larutan tersebut adalah ...",
+    "options": [
+      "13",
+      "1",
+      "2",
+      "0"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−1) = 1."
+  },
+  {
+    "id": "KIM-0266",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-11) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−11) = 11."
+  },
+  {
+    "id": "KIM-0267",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-11) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "12",
+      "11",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−11) = 11."
+  },
+  {
+    "id": "KIM-0268",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-4) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−4) = 4."
+  },
+  {
+    "id": "KIM-0269",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "13",
+      "11",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0270",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "11",
+      "12",
+      "2",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0271",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "6",
+      "7",
+      "10",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0272",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-4) M, pH larutan tersebut adalah ...",
+    "options": [
+      "3",
+      "10",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−4) = 4."
+  },
+  {
+    "id": "KIM-0273",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "13",
+      "2",
+      "11",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0274",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "6",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0275",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-3) M, pH larutan tersebut adalah ...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−3) = 3."
+  },
+  {
+    "id": "KIM-0276",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-1) M, pH larutan tersebut adalah ...",
+    "options": [
+      "13",
+      "2",
+      "0",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−1) = 1."
+  },
+  {
+    "id": "KIM-0277",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0278",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0279",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0280",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-1) M, pH larutan tersebut adalah ...",
+    "options": [
+      "13",
+      "1",
+      "0",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−1) = 1."
+  },
+  {
+    "id": "KIM-0281",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "8",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0282",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-3) M, pH larutan tersebut adalah ...",
+    "options": [
+      "11",
+      "4",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−3) = 3."
+  },
+  {
+    "id": "KIM-0283",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-3) M, pH larutan tersebut adalah ...",
+    "options": [
+      "3",
+      "2",
+      "11",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−3) = 3."
+  },
+  {
+    "id": "KIM-0284",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0285",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-4) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−4) = 4."
+  },
+  {
+    "id": "KIM-0286",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-10) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "9",
+      "4",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−10) = 10."
+  },
+  {
+    "id": "KIM-0287",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-8) M, pH larutan tersebut adalah ...",
+    "options": [
+      "6",
+      "9",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−8) = 8."
+  },
+  {
+    "id": "KIM-0288",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-5) M, pH larutan tersebut adalah ...",
+    "options": [
+      "9",
+      "6",
+      "4",
+      "5"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−5) = 5."
+  },
+  {
+    "id": "KIM-0289",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-3) M, pH larutan tersebut adalah ...",
+    "options": [
+      "2",
+      "4",
+      "11",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−3) = 3."
+  },
+  {
+    "id": "KIM-0290",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-9) M, pH larutan tersebut adalah ...",
+    "options": [
+      "8",
+      "5",
+      "10",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−9) = 9."
+  },
+  {
+    "id": "KIM-0291",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-2) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−2) = 2."
+  },
+  {
+    "id": "KIM-0292",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0293",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-8) M, pH larutan tersebut adalah ...",
+    "options": [
+      "7",
+      "8",
+      "6",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−8) = 8."
+  },
+  {
+    "id": "KIM-0294",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-7) M, pH larutan tersebut adalah ...",
+    "options": [
+      "10",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−7) = 7."
+  },
+  {
+    "id": "KIM-0295",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0296",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-9) M, pH larutan tersebut adalah ...",
+    "options": [
+      "8",
+      "10",
+      "9",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−9) = 9."
+  },
+  {
+    "id": "KIM-0297",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-2) M, pH larutan tersebut adalah ...",
+    "options": [
+      "3",
+      "12",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−2) = 2."
+  },
+  {
+    "id": "KIM-0298",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-3) M, pH larutan tersebut adalah ...",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "pH = −log[H⁺] = −log(10^−3) = 3."
+  },
+  {
+    "id": "KIM-0299",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-12) M, pH larutan tersebut adalah ...",
+    "options": [
+      "12",
+      "13",
+      "2",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "pH = −log[H⁺] = −log(10^−12) = 12."
+  },
+  {
+    "id": "KIM-0300",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Jika konsentrasi ion H⁺ suatu larutan adalah 10^(-6) M, pH larutan tersebut adalah ...",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": 3,
+    "explanation": "pH = −log[H⁺] = −log(10^−6) = 6."
+  },
+  {
+    "id": "KIM-0301",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "asam",
+      "netral",
+      "buffer",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0302",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "buffer",
+      "asam",
+      "netral",
+      "basa"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0303",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "netral",
+      "buffer"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0304",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "asam",
+      "netral",
+      "buffer",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0305",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "asam",
+      "basa"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0306",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "asam",
+      "buffer",
+      "netral",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0307",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "asam",
+      "netral",
+      "basa",
+      "buffer"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0308",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "asam",
+      "netral",
+      "buffer",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0309",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "netral",
+      "buffer"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0310",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "basa",
+      "buffer",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0311",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "basa",
+      "asam",
+      "buffer",
+      "netral"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0312",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "netral",
+      "asam",
+      "buffer",
+      "basa"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0313",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "asam",
+      "buffer",
+      "netral",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0314",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "basa",
+      "asam",
+      "netral",
+      "buffer"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0315",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "asam",
+      "netral",
+      "buffer",
+      "basa"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0316",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "basa",
+      "asam",
+      "buffer",
+      "netral"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0317",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "buffer",
+      "asam",
+      "netral",
+      "basa"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0318",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "netral",
+      "basa",
+      "buffer",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0319",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "netral",
+      "asam",
+      "basa",
+      "buffer"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0320",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "asam",
+      "buffer",
+      "basa",
+      "netral"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0321",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "basa",
+      "buffer",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0322",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "buffer",
+      "netral"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0323",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0324",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "buffer",
+      "basa",
+      "netral",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0325",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "basa",
+      "netral",
+      "asam",
+      "buffer"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0326",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "netral",
+      "basa",
+      "asam",
+      "buffer"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0327",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "buffer",
+      "basa",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0328",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "buffer",
+      "basa",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0329",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "basa",
+      "netral",
+      "buffer",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0330",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "netral",
+      "asam",
+      "basa",
+      "buffer"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0331",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "netral",
+      "buffer"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0332",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "netral",
+      "basa",
+      "asam",
+      "buffer"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0333",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "basa",
+      "buffer",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0334",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "asam",
+      "basa"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0335",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0336",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "buffer",
+      "netral"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0337",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "buffer",
+      "basa",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0338",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0339",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0340",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "netral",
+      "buffer",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0341",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "asam",
+      "basa"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0342",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 3 bersifat ...",
+    "options": [
+      "asam",
+      "buffer",
+      "basa",
+      "netral"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0343",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 2 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "netral",
+      "buffer"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0344",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "basa",
+      "asam"
+    ],
+    "answer": 3,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0345",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "asam",
+      "basa"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0346",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 4 bersifat ...",
+    "options": [
+      "buffer",
+      "asam",
+      "netral",
+      "basa"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0347",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 2,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "basa",
+      "buffer",
+      "asam",
+      "netral"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0348",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 3,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "buffer",
+      "netral",
+      "asam",
+      "basa"
+    ],
+    "answer": 2,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0349",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 4,
+    "question": "Larutan dengan pH 6 bersifat ...",
+    "options": [
+      "asam",
+      "basa",
+      "buffer",
+      "netral"
+    ],
+    "answer": 0,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0350",
+    "category": "Kimia",
+    "topic": "Asam Basa",
+    "level": 5,
+    "question": "Larutan dengan pH 5 bersifat ...",
+    "options": [
+      "buffer",
+      "asam",
+      "netral",
+      "basa"
+    ],
+    "answer": 1,
+    "explanation": "Karena pH < 7, larutan bersifat asam."
+  },
+  {
+    "id": "KIM-0351",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "hidrogen",
+      "kovalen",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0352",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "logam",
+      "hidrogen",
+      "ionik"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0353",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "ionik",
+      "logam",
+      "hidrogen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0354",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0355",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "logam",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0356",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "hidrogen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0357",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0358",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "ionik",
+      "logam",
+      "hidrogen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0359",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "logam",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0360",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "logam",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0361",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "logam",
+      "kovalen",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0362",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "hidrogen",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0363",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "hidrogen",
+      "ionik"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0364",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "logam",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0365",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0366",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "hidrogen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0367",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "hidrogen",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0368",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0369",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "hidrogen",
+      "kovalen",
+      "logam"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0370",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "ionik",
+      "logam",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0371",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "hidrogen",
+      "ionik",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0372",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0373",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0374",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "logam",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0375",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "logam",
+      "ionik",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0376",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "kovalen",
+      "hidrogen"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0377",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0378",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0379",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "hidrogen",
+      "kovalen",
+      "ionik"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0380",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "ionik",
+      "hidrogen",
+      "logam"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0381",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "hidrogen",
+      "ionik"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0382",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "hidrogen",
+      "kovalen",
+      "ionik"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0383",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "logam",
+      "ionik",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0384",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0385",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0386",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0387",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "logam",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0388",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur C dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "kovalen",
+      "logam",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 0,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan C–O bersifat kovalen."
+  },
+  {
+    "id": "KIM-0389",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "logam",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0390",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "kovalen",
+      "hidrogen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0391",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "ionik",
+      "kovalen",
+      "logam"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0392",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "ionik",
+      "logam"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0393",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "kovalen",
+      "hidrogen"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0394",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur K dan Br pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "ionik",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan K–Br bersifat ionik."
+  },
+  {
+    "id": "KIM-0395",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "hidrogen",
+      "kovalen",
+      "logam"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0396",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0397",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 3,
+    "question": "Ikatan dominan antara unsur N dan H pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "ionik",
+      "logam",
+      "hidrogen",
+      "kovalen"
+    ],
+    "answer": 3,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan N–H bersifat kovalen."
+  },
+  {
+    "id": "KIM-0398",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 4,
+    "question": "Ikatan dominan antara unsur H dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "kovalen",
+      "logam",
+      "ionik"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan H–Cl bersifat kovalen."
+  },
+  {
+    "id": "KIM-0399",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 5,
+    "question": "Ikatan dominan antara unsur Na dan Cl pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "logam",
+      "kovalen",
+      "ionik",
+      "hidrogen"
+    ],
+    "answer": 2,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Na–Cl bersifat ionik."
+  },
+  {
+    "id": "KIM-0400",
+    "category": "Kimia",
+    "topic": "Ikatan Kimia",
+    "level": 2,
+    "question": "Ikatan dominan antara unsur Mg dan O pada senyawa sederhana paling tepat dikategorikan sebagai ikatan ...",
+    "options": [
+      "hidrogen",
+      "ionik",
+      "kovalen",
+      "logam"
+    ],
+    "answer": 1,
+    "explanation": "Berdasarkan kecenderungan jenis unsur penyusunnya, ikatan Mg–O bersifat ionik."
+  },
+  {
+    "id": "KIM-0401",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "mengecil",
+      "tetap"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0402",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "mengecil",
+      "acak",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0403",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "mengecil",
+      "acak",
+      "tetap"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0404",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0405",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "membesar",
+      "tetap"
+    ],
+    "answer": 0,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0406",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "membesar",
+      "acak",
+      "tetap"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0407",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "mengecil",
+      "acak",
+      "membesar"
+    ],
+    "answer": 1,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0408",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "membesar",
+      "tetap",
+      "acak"
+    ],
+    "answer": 0,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0409",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "membesar",
+      "mengecil",
+      "acak"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0410",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "tetap",
+      "acak",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0411",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0412",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "membesar",
+      "acak",
+      "mengecil"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0413",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "tetap",
+      "acak",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0414",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "mengecil",
+      "tetap",
+      "acak"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0415",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0416",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "membesar",
+      "tetap",
+      "acak"
+    ],
+    "answer": 0,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0417",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "mengecil",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0418",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0419",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0420",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "mengecil",
+      "tetap"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0421",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0422",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "membesar",
+      "acak",
+      "tetap"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0423",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0424",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "membesar",
+      "tetap"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0425",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "tetap",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0426",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0427",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "membesar",
+      "mengecil",
+      "acak"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0428",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 0,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0429",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0430",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "tetap",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0431",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "membesar",
+      "tetap",
+      "acak"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0432",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0433",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0434",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0435",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0436",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0437",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "acak",
+      "tetap",
+      "mengecil"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0438",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0439",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "mengecil",
+      "tetap"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0440",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0441",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "tetap",
+      "mengecil",
+      "acak"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0442",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0443",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "acak",
+      "tetap",
+      "mengecil"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0444",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "mengecil",
+      "acak",
+      "tetap",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0445",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu golongan dari atas ke bawah, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "acak",
+      "mengecil",
+      "membesar"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah kulit elektron bertambah sehingga jari-jari atom membesar."
+  },
+  {
+    "id": "KIM-0446",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "tetap",
+      "membesar",
+      "mengecil",
+      "acak"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0447",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 4,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "membesar",
+      "tetap",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0448",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 5,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "acak",
+      "tetap",
+      "membesar",
+      "mengecil"
+    ],
+    "answer": 3,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0449",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 2,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "mengecil",
+      "acak",
+      "tetap"
+    ],
+    "answer": 1,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0450",
+    "category": "Kimia",
+    "topic": "Sistem Periodik",
+    "level": 3,
+    "question": "Dalam satu periode dari kiri ke kanan, jari-jari atom secara umum cenderung ...",
+    "options": [
+      "membesar",
+      "tetap",
+      "mengecil",
+      "acak"
+    ],
+    "answer": 2,
+    "explanation": "Muatan inti efektif meningkat sehingga elektron tertarik lebih kuat dan jari-jari mengecil."
+  },
+  {
+    "id": "KIM-0451",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0452",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0453",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0454",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0455",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0456",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0457",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0458",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0459",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0460",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0461",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0462",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0463",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0464",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0465",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0466",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0467",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0468",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0469",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0470",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0471",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0472",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0473",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0474",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0475",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0476",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0477",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0478",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0479",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0480",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0481",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0482",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0483",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0484",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0485",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0486",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0487",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0488",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0489",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0490",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara N₂ + 3H₂ → 2NH₃, koefisien H₂ adalah ...",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 3."
+  },
+  {
+    "id": "KIM-0491",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0492",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0493",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": 0,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0494",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0495",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0496",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2H₂ + O₂ → 2H₂O, koefisien H₂ adalah ...",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien H₂ = 2."
+  },
+  {
+    "id": "KIM-0497",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 5,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  },
+  {
+    "id": "KIM-0498",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 2,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0499",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 3,
+    "question": "Pada persamaan setara CH₄ + 2O₂ → CO₂ + 2H₂O, koefisien O₂ adalah ...",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 2."
+  },
+  {
+    "id": "KIM-0500",
+    "category": "Kimia",
+    "topic": "Persamaan Reaksi",
+    "level": 4,
+    "question": "Pada persamaan setara 2KClO₃ → 2KCl + 3O₂, koefisien O₂ adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Dari persamaan setara, koefisien O₂ = 3."
+  }
+]

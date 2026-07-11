@@ -1,0 +1,7502 @@
+[
+  {
+    "id": "NUM-0001",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 1, 1, 1, 1, 1, ...",
+    "options": [
+      "4",
+      "-2",
+      "-1",
+      "1"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×3 − 2. Hasil berikutnya 1."
+  },
+  {
+    "id": "NUM-0002",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 6, 13, 27, 55, 111, ...",
+    "options": [
+      "221",
+      "225",
+      "223",
+      "112"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×2 + 1. Hasil berikutnya 223."
+  },
+  {
+    "id": "NUM-0003",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 10, 31, 94, 283, 850, ...",
+    "options": [
+      "2548",
+      "851",
+      "2554",
+      "2551"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 2551."
+  },
+  {
+    "id": "NUM-0004",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 9, 32, 101, 308, 929, ...",
+    "options": [
+      "2795",
+      "2792",
+      "934",
+      "2789"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 + 5. Hasil berikutnya 2792."
+  },
+  {
+    "id": "NUM-0005",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 5, 12, 26, 54, 110, ...",
+    "options": [
+      "224",
+      "220",
+      "112",
+      "222"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×2 + 2. Hasil berikutnya 222."
+  },
+  {
+    "id": "NUM-0006",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 2, 9, 37, 149, 597, ...",
+    "options": [
+      "2385",
+      "598",
+      "2393",
+      "2389"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×4 + 1. Hasil berikutnya 2389."
+  },
+  {
+    "id": "NUM-0007",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 8, 20, 44, 92, 188, ...",
+    "options": [
+      "380",
+      "382",
+      "378",
+      "192"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×2 + 4. Hasil berikutnya 380."
+  },
+  {
+    "id": "NUM-0008",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 8, 31, 123, 491, 1963, ...",
+    "options": [
+      "1962",
+      "7847",
+      "7851",
+      "7855"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×4 − 1. Hasil berikutnya 7851."
+  },
+  {
+    "id": "NUM-0009",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 4, 6, 10, 18, 34, ...",
+    "options": [
+      "68",
+      "64",
+      "66",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×2 − 2. Hasil berikutnya 66."
+  },
+  {
+    "id": "NUM-0010",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 7, 13, 25, 49, 97, ...",
+    "options": [
+      "195",
+      "96",
+      "191",
+      "193"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×2 − 1. Hasil berikutnya 193."
+  },
+  {
+    "id": "NUM-0011",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 2, 4, 10, 28, 82, ...",
+    "options": [
+      "80",
+      "244",
+      "247",
+      "241"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 − 2. Hasil berikutnya 244."
+  },
+  {
+    "id": "NUM-0012",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 9, 40, 164, 660, 2644, ...",
+    "options": [
+      "2648",
+      "10580",
+      "10584",
+      "10576"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×4 + 4. Hasil berikutnya 10580."
+  },
+  {
+    "id": "NUM-0013",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 9, 28, 85, 256, 769, ...",
+    "options": [
+      "770",
+      "2308",
+      "2311",
+      "2305"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 2308."
+  },
+  {
+    "id": "NUM-0014",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 9, 21, 45, 93, 189, ...",
+    "options": [
+      "192",
+      "379",
+      "381",
+      "383"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×2 + 3. Hasil berikutnya 381."
+  },
+  {
+    "id": "NUM-0015",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 9, 26, 77, 230, 689, ...",
+    "options": [
+      "2066",
+      "688",
+      "2069",
+      "2063"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×3 − 1. Hasil berikutnya 2066."
+  },
+  {
+    "id": "NUM-0016",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 5, 13, 29, 61, 125, ...",
+    "options": [
+      "251",
+      "253",
+      "255",
+      "128"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×2 + 3. Hasil berikutnya 253."
+  },
+  {
+    "id": "NUM-0017",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 7, 22, 67, 202, 607, ...",
+    "options": [
+      "608",
+      "1825",
+      "1819",
+      "1822"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 1822."
+  },
+  {
+    "id": "NUM-0018",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 5, 12, 26, 54, 110, ...",
+    "options": [
+      "222",
+      "220",
+      "224",
+      "112"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×2 + 2. Hasil berikutnya 222."
+  },
+  {
+    "id": "NUM-0019",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 6, 14, 30, 62, 126, ...",
+    "options": [
+      "256",
+      "252",
+      "128",
+      "254"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×2 + 2. Hasil berikutnya 254."
+  },
+  {
+    "id": "NUM-0020",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 5, 11, 23, 47, 95, ...",
+    "options": [
+      "189",
+      "191",
+      "193",
+      "96"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×2 + 1. Hasil berikutnya 191."
+  },
+  {
+    "id": "NUM-0021",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 5, 24, 100, 404, 1620, ...",
+    "options": [
+      "6484",
+      "1624",
+      "6480",
+      "6488"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×4 + 4. Hasil berikutnya 6484."
+  },
+  {
+    "id": "NUM-0022",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 4, 7, 13, 25, 49, ...",
+    "options": [
+      "97",
+      "48",
+      "95",
+      "99"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×2 − 1. Hasil berikutnya 97."
+  },
+  {
+    "id": "NUM-0023",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 7, 29, 117, 469, 1877, ...",
+    "options": [
+      "7509",
+      "7505",
+      "7513",
+      "1878"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×4 + 1. Hasil berikutnya 7509."
+  },
+  {
+    "id": "NUM-0024",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 6, 23, 74, 227, 686, ...",
+    "options": [
+      "2060",
+      "691",
+      "2063",
+      "2066"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×3 + 5. Hasil berikutnya 2063."
+  },
+  {
+    "id": "NUM-0025",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 2, 4, 8, 16, 32, ...",
+    "options": [
+      "66",
+      "62",
+      "32",
+      "64"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×2 + 0. Hasil berikutnya 64."
+  },
+  {
+    "id": "NUM-0026",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 8, 18, 38, 78, 158, ...",
+    "options": [
+      "318",
+      "160",
+      "316",
+      "320"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×2 + 2. Hasil berikutnya 318."
+  },
+  {
+    "id": "NUM-0027",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 7, 33, 137, 553, 2217, ...",
+    "options": [
+      "8869",
+      "8877",
+      "2222",
+      "8873"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×4 + 5. Hasil berikutnya 8873."
+  },
+  {
+    "id": "NUM-0028",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 7, 20, 59, 176, 527, ...",
+    "options": [
+      "1580",
+      "1583",
+      "526",
+      "1577"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×3 − 1. Hasil berikutnya 1580."
+  },
+  {
+    "id": "NUM-0029",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 4, 18, 74, 298, 1194, ...",
+    "options": [
+      "4782",
+      "1196",
+      "4778",
+      "4774"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×4 + 2. Hasil berikutnya 4778."
+  },
+  {
+    "id": "NUM-0030",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 5, 19, 75, 299, 1195, ...",
+    "options": [
+      "4783",
+      "4779",
+      "1194",
+      "4775"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×4 − 1. Hasil berikutnya 4779."
+  },
+  {
+    "id": "NUM-0031",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 2, 7, 27, 107, 427, ...",
+    "options": [
+      "1707",
+      "1711",
+      "1703",
+      "426"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×4 − 1. Hasil berikutnya 1707."
+  },
+  {
+    "id": "NUM-0032",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 2, 6, 22, 86, 342, ...",
+    "options": [
+      "340",
+      "1370",
+      "1362",
+      "1366"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×4 − 2. Hasil berikutnya 1366."
+  },
+  {
+    "id": "NUM-0033",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 8, 33, 133, 533, 2133, ...",
+    "options": [
+      "8529",
+      "2134",
+      "8533",
+      "8537"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×4 + 1. Hasil berikutnya 8533."
+  },
+  {
+    "id": "NUM-0034",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 5, 13, 29, 61, 125, ...",
+    "options": [
+      "251",
+      "253",
+      "128",
+      "255"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×2 + 3. Hasil berikutnya 253."
+  },
+  {
+    "id": "NUM-0035",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 10, 30, 90, 270, 810, ...",
+    "options": [
+      "810",
+      "2430",
+      "2433",
+      "2427"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 + 0. Hasil berikutnya 2430."
+  },
+  {
+    "id": "NUM-0036",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 6, 22, 86, 342, 1366, ...",
+    "options": [
+      "5458",
+      "1364",
+      "5466",
+      "5462"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×4 − 2. Hasil berikutnya 5462."
+  },
+  {
+    "id": "NUM-0037",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 7, 21, 63, 189, 567, ...",
+    "options": [
+      "1704",
+      "1698",
+      "567",
+      "1701"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×3 + 0. Hasil berikutnya 1701."
+  },
+  {
+    "id": "NUM-0038",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 5, 23, 95, 383, 1535, ...",
+    "options": [
+      "6147",
+      "6143",
+      "1538",
+      "6139"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×4 + 3. Hasil berikutnya 6143."
+  },
+  {
+    "id": "NUM-0039",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 10, 40, 160, 640, 2560, ...",
+    "options": [
+      "10236",
+      "10244",
+      "10240",
+      "2560"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×4 + 0. Hasil berikutnya 10240."
+  },
+  {
+    "id": "NUM-0040",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 7, 28, 112, 448, 1792, ...",
+    "options": [
+      "7164",
+      "7168",
+      "1792",
+      "7172"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×4 + 0. Hasil berikutnya 7168."
+  },
+  {
+    "id": "NUM-0041",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 9, 28, 85, 256, 769, ...",
+    "options": [
+      "770",
+      "2308",
+      "2311",
+      "2305"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 2308."
+  },
+  {
+    "id": "NUM-0042",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 3, 17, 73, 297, 1193, ...",
+    "options": [
+      "4773",
+      "1198",
+      "4777",
+      "4781"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×4 + 5. Hasil berikutnya 4777."
+  },
+  {
+    "id": "NUM-0043",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 9, 31, 97, 295, 889, ...",
+    "options": [
+      "2671",
+      "893",
+      "2668",
+      "2674"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×3 + 4. Hasil berikutnya 2671."
+  },
+  {
+    "id": "NUM-0044",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 2, 7, 17, 37, 77, ...",
+    "options": [
+      "157",
+      "80",
+      "155",
+      "159"
+    ],
+    "answer": 0,
+    "explanation": "Pola: setiap suku ×2 + 3. Hasil berikutnya 157."
+  },
+  {
+    "id": "NUM-0045",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 2, 6, 18, 54, 162, ...",
+    "options": [
+      "489",
+      "162",
+      "486",
+      "483"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×3 + 0. Hasil berikutnya 486."
+  },
+  {
+    "id": "NUM-0046",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 4, 10, 28, 82, 244, ...",
+    "options": [
+      "733",
+      "242",
+      "730",
+      "727"
+    ],
+    "answer": 2,
+    "explanation": "Pola: setiap suku ×3 − 2. Hasil berikutnya 730."
+  },
+  {
+    "id": "NUM-0047",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 4,
+    "question": "Tentukan suku berikutnya: 9, 28, 85, 256, 769, ...",
+    "options": [
+      "770",
+      "2311",
+      "2305",
+      "2308"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 2308."
+  },
+  {
+    "id": "NUM-0048",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 5,
+    "question": "Tentukan suku berikutnya: 4, 13, 40, 121, 364, ...",
+    "options": [
+      "1096",
+      "1093",
+      "1090",
+      "365"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×3 + 1. Hasil berikutnya 1093."
+  },
+  {
+    "id": "NUM-0049",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 2,
+    "question": "Tentukan suku berikutnya: 9, 37, 149, 597, 2389, ...",
+    "options": [
+      "2390",
+      "9557",
+      "9553",
+      "9561"
+    ],
+    "answer": 1,
+    "explanation": "Pola: setiap suku ×4 + 1. Hasil berikutnya 9557."
+  },
+  {
+    "id": "NUM-0050",
+    "category": "Penalaran Numerik",
+    "topic": "Pola Bilangan",
+    "level": 3,
+    "question": "Tentukan suku berikutnya: 8, 31, 123, 491, 1963, ...",
+    "options": [
+      "7847",
+      "7855",
+      "1962",
+      "7851"
+    ],
+    "answer": 3,
+    "explanation": "Pola: setiap suku ×4 − 1. Hasil berikutnya 7851."
+  },
+  {
+    "id": "NUM-0051",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=9:3. Jika jumlah A dan B 84, nilai B adalah ...",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "63"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 12; satu bagian 7; B=3×7=21."
+  },
+  {
+    "id": "NUM-0052",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=2:6. Jika jumlah A dan B 24, nilai B adalah ...",
+    "options": [
+      "21",
+      "6",
+      "18",
+      "15"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 8; satu bagian 3; B=6×3=18."
+  },
+  {
+    "id": "NUM-0053",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=7:4. Jika jumlah A dan B 110, nilai B adalah ...",
+    "options": [
+      "30",
+      "70",
+      "40",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 11; satu bagian 10; B=4×10=40."
+  },
+  {
+    "id": "NUM-0054",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=3:6. Jika jumlah A dan B 72, nilai B adalah ...",
+    "options": [
+      "56",
+      "48",
+      "40",
+      "24"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 9; satu bagian 8; B=6×8=48."
+  },
+  {
+    "id": "NUM-0055",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=4:8. Jika jumlah A dan B 96, nilai B adalah ...",
+    "options": [
+      "56",
+      "64",
+      "32",
+      "72"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 12; satu bagian 8; B=8×8=64."
+  },
+  {
+    "id": "NUM-0056",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=9:5. Jika jumlah A dan B 98, nilai B adalah ...",
+    "options": [
+      "42",
+      "35",
+      "63",
+      "28"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 14; satu bagian 7; B=5×7=35."
+  },
+  {
+    "id": "NUM-0057",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=8:6. Jika jumlah A dan B 70, nilai B adalah ...",
+    "options": [
+      "35",
+      "40",
+      "30",
+      "25"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 14; satu bagian 5; B=6×5=30."
+  },
+  {
+    "id": "NUM-0058",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=4:5. Jika jumlah A dan B 72, nilai B adalah ...",
+    "options": [
+      "32",
+      "48",
+      "40",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 9; satu bagian 8; B=5×8=40."
+  },
+  {
+    "id": "NUM-0059",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=7:8. Jika jumlah A dan B 60, nilai B adalah ...",
+    "options": [
+      "33",
+      "36",
+      "28",
+      "32"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 15; satu bagian 4; B=8×4=32."
+  },
+  {
+    "id": "NUM-0060",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=4:9. Jika jumlah A dan B 117, nilai B adalah ...",
+    "options": [
+      "81",
+      "36",
+      "72",
+      "90"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 13; satu bagian 9; B=9×9=81."
+  },
+  {
+    "id": "NUM-0061",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=2:8. Jika jumlah A dan B 50, nilai B adalah ...",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 10; satu bagian 5; B=8×5=40."
+  },
+  {
+    "id": "NUM-0062",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=8:3. Jika jumlah A dan B 33, nilai B adalah ...",
+    "options": [
+      "9",
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 11; satu bagian 3; B=3×3=9."
+  },
+  {
+    "id": "NUM-0063",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=6:5. Jika jumlah A dan B 88, nilai B adalah ...",
+    "options": [
+      "48",
+      "41",
+      "40",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 11; satu bagian 8; B=5×8=40."
+  },
+  {
+    "id": "NUM-0064",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=9:8. Jika jumlah A dan B 170, nilai B adalah ...",
+    "options": [
+      "70",
+      "81",
+      "80",
+      "90"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 17; satu bagian 10; B=8×10=80."
+  },
+  {
+    "id": "NUM-0065",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=6:8. Jika jumlah A dan B 112, nilai B adalah ...",
+    "options": [
+      "48",
+      "72",
+      "64",
+      "56"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 14; satu bagian 8; B=8×8=64."
+  },
+  {
+    "id": "NUM-0066",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=3:3. Jika jumlah A dan B 42, nilai B adalah ...",
+    "options": [
+      "14",
+      "28",
+      "22",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 6; satu bagian 7; B=3×7=21."
+  },
+  {
+    "id": "NUM-0067",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=9:4. Jika jumlah A dan B 104, nilai B adalah ...",
+    "options": [
+      "32",
+      "72",
+      "24",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 13; satu bagian 8; B=4×8=32."
+  },
+  {
+    "id": "NUM-0068",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=2:4. Jika jumlah A dan B 18, nilai B adalah ...",
+    "options": [
+      "6",
+      "9",
+      "15",
+      "12"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 6; satu bagian 3; B=4×3=12."
+  },
+  {
+    "id": "NUM-0069",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=6:4. Jika jumlah A dan B 100, nilai B adalah ...",
+    "options": [
+      "60",
+      "50",
+      "30",
+      "40"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 10; satu bagian 10; B=4×10=40."
+  },
+  {
+    "id": "NUM-0070",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=3:6. Jika jumlah A dan B 63, nilai B adalah ...",
+    "options": [
+      "42",
+      "35",
+      "49",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 9; satu bagian 7; B=6×7=42."
+  },
+  {
+    "id": "NUM-0071",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=7:9. Jika jumlah A dan B 112, nilai B adalah ...",
+    "options": [
+      "70",
+      "56",
+      "63",
+      "49"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 16; satu bagian 7; B=9×7=63."
+  },
+  {
+    "id": "NUM-0072",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=9:8. Jika jumlah A dan B 119, nilai B adalah ...",
+    "options": [
+      "63",
+      "56",
+      "57",
+      "49"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 17; satu bagian 7; B=8×7=56."
+  },
+  {
+    "id": "NUM-0073",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=5:6. Jika jumlah A dan B 110, nilai B adalah ...",
+    "options": [
+      "70",
+      "61",
+      "50",
+      "60"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 11; satu bagian 10; B=6×10=60."
+  },
+  {
+    "id": "NUM-0074",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=6:7. Jika jumlah A dan B 78, nilai B adalah ...",
+    "options": [
+      "48",
+      "42",
+      "36",
+      "43"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 13; satu bagian 6; B=7×6=42."
+  },
+  {
+    "id": "NUM-0075",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=6:3. Jika jumlah A dan B 81, nilai B adalah ...",
+    "options": [
+      "27",
+      "54",
+      "18",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 9; satu bagian 9; B=3×9=27."
+  },
+  {
+    "id": "NUM-0076",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=2:3. Jika jumlah A dan B 40, nilai B adalah ...",
+    "options": [
+      "24",
+      "25",
+      "16",
+      "32"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 5; satu bagian 8; B=3×8=24."
+  },
+  {
+    "id": "NUM-0077",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=3:8. Jika jumlah A dan B 88, nilai B adalah ...",
+    "options": [
+      "64",
+      "72",
+      "24",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 11; satu bagian 8; B=8×8=64."
+  },
+  {
+    "id": "NUM-0078",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=4:4. Jika jumlah A dan B 48, nilai B adalah ...",
+    "options": [
+      "24",
+      "18",
+      "25",
+      "30"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 8; satu bagian 6; B=4×6=24."
+  },
+  {
+    "id": "NUM-0079",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=4:9. Jika jumlah A dan B 39, nilai B adalah ...",
+    "options": [
+      "24",
+      "12",
+      "30",
+      "27"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 13; satu bagian 3; B=9×3=27."
+  },
+  {
+    "id": "NUM-0080",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=4:7. Jika jumlah A dan B 33, nilai B adalah ...",
+    "options": [
+      "18",
+      "12",
+      "24",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 11; satu bagian 3; B=7×3=21."
+  },
+  {
+    "id": "NUM-0081",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=6:9. Jika jumlah A dan B 90, nilai B adalah ...",
+    "options": [
+      "60",
+      "36",
+      "54",
+      "48"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 15; satu bagian 6; B=9×6=54."
+  },
+  {
+    "id": "NUM-0082",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=8:3. Jika jumlah A dan B 66, nilai B adalah ...",
+    "options": [
+      "24",
+      "48",
+      "18",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 11; satu bagian 6; B=3×6=18."
+  },
+  {
+    "id": "NUM-0083",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=3:3. Jika jumlah A dan B 18, nilai B adalah ...",
+    "options": [
+      "12",
+      "10",
+      "9",
+      "6"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 6; satu bagian 3; B=3×3=9."
+  },
+  {
+    "id": "NUM-0084",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=3:3. Jika jumlah A dan B 54, nilai B adalah ...",
+    "options": [
+      "36",
+      "27",
+      "28",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 6; satu bagian 9; B=3×9=27."
+  },
+  {
+    "id": "NUM-0085",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=9:4. Jika jumlah A dan B 104, nilai B adalah ...",
+    "options": [
+      "24",
+      "40",
+      "32",
+      "72"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 13; satu bagian 8; B=4×8=32."
+  },
+  {
+    "id": "NUM-0086",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=3:4. Jika jumlah A dan B 70, nilai B adalah ...",
+    "options": [
+      "30",
+      "41",
+      "50",
+      "40"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 7; satu bagian 10; B=4×10=40."
+  },
+  {
+    "id": "NUM-0087",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=4:8. Jika jumlah A dan B 120, nilai B adalah ...",
+    "options": [
+      "40",
+      "70",
+      "90",
+      "80"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 12; satu bagian 10; B=8×10=80."
+  },
+  {
+    "id": "NUM-0088",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=6:8. Jika jumlah A dan B 84, nilai B adalah ...",
+    "options": [
+      "42",
+      "48",
+      "36",
+      "54"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 14; satu bagian 6; B=8×6=48."
+  },
+  {
+    "id": "NUM-0089",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=7:7. Jika jumlah A dan B 140, nilai B adalah ...",
+    "options": [
+      "80",
+      "70",
+      "60",
+      "71"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 14; satu bagian 10; B=7×10=70."
+  },
+  {
+    "id": "NUM-0090",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=6:7. Jika jumlah A dan B 117, nilai B adalah ...",
+    "options": [
+      "63",
+      "64",
+      "72",
+      "54"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 13; satu bagian 9; B=7×9=63."
+  },
+  {
+    "id": "NUM-0091",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=4:4. Jika jumlah A dan B 24, nilai B adalah ...",
+    "options": [
+      "12",
+      "13",
+      "9",
+      "15"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 8; satu bagian 3; B=4×3=12."
+  },
+  {
+    "id": "NUM-0092",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=9:8. Jika jumlah A dan B 102, nilai B adalah ...",
+    "options": [
+      "42",
+      "54",
+      "48",
+      "49"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah bagian 17; satu bagian 6; B=8×6=48."
+  },
+  {
+    "id": "NUM-0093",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=9:3. Jika jumlah A dan B 72, nilai B adalah ...",
+    "options": [
+      "12",
+      "24",
+      "54",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 12; satu bagian 6; B=3×6=18."
+  },
+  {
+    "id": "NUM-0094",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=8:8. Jika jumlah A dan B 64, nilai B adalah ...",
+    "options": [
+      "33",
+      "36",
+      "28",
+      "32"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 16; satu bagian 4; B=8×4=32."
+  },
+  {
+    "id": "NUM-0095",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=2:4. Jika jumlah A dan B 36, nilai B adalah ...",
+    "options": [
+      "30",
+      "24",
+      "12",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 6; satu bagian 6; B=4×6=24."
+  },
+  {
+    "id": "NUM-0096",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=4:9. Jika jumlah A dan B 78, nilai B adalah ...",
+    "options": [
+      "24",
+      "54",
+      "48",
+      "60"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 13; satu bagian 6; B=9×6=54."
+  },
+  {
+    "id": "NUM-0097",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 5,
+    "question": "Perbandingan A:B=5:5. Jika jumlah A dan B 70, nilai B adalah ...",
+    "options": [
+      "35",
+      "28",
+      "42",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 10; satu bagian 7; B=5×7=35."
+  },
+  {
+    "id": "NUM-0098",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 2,
+    "question": "Perbandingan A:B=8:9. Jika jumlah A dan B 85, nilai B adalah ...",
+    "options": [
+      "45",
+      "50",
+      "40",
+      "46"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah bagian 17; satu bagian 5; B=9×5=45."
+  },
+  {
+    "id": "NUM-0099",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 3,
+    "question": "Perbandingan A:B=8:10. Jika jumlah A dan B 54, nilai B adalah ...",
+    "options": [
+      "24",
+      "27",
+      "33",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah bagian 18; satu bagian 3; B=10×3=30."
+  },
+  {
+    "id": "NUM-0100",
+    "category": "Penalaran Numerik",
+    "topic": "Perbandingan",
+    "level": 4,
+    "question": "Perbandingan A:B=5:10. Jika jumlah A dan B 135, nilai B adalah ...",
+    "options": [
+      "99",
+      "90",
+      "45",
+      "81"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah bagian 15; satu bagian 9; B=10×9=90."
+  },
+  {
+    "id": "NUM-0101",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp230.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp57.500",
+      "Rp230.000",
+      "Rp172.500",
+      "Rp182.500"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=75%×Rp230.000=Rp172.500."
+  },
+  {
+    "id": "NUM-0102",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp940.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp235.000",
+      "Rp715.000",
+      "Rp940.000",
+      "Rp705.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=75%×Rp940.000=Rp705.000."
+  },
+  {
+    "id": "NUM-0103",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp220.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp142.000",
+      "Rp132.000",
+      "Rp88.000",
+      "Rp220.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=60%×Rp220.000=Rp132.000."
+  },
+  {
+    "id": "NUM-0104",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp1.000.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp1.000.000",
+      "Rp610.000",
+      "Rp400.000",
+      "Rp600.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=60%×Rp1.000.000=Rp600.000."
+  },
+  {
+    "id": "NUM-0105",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp320.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp266.000",
+      "Rp320.000",
+      "Rp256.000",
+      "Rp64.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=80%×Rp320.000=Rp256.000."
+  },
+  {
+    "id": "NUM-0106",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp580.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp232.000",
+      "Rp358.000",
+      "Rp580.000",
+      "Rp348.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=60%×Rp580.000=Rp348.000."
+  },
+  {
+    "id": "NUM-0107",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp440.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp406.000",
+      "Rp440.000",
+      "Rp44.000",
+      "Rp396.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=90%×Rp440.000=Rp396.000."
+  },
+  {
+    "id": "NUM-0108",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp540.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp432.000",
+      "Rp442.000",
+      "Rp108.000",
+      "Rp540.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=80%×Rp540.000=Rp432.000."
+  },
+  {
+    "id": "NUM-0109",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp350.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp220.000",
+      "Rp140.000",
+      "Rp350.000",
+      "Rp210.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=60%×Rp350.000=Rp210.000."
+  },
+  {
+    "id": "NUM-0110",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp860.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp860.000",
+      "Rp774.000",
+      "Rp86.000",
+      "Rp784.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=90%×Rp860.000=Rp774.000."
+  },
+  {
+    "id": "NUM-0111",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp260.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp182.000",
+      "Rp260.000",
+      "Rp78.000",
+      "Rp192.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=70%×Rp260.000=Rp182.000."
+  },
+  {
+    "id": "NUM-0112",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp310.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp46.500",
+      "Rp310.000",
+      "Rp263.500",
+      "Rp273.500"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=85%×Rp310.000=Rp263.500."
+  },
+  {
+    "id": "NUM-0113",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp120.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp30.000",
+      "Rp90.000",
+      "Rp120.000",
+      "Rp100.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=75%×Rp120.000=Rp90.000."
+  },
+  {
+    "id": "NUM-0114",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp810.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp810.000",
+      "Rp648.000",
+      "Rp162.000",
+      "Rp658.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=80%×Rp810.000=Rp648.000."
+  },
+  {
+    "id": "NUM-0115",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp650.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp595.000",
+      "Rp650.000",
+      "Rp65.000",
+      "Rp585.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=90%×Rp650.000=Rp585.000."
+  },
+  {
+    "id": "NUM-0116",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp860.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp645.000",
+      "Rp860.000",
+      "Rp655.000",
+      "Rp215.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=75%×Rp860.000=Rp645.000."
+  },
+  {
+    "id": "NUM-0117",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp190.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp190.000",
+      "Rp171.500",
+      "Rp161.500",
+      "Rp28.500"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=85%×Rp190.000=Rp161.500."
+  },
+  {
+    "id": "NUM-0118",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp460.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp138.000",
+      "Rp332.000",
+      "Rp460.000",
+      "Rp322.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=70%×Rp460.000=Rp322.000."
+  },
+  {
+    "id": "NUM-0119",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp620.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp620.000",
+      "Rp475.000",
+      "Rp155.000",
+      "Rp465.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=75%×Rp620.000=Rp465.000."
+  },
+  {
+    "id": "NUM-0120",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp260.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp192.000",
+      "Rp78.000",
+      "Rp182.000",
+      "Rp260.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=70%×Rp260.000=Rp182.000."
+  },
+  {
+    "id": "NUM-0121",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp370.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp269.000",
+      "Rp370.000",
+      "Rp111.000",
+      "Rp259.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=70%×Rp370.000=Rp259.000."
+  },
+  {
+    "id": "NUM-0122",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp320.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp256.000",
+      "Rp64.000",
+      "Rp266.000",
+      "Rp320.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=80%×Rp320.000=Rp256.000."
+  },
+  {
+    "id": "NUM-0123",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp470.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp70.500",
+      "Rp399.500",
+      "Rp409.500",
+      "Rp470.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=85%×Rp470.000=Rp399.500."
+  },
+  {
+    "id": "NUM-0124",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp990.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp693.000",
+      "Rp990.000",
+      "Rp703.000",
+      "Rp297.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=70%×Rp990.000=Rp693.000."
+  },
+  {
+    "id": "NUM-0125",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp220.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp66.000",
+      "Rp154.000",
+      "Rp164.000",
+      "Rp220.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=70%×Rp220.000=Rp154.000."
+  },
+  {
+    "id": "NUM-0126",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp420.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp367.000",
+      "Rp357.000",
+      "Rp420.000",
+      "Rp63.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=85%×Rp420.000=Rp357.000."
+  },
+  {
+    "id": "NUM-0127",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp730.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp730.000",
+      "Rp521.000",
+      "Rp219.000",
+      "Rp511.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=70%×Rp730.000=Rp511.000."
+  },
+  {
+    "id": "NUM-0128",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp130.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp88.000",
+      "Rp52.000",
+      "Rp130.000",
+      "Rp78.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=60%×Rp130.000=Rp78.000."
+  },
+  {
+    "id": "NUM-0129",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp670.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp536.000",
+      "Rp670.000",
+      "Rp546.000",
+      "Rp134.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=80%×Rp670.000=Rp536.000."
+  },
+  {
+    "id": "NUM-0130",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp430.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp430.000",
+      "Rp301.000",
+      "Rp129.000",
+      "Rp311.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=70%×Rp430.000=Rp301.000."
+  },
+  {
+    "id": "NUM-0131",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp730.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp521.000",
+      "Rp511.000",
+      "Rp219.000",
+      "Rp730.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=70%×Rp730.000=Rp511.000."
+  },
+  {
+    "id": "NUM-0132",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp160.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp160.000",
+      "Rp32.000",
+      "Rp128.000",
+      "Rp138.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=80%×Rp160.000=Rp128.000."
+  },
+  {
+    "id": "NUM-0133",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp540.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp540.000",
+      "Rp81.000",
+      "Rp459.000",
+      "Rp469.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=85%×Rp540.000=Rp459.000."
+  },
+  {
+    "id": "NUM-0134",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp810.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp81.000",
+      "Rp739.000",
+      "Rp729.000",
+      "Rp810.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=90%×Rp810.000=Rp729.000."
+  },
+  {
+    "id": "NUM-0135",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp510.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp76.500",
+      "Rp433.500",
+      "Rp443.500",
+      "Rp510.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=85%×Rp510.000=Rp433.500."
+  },
+  {
+    "id": "NUM-0136",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp940.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp762.000",
+      "Rp940.000",
+      "Rp752.000",
+      "Rp188.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=80%×Rp940.000=Rp752.000."
+  },
+  {
+    "id": "NUM-0137",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp140.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp140.000",
+      "Rp112.000",
+      "Rp28.000",
+      "Rp122.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=80%×Rp140.000=Rp112.000."
+  },
+  {
+    "id": "NUM-0138",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp520.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp400.000",
+      "Rp390.000",
+      "Rp130.000",
+      "Rp520.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=75%×Rp520.000=Rp390.000."
+  },
+  {
+    "id": "NUM-0139",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp240.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp226.000",
+      "Rp216.000",
+      "Rp240.000",
+      "Rp24.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=90%×Rp240.000=Rp216.000."
+  },
+  {
+    "id": "NUM-0140",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp260.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp166.000",
+      "Rp260.000",
+      "Rp156.000",
+      "Rp104.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=60%×Rp260.000=Rp156.000."
+  },
+  {
+    "id": "NUM-0141",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp490.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp73.500",
+      "Rp416.500",
+      "Rp426.500",
+      "Rp490.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=85%×Rp490.000=Rp416.500."
+  },
+  {
+    "id": "NUM-0142",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp270.000 didiskon 30%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp189.000",
+      "Rp270.000",
+      "Rp199.000",
+      "Rp81.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=70%×Rp270.000=Rp189.000."
+  },
+  {
+    "id": "NUM-0143",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp270.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp67.500",
+      "Rp270.000",
+      "Rp212.500",
+      "Rp202.500"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=75%×Rp270.000=Rp202.500."
+  },
+  {
+    "id": "NUM-0144",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp780.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp624.000",
+      "Rp634.000",
+      "Rp780.000",
+      "Rp156.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=80%×Rp780.000=Rp624.000."
+  },
+  {
+    "id": "NUM-0145",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp640.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp640.000",
+      "Rp384.000",
+      "Rp256.000",
+      "Rp394.000"
+    ],
+    "answer": 1,
+    "explanation": "Harga akhir=60%×Rp640.000=Rp384.000."
+  },
+  {
+    "id": "NUM-0146",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp590.000 didiskon 10%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp590.000",
+      "Rp541.000",
+      "Rp531.000",
+      "Rp59.000"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=90%×Rp590.000=Rp531.000."
+  },
+  {
+    "id": "NUM-0147",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Harga Rp200.000 didiskon 40%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp130.000",
+      "Rp80.000",
+      "Rp200.000",
+      "Rp120.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=60%×Rp200.000=Rp120.000."
+  },
+  {
+    "id": "NUM-0148",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Harga Rp770.000 didiskon 20%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp626.000",
+      "Rp154.000",
+      "Rp770.000",
+      "Rp616.000"
+    ],
+    "answer": 3,
+    "explanation": "Harga akhir=80%×Rp770.000=Rp616.000."
+  },
+  {
+    "id": "NUM-0149",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Harga Rp810.000 didiskon 15%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp810.000",
+      "Rp698.500",
+      "Rp688.500",
+      "Rp121.500"
+    ],
+    "answer": 2,
+    "explanation": "Harga akhir=85%×Rp810.000=Rp688.500."
+  },
+  {
+    "id": "NUM-0150",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Harga Rp640.000 didiskon 25%. Harga setelah diskon adalah ...",
+    "options": [
+      "Rp480.000",
+      "Rp490.000",
+      "Rp640.000",
+      "Rp160.000"
+    ],
+    "answer": 0,
+    "explanation": "Harga akhir=75%×Rp640.000=Rp480.000."
+  },
+  {
+    "id": "NUM-0151",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 11, 18, 35, 23, 37 adalah ...",
+    "options": [
+      "37",
+      "24.8",
+      "25.8",
+      "23.8"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 124 dibagi 5 = 24.8."
+  },
+  {
+    "id": "NUM-0152",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 12, 27, 16, 11, 17 adalah ...",
+    "options": [
+      "27",
+      "16.6",
+      "17.6",
+      "15.600000000000001"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 83 dibagi 5 = 16.6."
+  },
+  {
+    "id": "NUM-0153",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 39, 21, 16, 29, 32 adalah ...",
+    "options": [
+      "28.4",
+      "26.4",
+      "27.4",
+      "39"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 137 dibagi 5 = 27.4."
+  },
+  {
+    "id": "NUM-0154",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 16, 36, 11, 27, 22 adalah ...",
+    "options": [
+      "22.4",
+      "23.4",
+      "21.4",
+      "36"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 112 dibagi 5 = 22.4."
+  },
+  {
+    "id": "NUM-0155",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 39, 18, 11, 15, 37 adalah ...",
+    "options": [
+      "25.0",
+      "24.0",
+      "23.0",
+      "39"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 120 dibagi 5 = 24.0."
+  },
+  {
+    "id": "NUM-0156",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 22, 31, 19, 39, 24 adalah ...",
+    "options": [
+      "27.0",
+      "39",
+      "26.0",
+      "28.0"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 135 dibagi 5 = 27.0."
+  },
+  {
+    "id": "NUM-0157",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 31, 19, 14, 15, 23 adalah ...",
+    "options": [
+      "20.4",
+      "19.4",
+      "21.4",
+      "31"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 102 dibagi 5 = 20.4."
+  },
+  {
+    "id": "NUM-0158",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 33, 38, 29, 23, 15 adalah ...",
+    "options": [
+      "26.6",
+      "27.6",
+      "38",
+      "28.6"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 138 dibagi 5 = 27.6."
+  },
+  {
+    "id": "NUM-0159",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 21, 26, 34, 29, 37 adalah ...",
+    "options": [
+      "29.4",
+      "30.4",
+      "28.4",
+      "37"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 147 dibagi 5 = 29.4."
+  },
+  {
+    "id": "NUM-0160",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 30, 36, 22, 20, 33 adalah ...",
+    "options": [
+      "36",
+      "27.2",
+      "29.2",
+      "28.2"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 141 dibagi 5 = 28.2."
+  },
+  {
+    "id": "NUM-0161",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 26, 33, 12, 31, 32 adalah ...",
+    "options": [
+      "27.8",
+      "33",
+      "25.8",
+      "26.8"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 134 dibagi 5 = 26.8."
+  },
+  {
+    "id": "NUM-0162",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 11, 25, 40, 28, 27 adalah ...",
+    "options": [
+      "25.2",
+      "27.2",
+      "26.2",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 131 dibagi 5 = 26.2."
+  },
+  {
+    "id": "NUM-0163",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 21, 30, 16, 38, 36 adalah ...",
+    "options": [
+      "27.2",
+      "38",
+      "29.2",
+      "28.2"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 141 dibagi 5 = 28.2."
+  },
+  {
+    "id": "NUM-0164",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 25, 15, 29, 13, 14 adalah ...",
+    "options": [
+      "18.2",
+      "19.2",
+      "29",
+      "20.2"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 96 dibagi 5 = 19.2."
+  },
+  {
+    "id": "NUM-0165",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 11, 22, 38, 12, 36 adalah ...",
+    "options": [
+      "38",
+      "23.8",
+      "24.8",
+      "22.8"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 119 dibagi 5 = 23.8."
+  },
+  {
+    "id": "NUM-0166",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 22, 40, 20, 12, 12 adalah ...",
+    "options": [
+      "22.2",
+      "20.2",
+      "40",
+      "21.2"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 106 dibagi 5 = 21.2."
+  },
+  {
+    "id": "NUM-0167",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 39, 18, 22, 40, 24 adalah ...",
+    "options": [
+      "27.6",
+      "28.6",
+      "40",
+      "29.6"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 143 dibagi 5 = 28.6."
+  },
+  {
+    "id": "NUM-0168",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 40, 13, 36, 31, 38 adalah ...",
+    "options": [
+      "30.6",
+      "32.6",
+      "40",
+      "31.6"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 158 dibagi 5 = 31.6."
+  },
+  {
+    "id": "NUM-0169",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 36, 38, 19, 12, 17 adalah ...",
+    "options": [
+      "25.4",
+      "23.4",
+      "38",
+      "24.4"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 122 dibagi 5 = 24.4."
+  },
+  {
+    "id": "NUM-0170",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 22, 17, 40, 38, 14 adalah ...",
+    "options": [
+      "26.2",
+      "40",
+      "27.2",
+      "25.2"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 131 dibagi 5 = 26.2."
+  },
+  {
+    "id": "NUM-0171",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 27, 15, 29, 11, 34 adalah ...",
+    "options": [
+      "24.2",
+      "22.2",
+      "34",
+      "23.2"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 116 dibagi 5 = 23.2."
+  },
+  {
+    "id": "NUM-0172",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 15, 10, 18, 16, 32 adalah ...",
+    "options": [
+      "32",
+      "18.2",
+      "19.2",
+      "17.2"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 91 dibagi 5 = 18.2."
+  },
+  {
+    "id": "NUM-0173",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 11, 30, 12, 32, 20 adalah ...",
+    "options": [
+      "22.0",
+      "20.0",
+      "21.0",
+      "32"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 105 dibagi 5 = 21.0."
+  },
+  {
+    "id": "NUM-0174",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 31, 13, 27, 25, 37 adalah ...",
+    "options": [
+      "26.6",
+      "27.6",
+      "25.6",
+      "37"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 133 dibagi 5 = 26.6."
+  },
+  {
+    "id": "NUM-0175",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 40, 20, 33, 27, 25 adalah ...",
+    "options": [
+      "30.0",
+      "40",
+      "28.0",
+      "29.0"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 145 dibagi 5 = 29.0."
+  },
+  {
+    "id": "NUM-0176",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 27, 33, 16, 10, 11 adalah ...",
+    "options": [
+      "18.4",
+      "19.4",
+      "20.4",
+      "33"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 97 dibagi 5 = 19.4."
+  },
+  {
+    "id": "NUM-0177",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 36, 33, 34, 38, 16 adalah ...",
+    "options": [
+      "30.4",
+      "38",
+      "32.4",
+      "31.4"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 157 dibagi 5 = 31.4."
+  },
+  {
+    "id": "NUM-0178",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 37, 31, 25, 30, 20 adalah ...",
+    "options": [
+      "29.6",
+      "37",
+      "28.6",
+      "27.6"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 143 dibagi 5 = 28.6."
+  },
+  {
+    "id": "NUM-0179",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 18, 38, 37, 16, 20 adalah ...",
+    "options": [
+      "25.8",
+      "38",
+      "24.8",
+      "26.8"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 129 dibagi 5 = 25.8."
+  },
+  {
+    "id": "NUM-0180",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 33, 10, 33, 39, 18 adalah ...",
+    "options": [
+      "25.6",
+      "26.6",
+      "27.6",
+      "39"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 133 dibagi 5 = 26.6."
+  },
+  {
+    "id": "NUM-0181",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 36, 32, 36, 19, 16 adalah ...",
+    "options": [
+      "28.8",
+      "36",
+      "27.8",
+      "26.8"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 139 dibagi 5 = 27.8."
+  },
+  {
+    "id": "NUM-0182",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 34, 10, 33, 16, 15 adalah ...",
+    "options": [
+      "20.6",
+      "22.6",
+      "21.6",
+      "34"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 108 dibagi 5 = 21.6."
+  },
+  {
+    "id": "NUM-0183",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 28, 20, 12, 11, 14 adalah ...",
+    "options": [
+      "18.0",
+      "17.0",
+      "16.0",
+      "28"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 85 dibagi 5 = 17.0."
+  },
+  {
+    "id": "NUM-0184",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 18, 37, 13, 30, 32 adalah ...",
+    "options": [
+      "25.0",
+      "27.0",
+      "26.0",
+      "37"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 130 dibagi 5 = 26.0."
+  },
+  {
+    "id": "NUM-0185",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 39, 14, 35, 32, 27 adalah ...",
+    "options": [
+      "29.4",
+      "30.4",
+      "28.4",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 147 dibagi 5 = 29.4."
+  },
+  {
+    "id": "NUM-0186",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 14, 13, 38, 29, 31 adalah ...",
+    "options": [
+      "24.0",
+      "38",
+      "26.0",
+      "25.0"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 125 dibagi 5 = 25.0."
+  },
+  {
+    "id": "NUM-0187",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 19, 39, 14, 19, 17 adalah ...",
+    "options": [
+      "39",
+      "21.6",
+      "22.6",
+      "20.6"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 108 dibagi 5 = 21.6."
+  },
+  {
+    "id": "NUM-0188",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 29, 24, 36, 24, 23 adalah ...",
+    "options": [
+      "27.2",
+      "36",
+      "26.2",
+      "28.2"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 136 dibagi 5 = 27.2."
+  },
+  {
+    "id": "NUM-0189",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 11, 25, 31, 19, 15 adalah ...",
+    "options": [
+      "19.2",
+      "21.2",
+      "20.2",
+      "31"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 101 dibagi 5 = 20.2."
+  },
+  {
+    "id": "NUM-0190",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 36, 29, 22, 18, 29 adalah ...",
+    "options": [
+      "27.8",
+      "25.8",
+      "26.8",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 134 dibagi 5 = 26.8."
+  },
+  {
+    "id": "NUM-0191",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 15, 22, 22, 35, 33 adalah ...",
+    "options": [
+      "24.4",
+      "26.4",
+      "25.4",
+      "35"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 127 dibagi 5 = 25.4."
+  },
+  {
+    "id": "NUM-0192",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 39, 26, 26, 40, 34 adalah ...",
+    "options": [
+      "32.0",
+      "34.0",
+      "40",
+      "33.0"
+    ],
+    "answer": 3,
+    "explanation": "Jumlah data 165 dibagi 5 = 33.0."
+  },
+  {
+    "id": "NUM-0193",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 25, 12, 25, 17, 28 adalah ...",
+    "options": [
+      "22.4",
+      "21.4",
+      "20.4",
+      "28"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 107 dibagi 5 = 21.4."
+  },
+  {
+    "id": "NUM-0194",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 34, 38, 37, 23, 31 adalah ...",
+    "options": [
+      "31.6",
+      "32.6",
+      "33.6",
+      "38"
+    ],
+    "answer": 1,
+    "explanation": "Jumlah data 163 dibagi 5 = 32.6."
+  },
+  {
+    "id": "NUM-0195",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 22, 10, 21, 28, 27 adalah ...",
+    "options": [
+      "21.6",
+      "28",
+      "20.6",
+      "22.6"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 108 dibagi 5 = 21.6."
+  },
+  {
+    "id": "NUM-0196",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 19, 35, 30, 18, 12 adalah ...",
+    "options": [
+      "22.8",
+      "21.8",
+      "23.8",
+      "35"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 114 dibagi 5 = 22.8."
+  },
+  {
+    "id": "NUM-0197",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 3,
+    "question": "Rata-rata dari 25, 11, 33, 24, 28 adalah ...",
+    "options": [
+      "25.2",
+      "23.2",
+      "24.2",
+      "33"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 121 dibagi 5 = 24.2."
+  },
+  {
+    "id": "NUM-0198",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 4,
+    "question": "Rata-rata dari 31, 38, 24, 33, 28 adalah ...",
+    "options": [
+      "30.8",
+      "38",
+      "31.8",
+      "29.8"
+    ],
+    "answer": 0,
+    "explanation": "Jumlah data 154 dibagi 5 = 30.8."
+  },
+  {
+    "id": "NUM-0199",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 5,
+    "question": "Rata-rata dari 34, 19, 13, 22, 39 adalah ...",
+    "options": [
+      "26.4",
+      "39",
+      "25.4",
+      "24.4"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 127 dibagi 5 = 25.4."
+  },
+  {
+    "id": "NUM-0200",
+    "category": "Penalaran Numerik",
+    "topic": "Rata-rata",
+    "level": 2,
+    "question": "Rata-rata dari 37, 34, 40, 37, 20 adalah ...",
+    "options": [
+      "34.6",
+      "32.6",
+      "33.6",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "Jumlah data 168 dibagi 5 = 33.6."
+  },
+  {
+    "id": "NUM-0201",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.0 jam",
+      "2.0 jam",
+      "240 jam",
+      "3.0 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=180/60=3.0 jam."
+  },
+  {
+    "id": "NUM-0202",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "260 jam",
+      "1.25 jam",
+      "2.25 jam",
+      "3.25 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/80=2.25 jam."
+  },
+  {
+    "id": "NUM-0203",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "230 jam",
+      "4.6 jam",
+      "3.6 jam",
+      "2.6 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/50=3.6 jam."
+  },
+  {
+    "id": "NUM-0204",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "340 jam",
+      "6.5 jam",
+      "8.5 jam",
+      "7.5 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/40=7.5 jam."
+  },
+  {
+    "id": "NUM-0205",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "440 jam",
+      "5.5 jam",
+      "3.5 jam",
+      "4.5 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=360/80=4.5 jam."
+  },
+  {
+    "id": "NUM-0206",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.0 jam",
+      "3.0 jam",
+      "2.0 jam",
+      "270 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/90=2.0 jam."
+  },
+  {
+    "id": "NUM-0207",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.3333333333333333 jam",
+      "0.5 jam",
+      "2.333333333333333 jam",
+      "210 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=120/90=1.3333333333333333 jam."
+  },
+  {
+    "id": "NUM-0208",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "180 jam",
+      "2.0 jam",
+      "3.0 jam",
+      "1.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=120/60=2.0 jam."
+  },
+  {
+    "id": "NUM-0209",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "410 jam",
+      "7.2 jam",
+      "8.2 jam",
+      "6.2 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=360/50=7.2 jam."
+  },
+  {
+    "id": "NUM-0210",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "330 jam",
+      "3.6666666666666665 jam",
+      "2.6666666666666665 jam",
+      "1.6666666666666665 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=240/90=2.6666666666666665 jam."
+  },
+  {
+    "id": "NUM-0211",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "7.0 jam",
+      "280 jam",
+      "6.0 jam",
+      "5.0 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=240/40=6.0 jam."
+  },
+  {
+    "id": "NUM-0212",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.6666666666666665 jam",
+      "2.6666666666666665 jam",
+      "330 jam",
+      "3.6666666666666665 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=240/90=2.6666666666666665 jam."
+  },
+  {
+    "id": "NUM-0213",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "3.3333333333333335 jam",
+      "4.333333333333334 jam",
+      "2.3333333333333335 jam",
+      "390 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=300/90=3.3333333333333335 jam."
+  },
+  {
+    "id": "NUM-0214",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.6 jam",
+      "4.6 jam",
+      "230 jam",
+      "3.6 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=180/50=3.6 jam."
+  },
+  {
+    "id": "NUM-0215",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "450 jam",
+      "5.0 jam",
+      "3.0 jam",
+      "4.0 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=360/90=4.0 jam."
+  },
+  {
+    "id": "NUM-0216",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "7.5 jam",
+      "8.5 jam",
+      "340 jam",
+      "6.5 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=300/40=7.5 jam."
+  },
+  {
+    "id": "NUM-0217",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.75 jam",
+      "380 jam",
+      "2.75 jam",
+      "3.75 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/80=3.75 jam."
+  },
+  {
+    "id": "NUM-0218",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "3.6666666666666665 jam",
+      "1.6666666666666665 jam",
+      "2.6666666666666665 jam",
+      "330 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=240/90=2.6666666666666665 jam."
+  },
+  {
+    "id": "NUM-0219",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "3.5 jam",
+      "4.5 jam",
+      "5.5 jam",
+      "220 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=180/40=4.5 jam."
+  },
+  {
+    "id": "NUM-0220",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "8.2 jam",
+      "6.2 jam",
+      "410 jam",
+      "7.2 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=360/50=7.2 jam."
+  },
+  {
+    "id": "NUM-0221",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "6.0 jam",
+      "5.0 jam",
+      "350 jam",
+      "7.0 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=300/50=6.0 jam."
+  },
+  {
+    "id": "NUM-0222",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "7.0 jam",
+      "5.0 jam",
+      "350 jam",
+      "6.0 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/50=6.0 jam."
+  },
+  {
+    "id": "NUM-0223",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.6 jam",
+      "230 jam",
+      "3.6 jam",
+      "4.6 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/50=3.6 jam."
+  },
+  {
+    "id": "NUM-0224",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "8.5 jam",
+      "340 jam",
+      "6.5 jam",
+      "7.5 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/40=7.5 jam."
+  },
+  {
+    "id": "NUM-0225",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "210 jam",
+      "2.333333333333333 jam",
+      "1.3333333333333333 jam",
+      "0.5 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=120/90=1.3333333333333333 jam."
+  },
+  {
+    "id": "NUM-0226",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "400 jam",
+      "9.0 jam",
+      "10.0 jam",
+      "8.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=360/40=9.0 jam."
+  },
+  {
+    "id": "NUM-0227",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "5.0 jam",
+      "6.0 jam",
+      "420 jam",
+      "7.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=360/60=6.0 jam."
+  },
+  {
+    "id": "NUM-0228",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "380 jam",
+      "3.75 jam",
+      "4.75 jam",
+      "2.75 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=300/80=3.75 jam."
+  },
+  {
+    "id": "NUM-0229",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "7.0 jam",
+      "420 jam",
+      "6.0 jam",
+      "5.0 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=360/60=6.0 jam."
+  },
+  {
+    "id": "NUM-0230",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.0 jam",
+      "3.0 jam",
+      "1.0 jam",
+      "270 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=180/90=2.0 jam."
+  },
+  {
+    "id": "NUM-0231",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "3.25 jam",
+      "260 jam",
+      "1.25 jam",
+      "2.25 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=180/80=2.25 jam."
+  },
+  {
+    "id": "NUM-0232",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.3333333333333333 jam",
+      "0.5 jam",
+      "210 jam",
+      "2.333333333333333 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=120/90=1.3333333333333333 jam."
+  },
+  {
+    "id": "NUM-0233",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "5.0 jam",
+      "6.0 jam",
+      "360 jam",
+      "4.0 jam"
+    ],
+    "answer": 0,
+    "explanation": "t=s/v=300/60=5.0 jam."
+  },
+  {
+    "id": "NUM-0234",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "240 jam",
+      "3.0 jam",
+      "2.0 jam",
+      "4.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=180/60=3.0 jam."
+  },
+  {
+    "id": "NUM-0235",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "260 jam",
+      "3.25 jam",
+      "2.25 jam",
+      "1.25 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/80=2.25 jam."
+  },
+  {
+    "id": "NUM-0236",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.6 jam",
+      "4.6 jam",
+      "230 jam",
+      "3.6 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=180/50=3.6 jam."
+  },
+  {
+    "id": "NUM-0237",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 80 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.5 jam",
+      "1.5 jam",
+      "0.5 jam",
+      "200 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=120/80=1.5 jam."
+  },
+  {
+    "id": "NUM-0238",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.0 jam",
+      "270 jam",
+      "2.0 jam",
+      "3.0 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=180/90=2.0 jam."
+  },
+  {
+    "id": "NUM-0239",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.0 jam",
+      "160 jam",
+      "2.0 jam",
+      "3.0 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=120/40=3.0 jam."
+  },
+  {
+    "id": "NUM-0240",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "400 jam",
+      "9.0 jam",
+      "10.0 jam",
+      "8.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=360/40=9.0 jam."
+  },
+  {
+    "id": "NUM-0241",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 50 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "3.8 jam",
+      "290 jam",
+      "5.8 jam",
+      "4.8 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=240/50=4.8 jam."
+  },
+  {
+    "id": "NUM-0242",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 360 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "5.0 jam",
+      "6.0 jam",
+      "420 jam",
+      "7.0 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=360/60=6.0 jam."
+  },
+  {
+    "id": "NUM-0243",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "340 jam",
+      "6.5 jam",
+      "8.5 jam",
+      "7.5 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/40=7.5 jam."
+  },
+  {
+    "id": "NUM-0244",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 40 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.0 jam",
+      "160 jam",
+      "3.0 jam",
+      "2.0 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=120/40=3.0 jam."
+  },
+  {
+    "id": "NUM-0245",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 240 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "5.0 jam",
+      "4.0 jam",
+      "3.0 jam",
+      "300 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=240/60=4.0 jam."
+  },
+  {
+    "id": "NUM-0246",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.333333333333333 jam",
+      "210 jam",
+      "1.3333333333333333 jam",
+      "0.5 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=120/90=1.3333333333333333 jam."
+  },
+  {
+    "id": "NUM-0247",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 4,
+    "question": "Sebuah kendaraan menempuh 180 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "2.0 jam",
+      "3.0 jam",
+      "4.0 jam",
+      "240 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=180/60=3.0 jam."
+  },
+  {
+    "id": "NUM-0248",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 5,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.333333333333334 jam",
+      "2.3333333333333335 jam",
+      "390 jam",
+      "3.3333333333333335 jam"
+    ],
+    "answer": 3,
+    "explanation": "t=s/v=300/90=3.3333333333333335 jam."
+  },
+  {
+    "id": "NUM-0249",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 2,
+    "question": "Sebuah kendaraan menempuh 300 km dengan kecepatan tetap 90 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "4.333333333333334 jam",
+      "3.3333333333333335 jam",
+      "390 jam",
+      "2.3333333333333335 jam"
+    ],
+    "answer": 1,
+    "explanation": "t=s/v=300/90=3.3333333333333335 jam."
+  },
+  {
+    "id": "NUM-0250",
+    "category": "Penalaran Numerik",
+    "topic": "Kecepatan",
+    "level": 3,
+    "question": "Sebuah kendaraan menempuh 120 km dengan kecepatan tetap 60 km/jam. Waktu tempuhnya adalah ...",
+    "options": [
+      "1.0 jam",
+      "180 jam",
+      "2.0 jam",
+      "3.0 jam"
+    ],
+    "answer": 2,
+    "explanation": "t=s/v=120/60=2.0 jam."
+  },
+  {
+    "id": "NUM-0251",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 29 kartu, 1 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/29",
+      "28/29",
+      "1/2",
+      "1/2"
+    ],
+    "answer": 0,
+    "explanation": "P=1/29=1/29."
+  },
+  {
+    "id": "NUM-0252",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 22 kartu, 18 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/22",
+      "18/22",
+      "9/11",
+      "4/22"
+    ],
+    "answer": 2,
+    "explanation": "P=18/22=9/11."
+  },
+  {
+    "id": "NUM-0253",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 82 kartu, 5 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "77/82",
+      "5/82",
+      "1/2",
+      "1/82"
+    ],
+    "answer": 1,
+    "explanation": "P=5/82=5/82."
+  },
+  {
+    "id": "NUM-0254",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 42 kartu, 6 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "6/42",
+      "36/42",
+      "1/42",
+      "1/7"
+    ],
+    "answer": 3,
+    "explanation": "P=6/42=1/7."
+  },
+  {
+    "id": "NUM-0255",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 41 kartu, 32 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/41",
+      "1/2",
+      "9/41",
+      "32/41"
+    ],
+    "answer": 3,
+    "explanation": "P=32/41=32/41."
+  },
+  {
+    "id": "NUM-0256",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 45 kartu, 13 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "32/45",
+      "1/45",
+      "13/45",
+      "1/2"
+    ],
+    "answer": 2,
+    "explanation": "P=13/45=13/45."
+  },
+  {
+    "id": "NUM-0257",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 92 kartu, 82 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "10/92",
+      "1/92",
+      "82/92",
+      "41/46"
+    ],
+    "answer": 3,
+    "explanation": "P=82/92=41/46."
+  },
+  {
+    "id": "NUM-0258",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 26 kartu, 10 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "5/13",
+      "1/26",
+      "16/26",
+      "10/26"
+    ],
+    "answer": 0,
+    "explanation": "P=10/26=5/13."
+  },
+  {
+    "id": "NUM-0259",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 68 kartu, 10 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "58/68",
+      "10/68",
+      "5/34",
+      "1/68"
+    ],
+    "answer": 2,
+    "explanation": "P=10/68=5/34."
+  },
+  {
+    "id": "NUM-0260",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 90 kartu, 19 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/90",
+      "71/90",
+      "19/90",
+      "1/2"
+    ],
+    "answer": 2,
+    "explanation": "P=19/90=19/90."
+  },
+  {
+    "id": "NUM-0261",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 51 kartu, 1 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/51",
+      "1/2",
+      "1/2",
+      "50/51"
+    ],
+    "answer": 0,
+    "explanation": "P=1/51=1/51."
+  },
+  {
+    "id": "NUM-0262",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 60 kartu, 58 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "58/60",
+      "29/30",
+      "1/60",
+      "2/60"
+    ],
+    "answer": 1,
+    "explanation": "P=58/60=29/30."
+  },
+  {
+    "id": "NUM-0263",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 48 kartu, 28 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "20/48",
+      "1/48",
+      "28/48",
+      "7/12"
+    ],
+    "answer": 3,
+    "explanation": "P=28/48=7/12."
+  },
+  {
+    "id": "NUM-0264",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 68 kartu, 44 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/68",
+      "44/68",
+      "11/17",
+      "24/68"
+    ],
+    "answer": 2,
+    "explanation": "P=44/68=11/17."
+  },
+  {
+    "id": "NUM-0265",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 83 kartu, 58 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "25/83",
+      "1/2",
+      "58/83",
+      "1/83"
+    ],
+    "answer": 2,
+    "explanation": "P=58/83=58/83."
+  },
+  {
+    "id": "NUM-0266",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 66 kartu, 53 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "1/66",
+      "13/66",
+      "53/66"
+    ],
+    "answer": 3,
+    "explanation": "P=53/66=53/66."
+  },
+  {
+    "id": "NUM-0267",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 26 kartu, 6 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "20/26",
+      "1/26",
+      "6/26",
+      "3/13"
+    ],
+    "answer": 3,
+    "explanation": "P=6/26=3/13."
+  },
+  {
+    "id": "NUM-0268",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 38 kartu, 29 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "9/38",
+      "1/38",
+      "1/2",
+      "29/38"
+    ],
+    "answer": 3,
+    "explanation": "P=29/38=29/38."
+  },
+  {
+    "id": "NUM-0269",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 28 kartu, 8 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/28",
+      "8/28",
+      "2/7",
+      "20/28"
+    ],
+    "answer": 2,
+    "explanation": "P=8/28=2/7."
+  },
+  {
+    "id": "NUM-0270",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 22 kartu, 13 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "13/22",
+      "1/22",
+      "9/22"
+    ],
+    "answer": 1,
+    "explanation": "P=13/22=13/22."
+  },
+  {
+    "id": "NUM-0271",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 37 kartu, 30 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/37",
+      "30/37",
+      "7/37",
+      "1/2"
+    ],
+    "answer": 1,
+    "explanation": "P=30/37=30/37."
+  },
+  {
+    "id": "NUM-0272",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 45 kartu, 5 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "40/45",
+      "1/45",
+      "1/9",
+      "5/45"
+    ],
+    "answer": 2,
+    "explanation": "P=5/45=1/9."
+  },
+  {
+    "id": "NUM-0273",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 46 kartu, 28 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "28/46",
+      "18/46",
+      "14/23",
+      "1/46"
+    ],
+    "answer": 2,
+    "explanation": "P=28/46=14/23."
+  },
+  {
+    "id": "NUM-0274",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 85 kartu, 71 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "14/85",
+      "1/2",
+      "1/85",
+      "71/85"
+    ],
+    "answer": 3,
+    "explanation": "P=71/85=71/85."
+  },
+  {
+    "id": "NUM-0275",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 50 kartu, 10 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "40/50",
+      "1/5",
+      "10/50",
+      "1/50"
+    ],
+    "answer": 1,
+    "explanation": "P=10/50=1/5."
+  },
+  {
+    "id": "NUM-0276",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 85 kartu, 79 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/85",
+      "79/85",
+      "6/85",
+      "1/2"
+    ],
+    "answer": 1,
+    "explanation": "P=79/85=79/85."
+  },
+  {
+    "id": "NUM-0277",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 58 kartu, 3 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "3/58",
+      "55/58",
+      "1/2",
+      "1/58"
+    ],
+    "answer": 0,
+    "explanation": "P=3/58=3/58."
+  },
+  {
+    "id": "NUM-0278",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 61 kartu, 5 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "56/61",
+      "1/61",
+      "1/2",
+      "5/61"
+    ],
+    "answer": 3,
+    "explanation": "P=5/61=5/61."
+  },
+  {
+    "id": "NUM-0279",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 88 kartu, 45 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "45/88",
+      "1/88",
+      "43/88"
+    ],
+    "answer": 1,
+    "explanation": "P=45/88=45/88."
+  },
+  {
+    "id": "NUM-0280",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 90 kartu, 54 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "3/5",
+      "1/90",
+      "36/90",
+      "54/90"
+    ],
+    "answer": 0,
+    "explanation": "P=54/90=3/5."
+  },
+  {
+    "id": "NUM-0281",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 87 kartu, 26 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "61/87",
+      "1/87",
+      "26/87",
+      "1/2"
+    ],
+    "answer": 2,
+    "explanation": "P=26/87=26/87."
+  },
+  {
+    "id": "NUM-0282",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 57 kartu, 27 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "30/57",
+      "1/57",
+      "9/19",
+      "27/57"
+    ],
+    "answer": 2,
+    "explanation": "P=27/57=9/19."
+  },
+  {
+    "id": "NUM-0283",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 21 kartu, 10 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "10/21",
+      "1/21",
+      "11/21"
+    ],
+    "answer": 1,
+    "explanation": "P=10/21=10/21."
+  },
+  {
+    "id": "NUM-0284",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 88 kartu, 50 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "50/88",
+      "1/88",
+      "25/44",
+      "38/88"
+    ],
+    "answer": 2,
+    "explanation": "P=50/88=25/44."
+  },
+  {
+    "id": "NUM-0285",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 39 kartu, 3 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/13",
+      "36/39",
+      "3/39",
+      "1/39"
+    ],
+    "answer": 0,
+    "explanation": "P=3/39=1/13."
+  },
+  {
+    "id": "NUM-0286",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 87 kartu, 82 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "5/87",
+      "1/2",
+      "1/87",
+      "82/87"
+    ],
+    "answer": 3,
+    "explanation": "P=82/87=82/87."
+  },
+  {
+    "id": "NUM-0287",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 83 kartu, 60 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "23/83",
+      "60/83",
+      "1/83"
+    ],
+    "answer": 2,
+    "explanation": "P=60/83=60/83."
+  },
+  {
+    "id": "NUM-0288",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 86 kartu, 58 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "29/43",
+      "58/86",
+      "28/86",
+      "1/86"
+    ],
+    "answer": 0,
+    "explanation": "P=58/86=29/43."
+  },
+  {
+    "id": "NUM-0289",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 90 kartu, 48 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "8/15",
+      "42/90",
+      "1/90",
+      "48/90"
+    ],
+    "answer": 0,
+    "explanation": "P=48/90=8/15."
+  },
+  {
+    "id": "NUM-0290",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 91 kartu, 35 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "35/91",
+      "56/91",
+      "5/13",
+      "1/91"
+    ],
+    "answer": 2,
+    "explanation": "P=35/91=5/13."
+  },
+  {
+    "id": "NUM-0291",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 96 kartu, 33 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "33/96",
+      "11/32",
+      "1/96",
+      "63/96"
+    ],
+    "answer": 1,
+    "explanation": "P=33/96=11/32."
+  },
+  {
+    "id": "NUM-0292",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 67 kartu, 57 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/2",
+      "10/67",
+      "57/67",
+      "1/67"
+    ],
+    "answer": 2,
+    "explanation": "P=57/67=57/67."
+  },
+  {
+    "id": "NUM-0293",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 20 kartu, 1 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/20",
+      "1/2",
+      "1/2",
+      "19/20"
+    ],
+    "answer": 0,
+    "explanation": "P=1/20=1/20."
+  },
+  {
+    "id": "NUM-0294",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 71 kartu, 5 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "66/71",
+      "1/2",
+      "1/71",
+      "5/71"
+    ],
+    "answer": 3,
+    "explanation": "P=5/71=5/71."
+  },
+  {
+    "id": "NUM-0295",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 42 kartu, 9 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/42",
+      "3/14",
+      "33/42",
+      "9/42"
+    ],
+    "answer": 1,
+    "explanation": "P=9/42=3/14."
+  },
+  {
+    "id": "NUM-0296",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 93 kartu, 90 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "30/31",
+      "1/93",
+      "90/93",
+      "3/93"
+    ],
+    "answer": 0,
+    "explanation": "P=90/93=30/31."
+  },
+  {
+    "id": "NUM-0297",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 5,
+    "question": "Dari 33 kartu, 1 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/33",
+      "1/2",
+      "1/2",
+      "32/33"
+    ],
+    "answer": 0,
+    "explanation": "P=1/33=1/33."
+  },
+  {
+    "id": "NUM-0298",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 2,
+    "question": "Dari 54 kartu, 11 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "11/54",
+      "43/54",
+      "1/2",
+      "1/54"
+    ],
+    "answer": 0,
+    "explanation": "P=11/54=11/54."
+  },
+  {
+    "id": "NUM-0299",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 3,
+    "question": "Dari 33 kartu, 31 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "1/33",
+      "31/33",
+      "1/2",
+      "2/33"
+    ],
+    "answer": 1,
+    "explanation": "P=31/33=31/33."
+  },
+  {
+    "id": "NUM-0300",
+    "category": "Penalaran Numerik",
+    "topic": "Peluang",
+    "level": 4,
+    "question": "Dari 96 kartu, 68 kartu memenuhi syarat. Jika satu kartu dipilih acak, peluang terpilih kartu yang memenuhi syarat adalah ...",
+    "options": [
+      "17/24",
+      "68/96",
+      "1/96",
+      "28/96"
+    ],
+    "answer": 0,
+    "explanation": "P=68/96=17/24."
+  },
+  {
+    "id": "NUM-0301",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 7x+9=44, nilai x adalah ...",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "7x=35; x=(35)/7=5."
+  },
+  {
+    "id": "NUM-0302",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 6x+17=59, nilai x adalah ...",
+    "options": [
+      "59",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "6x=42; x=(42)/6=7."
+  },
+  {
+    "id": "NUM-0303",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 4x+5=33, nilai x adalah ...",
+    "options": [
+      "6",
+      "33",
+      "7",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "4x=28; x=(28)/4=7."
+  },
+  {
+    "id": "NUM-0304",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 2x+6=14, nilai x adalah ...",
+    "options": [
+      "3",
+      "14",
+      "5",
+      "4"
+    ],
+    "answer": 3,
+    "explanation": "2x=8; x=(8)/2=4."
+  },
+  {
+    "id": "NUM-0305",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 7x+11=109, nilai x adalah ...",
+    "options": [
+      "15",
+      "14",
+      "109",
+      "13"
+    ],
+    "answer": 1,
+    "explanation": "7x=98; x=(98)/7=14."
+  },
+  {
+    "id": "NUM-0306",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 2x+1=21, nilai x adalah ...",
+    "options": [
+      "21",
+      "11",
+      "10",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "2x=20; x=(20)/2=10."
+  },
+  {
+    "id": "NUM-0307",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 6x+14=86, nilai x adalah ...",
+    "options": [
+      "86",
+      "12",
+      "13",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "6x=72; x=(72)/6=12."
+  },
+  {
+    "id": "NUM-0308",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 8x+9=89, nilai x adalah ...",
+    "options": [
+      "89",
+      "10",
+      "9",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "8x=80; x=(80)/8=10."
+  },
+  {
+    "id": "NUM-0309",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 7x+13=97, nilai x adalah ...",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "97"
+    ],
+    "answer": 0,
+    "explanation": "7x=84; x=(84)/7=12."
+  },
+  {
+    "id": "NUM-0310",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 7x+12=54, nilai x adalah ...",
+    "options": [
+      "6",
+      "54",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "7x=42; x=(42)/7=6."
+  },
+  {
+    "id": "NUM-0311",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 3x+12=66, nilai x adalah ...",
+    "options": [
+      "19",
+      "17",
+      "18",
+      "66"
+    ],
+    "answer": 2,
+    "explanation": "3x=54; x=(54)/3=18."
+  },
+  {
+    "id": "NUM-0312",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 8x+15=159, nilai x adalah ...",
+    "options": [
+      "17",
+      "159",
+      "19",
+      "18"
+    ],
+    "answer": 3,
+    "explanation": "8x=144; x=(144)/8=18."
+  },
+  {
+    "id": "NUM-0313",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 2x+4=26, nilai x adalah ...",
+    "options": [
+      "26",
+      "11",
+      "12",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "2x=22; x=(22)/2=11."
+  },
+  {
+    "id": "NUM-0314",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 4x+8=32, nilai x adalah ...",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "32"
+    ],
+    "answer": 0,
+    "explanation": "4x=24; x=(24)/4=6."
+  },
+  {
+    "id": "NUM-0315",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 5x+2=42, nilai x adalah ...",
+    "options": [
+      "8",
+      "42",
+      "9",
+      "7"
+    ],
+    "answer": 0,
+    "explanation": "5x=40; x=(40)/5=8."
+  },
+  {
+    "id": "NUM-0316",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 6x+3=87, nilai x adalah ...",
+    "options": [
+      "13",
+      "87",
+      "15",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "6x=84; x=(84)/6=14."
+  },
+  {
+    "id": "NUM-0317",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 3x+17=68, nilai x adalah ...",
+    "options": [
+      "68",
+      "18",
+      "17",
+      "16"
+    ],
+    "answer": 2,
+    "explanation": "3x=51; x=(51)/3=17."
+  },
+  {
+    "id": "NUM-0318",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 8x+6=166, nilai x adalah ...",
+    "options": [
+      "20",
+      "21",
+      "166",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "8x=160; x=(160)/8=20."
+  },
+  {
+    "id": "NUM-0319",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 7x+15=29, nilai x adalah ...",
+    "options": [
+      "29",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": 3,
+    "explanation": "7x=14; x=(14)/7=2."
+  },
+  {
+    "id": "NUM-0320",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 8x+6=166, nilai x adalah ...",
+    "options": [
+      "20",
+      "19",
+      "166",
+      "21"
+    ],
+    "answer": 0,
+    "explanation": "8x=160; x=(160)/8=20."
+  },
+  {
+    "id": "NUM-0321",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 8x+6=62, nilai x adalah ...",
+    "options": [
+      "6",
+      "62",
+      "8",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "8x=56; x=(56)/8=7."
+  },
+  {
+    "id": "NUM-0322",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 6x+20=86, nilai x adalah ...",
+    "options": [
+      "11",
+      "12",
+      "10",
+      "86"
+    ],
+    "answer": 0,
+    "explanation": "6x=66; x=(66)/6=11."
+  },
+  {
+    "id": "NUM-0323",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 6x+3=123, nilai x adalah ...",
+    "options": [
+      "21",
+      "19",
+      "20",
+      "123"
+    ],
+    "answer": 2,
+    "explanation": "6x=120; x=(120)/6=20."
+  },
+  {
+    "id": "NUM-0324",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 9x+10=181, nilai x adalah ...",
+    "options": [
+      "18",
+      "181",
+      "20",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "9x=171; x=(171)/9=19."
+  },
+  {
+    "id": "NUM-0325",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 6x+10=124, nilai x adalah ...",
+    "options": [
+      "18",
+      "19",
+      "124",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "6x=114; x=(114)/6=19."
+  },
+  {
+    "id": "NUM-0326",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 4x+18=66, nilai x adalah ...",
+    "options": [
+      "12",
+      "11",
+      "13",
+      "66"
+    ],
+    "answer": 0,
+    "explanation": "4x=48; x=(48)/4=12."
+  },
+  {
+    "id": "NUM-0327",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 6x+20=44, nilai x adalah ...",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "44"
+    ],
+    "answer": 1,
+    "explanation": "6x=24; x=(24)/6=4."
+  },
+  {
+    "id": "NUM-0328",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 5x+6=21, nilai x adalah ...",
+    "options": [
+      "4",
+      "2",
+      "21",
+      "3"
+    ],
+    "answer": 3,
+    "explanation": "5x=15; x=(15)/5=3."
+  },
+  {
+    "id": "NUM-0329",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 8x+6=62, nilai x adalah ...",
+    "options": [
+      "8",
+      "62",
+      "6",
+      "7"
+    ],
+    "answer": 3,
+    "explanation": "8x=56; x=(56)/8=7."
+  },
+  {
+    "id": "NUM-0330",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 5x+10=65, nilai x adalah ...",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "65"
+    ],
+    "answer": 2,
+    "explanation": "5x=55; x=(55)/5=11."
+  },
+  {
+    "id": "NUM-0331",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 2x+6=40, nilai x adalah ...",
+    "options": [
+      "17",
+      "18",
+      "16",
+      "40"
+    ],
+    "answer": 0,
+    "explanation": "2x=34; x=(34)/2=17."
+  },
+  {
+    "id": "NUM-0332",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 7x+10=129, nilai x adalah ...",
+    "options": [
+      "18",
+      "17",
+      "16",
+      "129"
+    ],
+    "answer": 1,
+    "explanation": "7x=119; x=(119)/7=17."
+  },
+  {
+    "id": "NUM-0333",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 4x+8=40, nilai x adalah ...",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "40"
+    ],
+    "answer": 1,
+    "explanation": "4x=32; x=(32)/4=8."
+  },
+  {
+    "id": "NUM-0334",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 3x+5=59, nilai x adalah ...",
+    "options": [
+      "18",
+      "17",
+      "59",
+      "19"
+    ],
+    "answer": 0,
+    "explanation": "3x=54; x=(54)/3=18."
+  },
+  {
+    "id": "NUM-0335",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 8x+13=85, nilai x adalah ...",
+    "options": [
+      "85",
+      "10",
+      "8",
+      "9"
+    ],
+    "answer": 3,
+    "explanation": "8x=72; x=(72)/8=9."
+  },
+  {
+    "id": "NUM-0336",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 5x+5=15, nilai x adalah ...",
+    "options": [
+      "15",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "5x=10; x=(10)/5=2."
+  },
+  {
+    "id": "NUM-0337",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 3x+18=48, nilai x adalah ...",
+    "options": [
+      "48",
+      "10",
+      "11",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "3x=30; x=(30)/3=10."
+  },
+  {
+    "id": "NUM-0338",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 5x+8=103, nilai x adalah ...",
+    "options": [
+      "18",
+      "103",
+      "20",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "5x=95; x=(95)/5=19."
+  },
+  {
+    "id": "NUM-0339",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 9x+1=172, nilai x adalah ...",
+    "options": [
+      "20",
+      "18",
+      "172",
+      "19"
+    ],
+    "answer": 3,
+    "explanation": "9x=171; x=(171)/9=19."
+  },
+  {
+    "id": "NUM-0340",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 4x+13=89, nilai x adalah ...",
+    "options": [
+      "18",
+      "19",
+      "89",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "4x=76; x=(76)/4=19."
+  },
+  {
+    "id": "NUM-0341",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 4x+14=22, nilai x adalah ...",
+    "options": [
+      "22",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "explanation": "4x=8; x=(8)/4=2."
+  },
+  {
+    "id": "NUM-0342",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 2x+17=29, nilai x adalah ...",
+    "options": [
+      "29",
+      "6",
+      "7",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "2x=12; x=(12)/2=6."
+  },
+  {
+    "id": "NUM-0343",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 2x+11=35, nilai x adalah ...",
+    "options": [
+      "11",
+      "35",
+      "12",
+      "13"
+    ],
+    "answer": 2,
+    "explanation": "2x=24; x=(24)/2=12."
+  },
+  {
+    "id": "NUM-0344",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 9x+10=28, nilai x adalah ...",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "28"
+    ],
+    "answer": 1,
+    "explanation": "9x=18; x=(18)/9=2."
+  },
+  {
+    "id": "NUM-0345",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 3x+19=79, nilai x adalah ...",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "79"
+    ],
+    "answer": 0,
+    "explanation": "3x=60; x=(60)/3=20."
+  },
+  {
+    "id": "NUM-0346",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 2x+1=7, nilai x adalah ...",
+    "options": [
+      "4",
+      "3",
+      "7",
+      "2"
+    ],
+    "answer": 1,
+    "explanation": "2x=6; x=(6)/2=3."
+  },
+  {
+    "id": "NUM-0347",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 2,
+    "question": "Jika 4x+16=60, nilai x adalah ...",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "60"
+    ],
+    "answer": 2,
+    "explanation": "4x=44; x=(44)/4=11."
+  },
+  {
+    "id": "NUM-0348",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 3,
+    "question": "Jika 4x+2=58, nilai x adalah ...",
+    "options": [
+      "15",
+      "13",
+      "58",
+      "14"
+    ],
+    "answer": 3,
+    "explanation": "4x=56; x=(56)/4=14."
+  },
+  {
+    "id": "NUM-0349",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 4,
+    "question": "Jika 7x+3=136, nilai x adalah ...",
+    "options": [
+      "136",
+      "19",
+      "20",
+      "18"
+    ],
+    "answer": 1,
+    "explanation": "7x=133; x=(133)/7=19."
+  },
+  {
+    "id": "NUM-0350",
+    "category": "Penalaran Numerik",
+    "topic": "Persamaan",
+    "level": 5,
+    "question": "Jika 8x+2=66, nilai x adalah ...",
+    "options": [
+      "7",
+      "8",
+      "66",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "8x=64; x=(64)/8=8."
+  },
+  {
+    "id": "NUM-0351",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+17 adalah ...",
+    "options": [
+      "289",
+      "136",
+      "153",
+      "170"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=17×18/2=153."
+  },
+  {
+    "id": "NUM-0352",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+20 adalah ...",
+    "options": [
+      "400",
+      "210",
+      "190",
+      "230"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=20×21/2=210."
+  },
+  {
+    "id": "NUM-0353",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+41 adalah ...",
+    "options": [
+      "1681",
+      "820",
+      "861",
+      "902"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=41×42/2=861."
+  },
+  {
+    "id": "NUM-0354",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+38 adalah ...",
+    "options": [
+      "1444",
+      "741",
+      "703",
+      "779"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=38×39/2=741."
+  },
+  {
+    "id": "NUM-0355",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+43 adalah ...",
+    "options": [
+      "989",
+      "903",
+      "1849",
+      "946"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=43×44/2=946."
+  },
+  {
+    "id": "NUM-0356",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+38 adalah ...",
+    "options": [
+      "1444",
+      "741",
+      "779",
+      "703"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=38×39/2=741."
+  },
+  {
+    "id": "NUM-0357",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+20 adalah ...",
+    "options": [
+      "190",
+      "210",
+      "230",
+      "400"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=20×21/2=210."
+  },
+  {
+    "id": "NUM-0358",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+19 adalah ...",
+    "options": [
+      "171",
+      "209",
+      "190",
+      "361"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=19×20/2=190."
+  },
+  {
+    "id": "NUM-0359",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1175",
+      "1081",
+      "1128",
+      "2209"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0360",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+28 adalah ...",
+    "options": [
+      "378",
+      "406",
+      "784",
+      "434"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=28×29/2=406."
+  },
+  {
+    "id": "NUM-0361",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+33 adalah ...",
+    "options": [
+      "594",
+      "1089",
+      "528",
+      "561"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=33×34/2=561."
+  },
+  {
+    "id": "NUM-0362",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+43 adalah ...",
+    "options": [
+      "903",
+      "989",
+      "946",
+      "1849"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=43×44/2=946."
+  },
+  {
+    "id": "NUM-0363",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+18 adalah ...",
+    "options": [
+      "171",
+      "153",
+      "189",
+      "324"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=18×19/2=171."
+  },
+  {
+    "id": "NUM-0364",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+18 adalah ...",
+    "options": [
+      "153",
+      "171",
+      "189",
+      "324"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=18×19/2=171."
+  },
+  {
+    "id": "NUM-0365",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+37 adalah ...",
+    "options": [
+      "1369",
+      "740",
+      "703",
+      "666"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=37×38/2=703."
+  },
+  {
+    "id": "NUM-0366",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+40 adalah ...",
+    "options": [
+      "1600",
+      "820",
+      "780",
+      "860"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=40×41/2=820."
+  },
+  {
+    "id": "NUM-0367",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+41 adalah ...",
+    "options": [
+      "1681",
+      "902",
+      "861",
+      "820"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=41×42/2=861."
+  },
+  {
+    "id": "NUM-0368",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+44 adalah ...",
+    "options": [
+      "990",
+      "1034",
+      "946",
+      "1936"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=44×45/2=990."
+  },
+  {
+    "id": "NUM-0369",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+23 adalah ...",
+    "options": [
+      "529",
+      "299",
+      "276",
+      "253"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=23×24/2=276."
+  },
+  {
+    "id": "NUM-0370",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1081",
+      "2209",
+      "1175",
+      "1128"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0371",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1175",
+      "1081",
+      "2209",
+      "1128"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0372",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+11 adalah ...",
+    "options": [
+      "121",
+      "77",
+      "55",
+      "66"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=11×12/2=66."
+  },
+  {
+    "id": "NUM-0373",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+14 adalah ...",
+    "options": [
+      "196",
+      "91",
+      "105",
+      "119"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=14×15/2=105."
+  },
+  {
+    "id": "NUM-0374",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+43 adalah ...",
+    "options": [
+      "1849",
+      "989",
+      "903",
+      "946"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=43×44/2=946."
+  },
+  {
+    "id": "NUM-0375",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+30 adalah ...",
+    "options": [
+      "900",
+      "435",
+      "465",
+      "495"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=30×31/2=465."
+  },
+  {
+    "id": "NUM-0376",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1128",
+      "1175",
+      "2209",
+      "1081"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0377",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+27 adalah ...",
+    "options": [
+      "729",
+      "351",
+      "405",
+      "378"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=27×28/2=378."
+  },
+  {
+    "id": "NUM-0378",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+20 adalah ...",
+    "options": [
+      "190",
+      "230",
+      "400",
+      "210"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=20×21/2=210."
+  },
+  {
+    "id": "NUM-0379",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+40 adalah ...",
+    "options": [
+      "860",
+      "780",
+      "820",
+      "1600"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=40×41/2=820."
+  },
+  {
+    "id": "NUM-0380",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+28 adalah ...",
+    "options": [
+      "378",
+      "784",
+      "406",
+      "434"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=28×29/2=406."
+  },
+  {
+    "id": "NUM-0381",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+10 adalah ...",
+    "options": [
+      "100",
+      "55",
+      "45",
+      "65"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=10×11/2=55."
+  },
+  {
+    "id": "NUM-0382",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+43 adalah ...",
+    "options": [
+      "946",
+      "1849",
+      "903",
+      "989"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=43×44/2=946."
+  },
+  {
+    "id": "NUM-0383",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+45 adalah ...",
+    "options": [
+      "2025",
+      "1080",
+      "1035",
+      "990"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=45×46/2=1035."
+  },
+  {
+    "id": "NUM-0384",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+44 adalah ...",
+    "options": [
+      "1936",
+      "1034",
+      "946",
+      "990"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=44×45/2=990."
+  },
+  {
+    "id": "NUM-0385",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+49 adalah ...",
+    "options": [
+      "1176",
+      "1225",
+      "1274",
+      "2401"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=49×50/2=1225."
+  },
+  {
+    "id": "NUM-0386",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+46 adalah ...",
+    "options": [
+      "2116",
+      "1035",
+      "1127",
+      "1081"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=46×47/2=1081."
+  },
+  {
+    "id": "NUM-0387",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+21 adalah ...",
+    "options": [
+      "252",
+      "441",
+      "210",
+      "231"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=21×22/2=231."
+  },
+  {
+    "id": "NUM-0388",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+22 adalah ...",
+    "options": [
+      "231",
+      "253",
+      "484",
+      "275"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=22×23/2=253."
+  },
+  {
+    "id": "NUM-0389",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1081",
+      "1175",
+      "1128",
+      "2209"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0390",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+50 adalah ...",
+    "options": [
+      "1225",
+      "2500",
+      "1325",
+      "1275"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=50×51/2=1275."
+  },
+  {
+    "id": "NUM-0391",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+17 adalah ...",
+    "options": [
+      "170",
+      "136",
+      "289",
+      "153"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=17×18/2=153."
+  },
+  {
+    "id": "NUM-0392",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+34 adalah ...",
+    "options": [
+      "561",
+      "629",
+      "1156",
+      "595"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=34×35/2=595."
+  },
+  {
+    "id": "NUM-0393",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+27 adalah ...",
+    "options": [
+      "351",
+      "405",
+      "729",
+      "378"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=27×28/2=378."
+  },
+  {
+    "id": "NUM-0394",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+47 adalah ...",
+    "options": [
+      "1081",
+      "1175",
+      "1128",
+      "2209"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=47×48/2=1128."
+  },
+  {
+    "id": "NUM-0395",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+30 adalah ...",
+    "options": [
+      "495",
+      "435",
+      "465",
+      "900"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=30×31/2=465."
+  },
+  {
+    "id": "NUM-0396",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+34 adalah ...",
+    "options": [
+      "1156",
+      "595",
+      "629",
+      "561"
+    ],
+    "answer": 1,
+    "explanation": "Gunakan rumus n(n+1)/2=34×35/2=595."
+  },
+  {
+    "id": "NUM-0397",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 3,
+    "question": "Jumlah 1+2+3+...+33 adalah ...",
+    "options": [
+      "561",
+      "528",
+      "1089",
+      "594"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=33×34/2=561."
+  },
+  {
+    "id": "NUM-0398",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 4,
+    "question": "Jumlah 1+2+3+...+16 adalah ...",
+    "options": [
+      "136",
+      "256",
+      "152",
+      "120"
+    ],
+    "answer": 0,
+    "explanation": "Gunakan rumus n(n+1)/2=16×17/2=136."
+  },
+  {
+    "id": "NUM-0399",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 5,
+    "question": "Jumlah 1+2+3+...+38 adalah ...",
+    "options": [
+      "703",
+      "1444",
+      "779",
+      "741"
+    ],
+    "answer": 3,
+    "explanation": "Gunakan rumus n(n+1)/2=38×39/2=741."
+  },
+  {
+    "id": "NUM-0400",
+    "category": "Penalaran Numerik",
+    "topic": "Aritmetika",
+    "level": 2,
+    "question": "Jumlah 1+2+3+...+36 adalah ...",
+    "options": [
+      "1296",
+      "630",
+      "666",
+      "702"
+    ],
+    "answer": 2,
+    "explanation": "Gunakan rumus n(n+1)/2=36×37/2=666."
+  },
+  {
+    "id": "NUM-0401",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 420 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "315.0",
+      "393.75",
+      "525.0",
+      "420"
+    ],
+    "answer": 1,
+    "explanation": "420×1.25×0.75=393.75."
+  },
+  {
+    "id": "NUM-0402",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 170 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "127.5",
+      "170",
+      "212.5",
+      "159.375"
+    ],
+    "answer": 3,
+    "explanation": "170×1.25×0.75=159.375."
+  },
+  {
+    "id": "NUM-0403",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 100 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "90.0",
+      "100",
+      "110.00000000000001",
+      "99.00000000000001"
+    ],
+    "answer": 3,
+    "explanation": "100×1.1×0.9=99.00000000000001."
+  },
+  {
+    "id": "NUM-0404",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 770 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "721.875",
+      "770",
+      "962.5",
+      "577.5"
+    ],
+    "answer": 0,
+    "explanation": "770×1.25×0.75=721.875."
+  },
+  {
+    "id": "NUM-0405",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 110 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "132.0",
+      "88.0",
+      "110",
+      "105.60000000000001"
+    ],
+    "answer": 3,
+    "explanation": "110×1.2×0.8=105.60000000000001."
+  },
+  {
+    "id": "NUM-0406",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 360 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "432.0",
+      "288.0",
+      "345.6",
+      "360"
+    ],
+    "answer": 2,
+    "explanation": "360×1.2×0.8=345.6."
+  },
+  {
+    "id": "NUM-0407",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 680 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "544.0",
+      "652.8000000000001",
+      "680",
+      "816.0"
+    ],
+    "answer": 1,
+    "explanation": "680×1.2×0.8=652.8000000000001."
+  },
+  {
+    "id": "NUM-0408",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 430 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "344.0",
+      "412.8",
+      "516.0",
+      "430"
+    ],
+    "answer": 1,
+    "explanation": "430×1.2×0.8=412.8."
+  },
+  {
+    "id": "NUM-0409",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 220 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "206.25",
+      "220",
+      "275.0",
+      "165.0"
+    ],
+    "answer": 0,
+    "explanation": "220×1.25×0.75=206.25."
+  },
+  {
+    "id": "NUM-0410",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 200 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "200",
+      "180.0",
+      "220.00000000000003",
+      "198.00000000000003"
+    ],
+    "answer": 3,
+    "explanation": "200×1.1×0.9=198.00000000000003."
+  },
+  {
+    "id": "NUM-0411",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 200 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "180.0",
+      "200",
+      "198.00000000000003",
+      "220.00000000000003"
+    ],
+    "answer": 2,
+    "explanation": "200×1.1×0.9=198.00000000000003."
+  },
+  {
+    "id": "NUM-0412",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 100 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "125.0",
+      "100",
+      "75.0",
+      "93.75"
+    ],
+    "answer": 3,
+    "explanation": "100×1.25×0.75=93.75."
+  },
+  {
+    "id": "NUM-0413",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 910 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "900.9000000000001",
+      "910",
+      "819.0",
+      "1001.0000000000001"
+    ],
+    "answer": 0,
+    "explanation": "910×1.1×0.9=900.9000000000001."
+  },
+  {
+    "id": "NUM-0414",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 110 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "108.90000000000002",
+      "121.00000000000001",
+      "110",
+      "99.0"
+    ],
+    "answer": 0,
+    "explanation": "110×1.1×0.9=108.90000000000002."
+  },
+  {
+    "id": "NUM-0415",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 150 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "180.0",
+      "120.0",
+      "144.0",
+      "150"
+    ],
+    "answer": 2,
+    "explanation": "150×1.2×0.8=144.0."
+  },
+  {
+    "id": "NUM-0416",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 740 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "1110.0",
+      "555.0",
+      "370.0",
+      "740"
+    ],
+    "answer": 1,
+    "explanation": "740×1.5×0.5=555.0."
+  },
+  {
+    "id": "NUM-0417",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 340 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "170.0",
+      "255.0",
+      "340",
+      "510.0"
+    ],
+    "answer": 1,
+    "explanation": "340×1.5×0.5=255.0."
+  },
+  {
+    "id": "NUM-0418",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 300 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "300",
+      "270.0",
+      "297.0",
+      "330.0"
+    ],
+    "answer": 2,
+    "explanation": "300×1.1×0.9=297.0."
+  },
+  {
+    "id": "NUM-0419",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 480 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "360.0",
+      "240.0",
+      "480",
+      "720.0"
+    ],
+    "answer": 0,
+    "explanation": "480×1.5×0.5=360.0."
+  },
+  {
+    "id": "NUM-0420",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 900 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "900",
+      "675.0",
+      "450.0",
+      "1350.0"
+    ],
+    "answer": 1,
+    "explanation": "900×1.5×0.5=675.0."
+  },
+  {
+    "id": "NUM-0421",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 910 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "1001.0000000000001",
+      "910",
+      "819.0",
+      "900.9000000000001"
+    ],
+    "answer": 3,
+    "explanation": "910×1.1×0.9=900.9000000000001."
+  },
+  {
+    "id": "NUM-0422",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 950 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "940.5",
+      "950",
+      "855.0",
+      "1045.0"
+    ],
+    "answer": 0,
+    "explanation": "950×1.1×0.9=940.5."
+  },
+  {
+    "id": "NUM-0423",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 520 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "520",
+      "468.0",
+      "514.8000000000001",
+      "572.0"
+    ],
+    "answer": 2,
+    "explanation": "520×1.1×0.9=514.8000000000001."
+  },
+  {
+    "id": "NUM-0424",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 370 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "277.5",
+      "462.5",
+      "370",
+      "346.875"
+    ],
+    "answer": 3,
+    "explanation": "370×1.25×0.75=346.875."
+  },
+  {
+    "id": "NUM-0425",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 510 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "765.0",
+      "510",
+      "382.5",
+      "255.0"
+    ],
+    "answer": 2,
+    "explanation": "510×1.5×0.5=382.5."
+  },
+  {
+    "id": "NUM-0426",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 200 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "100.0",
+      "300.0",
+      "150.0",
+      "200"
+    ],
+    "answer": 2,
+    "explanation": "200×1.5×0.5=150.0."
+  },
+  {
+    "id": "NUM-0427",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 100 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "75.0",
+      "50.0",
+      "150.0",
+      "100"
+    ],
+    "answer": 0,
+    "explanation": "100×1.5×0.5=75.0."
+  },
+  {
+    "id": "NUM-0428",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 190 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "171.0",
+      "188.10000000000002",
+      "190",
+      "209.00000000000003"
+    ],
+    "answer": 1,
+    "explanation": "190×1.1×0.9=188.10000000000002."
+  },
+  {
+    "id": "NUM-0429",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 590 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "590",
+      "442.5",
+      "737.5",
+      "553.125"
+    ],
+    "answer": 3,
+    "explanation": "590×1.25×0.75=553.125."
+  },
+  {
+    "id": "NUM-0430",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 140 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "70.0",
+      "140",
+      "210.0",
+      "105.0"
+    ],
+    "answer": 3,
+    "explanation": "140×1.5×0.5=105.0."
+  },
+  {
+    "id": "NUM-0431",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 460 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "460",
+      "230.0",
+      "345.0",
+      "690.0"
+    ],
+    "answer": 2,
+    "explanation": "460×1.5×0.5=345.0."
+  },
+  {
+    "id": "NUM-0432",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 910 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "455.0",
+      "682.5",
+      "910",
+      "1365.0"
+    ],
+    "answer": 1,
+    "explanation": "910×1.5×0.5=682.5."
+  },
+  {
+    "id": "NUM-0433",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 510 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "504.90000000000003",
+      "510",
+      "459.0",
+      "561.0"
+    ],
+    "answer": 0,
+    "explanation": "510×1.1×0.9=504.90000000000003."
+  },
+  {
+    "id": "NUM-0434",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 240 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "240",
+      "300.0",
+      "225.0",
+      "180.0"
+    ],
+    "answer": 2,
+    "explanation": "240×1.25×0.75=225.0."
+  },
+  {
+    "id": "NUM-0435",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 510 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "510",
+      "382.5",
+      "637.5",
+      "478.125"
+    ],
+    "answer": 3,
+    "explanation": "510×1.25×0.75=478.125."
+  },
+  {
+    "id": "NUM-0436",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 590 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "590",
+      "553.125",
+      "737.5",
+      "442.5"
+    ],
+    "answer": 1,
+    "explanation": "590×1.25×0.75=553.125."
+  },
+  {
+    "id": "NUM-0437",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 310 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "248.0",
+      "310",
+      "372.0",
+      "297.6"
+    ],
+    "answer": 3,
+    "explanation": "310×1.2×0.8=297.6."
+  },
+  {
+    "id": "NUM-0438",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 220 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "330.0",
+      "110.0",
+      "220",
+      "165.0"
+    ],
+    "answer": 3,
+    "explanation": "220×1.5×0.5=165.0."
+  },
+  {
+    "id": "NUM-0439",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 400 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "300.0",
+      "600.0",
+      "200.0",
+      "400"
+    ],
+    "answer": 0,
+    "explanation": "400×1.5×0.5=300.0."
+  },
+  {
+    "id": "NUM-0440",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 240 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "300.0",
+      "225.0",
+      "240",
+      "180.0"
+    ],
+    "answer": 1,
+    "explanation": "240×1.25×0.75=225.0."
+  },
+  {
+    "id": "NUM-0441",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 310 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "279.0",
+      "306.90000000000003",
+      "341.0",
+      "310"
+    ],
+    "answer": 1,
+    "explanation": "310×1.1×0.9=306.90000000000003."
+  },
+  {
+    "id": "NUM-0442",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 610 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "610",
+      "571.875",
+      "762.5",
+      "457.5"
+    ],
+    "answer": 1,
+    "explanation": "610×1.25×0.75=571.875."
+  },
+  {
+    "id": "NUM-0443",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 360 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "180.0",
+      "270.0",
+      "540.0",
+      "360"
+    ],
+    "answer": 1,
+    "explanation": "360×1.5×0.5=270.0."
+  },
+  {
+    "id": "NUM-0444",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 420 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "462.00000000000006",
+      "378.0",
+      "415.80000000000007",
+      "420"
+    ],
+    "answer": 2,
+    "explanation": "420×1.1×0.9=415.80000000000007."
+  },
+  {
+    "id": "NUM-0445",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 140 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "140",
+      "168.0",
+      "112.0",
+      "134.4"
+    ],
+    "answer": 3,
+    "explanation": "140×1.2×0.8=134.4."
+  },
+  {
+    "id": "NUM-0446",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 980 naik 25% lalu turun 25%. Nilai akhirnya adalah ...",
+    "options": [
+      "980",
+      "1225.0",
+      "918.75",
+      "735.0"
+    ],
+    "answer": 2,
+    "explanation": "980×1.25×0.75=918.75."
+  },
+  {
+    "id": "NUM-0447",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 4,
+    "question": "Suatu nilai 750 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "375.0",
+      "750",
+      "562.5",
+      "1125.0"
+    ],
+    "answer": 2,
+    "explanation": "750×1.5×0.5=562.5."
+  },
+  {
+    "id": "NUM-0448",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 5,
+    "question": "Suatu nilai 570 naik 50% lalu turun 50%. Nilai akhirnya adalah ...",
+    "options": [
+      "570",
+      "855.0",
+      "285.0",
+      "427.5"
+    ],
+    "answer": 3,
+    "explanation": "570×1.5×0.5=427.5."
+  },
+  {
+    "id": "NUM-0449",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 2,
+    "question": "Suatu nilai 560 naik 10% lalu turun 10%. Nilai akhirnya adalah ...",
+    "options": [
+      "616.0",
+      "554.4",
+      "504.0",
+      "560"
+    ],
+    "answer": 1,
+    "explanation": "560×1.1×0.9=554.4."
+  },
+  {
+    "id": "NUM-0450",
+    "category": "Penalaran Numerik",
+    "topic": "Persentase",
+    "level": 3,
+    "question": "Suatu nilai 710 naik 20% lalu turun 20%. Nilai akhirnya adalah ...",
+    "options": [
+      "568.0",
+      "852.0",
+      "710",
+      "681.6"
+    ],
+    "answer": 3,
+    "explanation": "710×1.2×0.8=681.6."
+  },
+  {
+    "id": "NUM-0451",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 8 dan beda 10. Suku ke-6 adalah ...",
+    "options": [
+      "48",
+      "58",
+      "59",
+      "68"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=8+(6−1)10=58."
+  },
+  {
+    "id": "NUM-0452",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 4 dan beda 6. Suku ke-20 adalah ...",
+    "options": [
+      "112",
+      "118",
+      "124",
+      "119"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=4+(20−1)6=118."
+  },
+  {
+    "id": "NUM-0453",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 6 dan beda 4. Suku ke-16 adalah ...",
+    "options": [
+      "62",
+      "67",
+      "70",
+      "66"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=6+(16−1)4=66."
+  },
+  {
+    "id": "NUM-0454",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 1 dan beda 10. Suku ke-18 adalah ...",
+    "options": [
+      "181",
+      "161",
+      "172",
+      "171"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=1+(18−1)10=171."
+  },
+  {
+    "id": "NUM-0455",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 4. Suku ke-10 adalah ...",
+    "options": [
+      "39",
+      "34",
+      "38",
+      "42"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=2+(10−1)4=38."
+  },
+  {
+    "id": "NUM-0456",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 1 dan beda 4. Suku ke-10 adalah ...",
+    "options": [
+      "41",
+      "33",
+      "38",
+      "37"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=1+(10−1)4=37."
+  },
+  {
+    "id": "NUM-0457",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 3. Suku ke-13 adalah ...",
+    "options": [
+      "38",
+      "41",
+      "35",
+      "39"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=2+(13−1)3=38."
+  },
+  {
+    "id": "NUM-0458",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 10. Suku ke-20 adalah ...",
+    "options": [
+      "192",
+      "193",
+      "202",
+      "182"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=2+(20−1)10=192."
+  },
+  {
+    "id": "NUM-0459",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 9. Suku ke-19 adalah ...",
+    "options": [
+      "155",
+      "165",
+      "164",
+      "173"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=2+(19−1)9=164."
+  },
+  {
+    "id": "NUM-0460",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 9 dan beda 3. Suku ke-10 adalah ...",
+    "options": [
+      "33",
+      "37",
+      "39",
+      "36"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=9+(10−1)3=36."
+  },
+  {
+    "id": "NUM-0461",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 10 dan beda 8. Suku ke-11 adalah ...",
+    "options": [
+      "98",
+      "82",
+      "90",
+      "91"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=10+(11−1)8=90."
+  },
+  {
+    "id": "NUM-0462",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 1 dan beda 7. Suku ke-11 adalah ...",
+    "options": [
+      "64",
+      "71",
+      "78",
+      "72"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=1+(11−1)7=71."
+  },
+  {
+    "id": "NUM-0463",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 10. Suku ke-17 adalah ...",
+    "options": [
+      "163",
+      "152",
+      "162",
+      "172"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=2+(17−1)10=162."
+  },
+  {
+    "id": "NUM-0464",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 4 dan beda 2. Suku ke-14 adalah ...",
+    "options": [
+      "32",
+      "31",
+      "28",
+      "30"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=4+(14−1)2=30."
+  },
+  {
+    "id": "NUM-0465",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 8 dan beda 7. Suku ke-16 adalah ...",
+    "options": [
+      "113",
+      "120",
+      "106",
+      "114"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=8+(16−1)7=113."
+  },
+  {
+    "id": "NUM-0466",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 9 dan beda 5. Suku ke-20 adalah ...",
+    "options": [
+      "105",
+      "109",
+      "99",
+      "104"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=9+(20−1)5=104."
+  },
+  {
+    "id": "NUM-0467",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 3 dan beda 4. Suku ke-17 adalah ...",
+    "options": [
+      "71",
+      "67",
+      "68",
+      "63"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=3+(17−1)4=67."
+  },
+  {
+    "id": "NUM-0468",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 3 dan beda 10. Suku ke-17 adalah ...",
+    "options": [
+      "173",
+      "164",
+      "153",
+      "163"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=3+(17−1)10=163."
+  },
+  {
+    "id": "NUM-0469",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 4. Suku ke-18 adalah ...",
+    "options": [
+      "69",
+      "77",
+      "74",
+      "73"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=5+(18−1)4=73."
+  },
+  {
+    "id": "NUM-0470",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 6 dan beda 10. Suku ke-15 adalah ...",
+    "options": [
+      "147",
+      "146",
+      "136",
+      "156"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=6+(15−1)10=146."
+  },
+  {
+    "id": "NUM-0471",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 10. Suku ke-16 adalah ...",
+    "options": [
+      "145",
+      "156",
+      "165",
+      "155"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=5+(16−1)10=155."
+  },
+  {
+    "id": "NUM-0472",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 4 dan beda 6. Suku ke-19 adalah ...",
+    "options": [
+      "113",
+      "112",
+      "106",
+      "118"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=4+(19−1)6=112."
+  },
+  {
+    "id": "NUM-0473",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 6 dan beda 2. Suku ke-19 adalah ...",
+    "options": [
+      "40",
+      "44",
+      "42",
+      "43"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=6+(19−1)2=42."
+  },
+  {
+    "id": "NUM-0474",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 2. Suku ke-7 adalah ...",
+    "options": [
+      "16",
+      "15",
+      "14",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=2+(7−1)2=14."
+  },
+  {
+    "id": "NUM-0475",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 5. Suku ke-11 adalah ...",
+    "options": [
+      "55",
+      "50",
+      "60",
+      "56"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=5+(11−1)5=55."
+  },
+  {
+    "id": "NUM-0476",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 3. Suku ke-6 adalah ...",
+    "options": [
+      "14",
+      "18",
+      "20",
+      "17"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=2+(6−1)3=17."
+  },
+  {
+    "id": "NUM-0477",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 7 dan beda 6. Suku ke-10 adalah ...",
+    "options": [
+      "67",
+      "61",
+      "62",
+      "55"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=7+(10−1)6=61."
+  },
+  {
+    "id": "NUM-0478",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 5. Suku ke-19 adalah ...",
+    "options": [
+      "97",
+      "93",
+      "92",
+      "87"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=2+(19−1)5=92."
+  },
+  {
+    "id": "NUM-0479",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 7 dan beda 4. Suku ke-17 adalah ...",
+    "options": [
+      "67",
+      "72",
+      "71",
+      "75"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=7+(17−1)4=71."
+  },
+  {
+    "id": "NUM-0480",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 9 dan beda 6. Suku ke-11 adalah ...",
+    "options": [
+      "70",
+      "63",
+      "75",
+      "69"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=9+(11−1)6=69."
+  },
+  {
+    "id": "NUM-0481",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 10. Suku ke-15 adalah ...",
+    "options": [
+      "155",
+      "146",
+      "135",
+      "145"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=5+(15−1)10=145."
+  },
+  {
+    "id": "NUM-0482",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 10 dan beda 10. Suku ke-11 adalah ...",
+    "options": [
+      "111",
+      "120",
+      "110",
+      "100"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=10+(11−1)10=110."
+  },
+  {
+    "id": "NUM-0483",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 10. Suku ke-15 adalah ...",
+    "options": [
+      "145",
+      "135",
+      "155",
+      "146"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=5+(15−1)10=145."
+  },
+  {
+    "id": "NUM-0484",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 6 dan beda 2. Suku ke-9 adalah ...",
+    "options": [
+      "23",
+      "22",
+      "24",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=6+(9−1)2=22."
+  },
+  {
+    "id": "NUM-0485",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 3 dan beda 9. Suku ke-8 adalah ...",
+    "options": [
+      "67",
+      "57",
+      "66",
+      "75"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=3+(8−1)9=66."
+  },
+  {
+    "id": "NUM-0486",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 3 dan beda 2. Suku ke-10 adalah ...",
+    "options": [
+      "23",
+      "22",
+      "19",
+      "21"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=3+(10−1)2=21."
+  },
+  {
+    "id": "NUM-0487",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 2 dan beda 10. Suku ke-14 adalah ...",
+    "options": [
+      "132",
+      "142",
+      "122",
+      "133"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=2+(14−1)10=132."
+  },
+  {
+    "id": "NUM-0488",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 6 dan beda 5. Suku ke-20 adalah ...",
+    "options": [
+      "96",
+      "101",
+      "102",
+      "106"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=6+(20−1)5=101."
+  },
+  {
+    "id": "NUM-0489",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 3 dan beda 4. Suku ke-7 adalah ...",
+    "options": [
+      "28",
+      "23",
+      "31",
+      "27"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=3+(7−1)4=27."
+  },
+  {
+    "id": "NUM-0490",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 7 dan beda 5. Suku ke-14 adalah ...",
+    "options": [
+      "73",
+      "72",
+      "67",
+      "77"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=7+(14−1)5=72."
+  },
+  {
+    "id": "NUM-0491",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 7 dan beda 4. Suku ke-8 adalah ...",
+    "options": [
+      "31",
+      "35",
+      "39",
+      "36"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=7+(8−1)4=35."
+  },
+  {
+    "id": "NUM-0492",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 8 dan beda 3. Suku ke-18 adalah ...",
+    "options": [
+      "62",
+      "60",
+      "56",
+      "59"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=8+(18−1)3=59."
+  },
+  {
+    "id": "NUM-0493",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 9 dan beda 4. Suku ke-17 adalah ...",
+    "options": [
+      "74",
+      "69",
+      "77",
+      "73"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=9+(17−1)4=73."
+  },
+  {
+    "id": "NUM-0494",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 8 dan beda 6. Suku ke-12 adalah ...",
+    "options": [
+      "68",
+      "75",
+      "74",
+      "80"
+    ],
+    "answer": 2,
+    "explanation": "Uₙ=a+(n−1)d=8+(12−1)6=74."
+  },
+  {
+    "id": "NUM-0495",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 10 dan beda 7. Suku ke-9 adalah ...",
+    "options": [
+      "59",
+      "67",
+      "73",
+      "66"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=10+(9−1)7=66."
+  },
+  {
+    "id": "NUM-0496",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 5 dan beda 6. Suku ke-13 adalah ...",
+    "options": [
+      "77",
+      "78",
+      "71",
+      "83"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=5+(13−1)6=77."
+  },
+  {
+    "id": "NUM-0497",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 5,
+    "question": "Barisan aritmetika memiliki suku pertama 1 dan beda 7. Suku ke-17 adalah ...",
+    "options": [
+      "114",
+      "106",
+      "120",
+      "113"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=1+(17−1)7=113."
+  },
+  {
+    "id": "NUM-0498",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 2,
+    "question": "Barisan aritmetika memiliki suku pertama 10 dan beda 2. Suku ke-13 adalah ...",
+    "options": [
+      "34",
+      "35",
+      "36",
+      "32"
+    ],
+    "answer": 0,
+    "explanation": "Uₙ=a+(n−1)d=10+(13−1)2=34."
+  },
+  {
+    "id": "NUM-0499",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 3,
+    "question": "Barisan aritmetika memiliki suku pertama 9 dan beda 4. Suku ke-10 adalah ...",
+    "options": [
+      "41",
+      "45",
+      "49",
+      "46"
+    ],
+    "answer": 1,
+    "explanation": "Uₙ=a+(n−1)d=9+(10−1)4=45."
+  },
+  {
+    "id": "NUM-0500",
+    "category": "Penalaran Numerik",
+    "topic": "Barisan",
+    "level": 4,
+    "question": "Barisan aritmetika memiliki suku pertama 4 dan beda 7. Suku ke-19 adalah ...",
+    "options": [
+      "137",
+      "123",
+      "131",
+      "130"
+    ],
+    "answer": 3,
+    "explanation": "Uₙ=a+(n−1)d=4+(19−1)7=130."
+  }
+]
